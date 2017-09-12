@@ -2,8 +2,8 @@
 body {
 	font-family: sans-serif;
 	font-size: 90%;
-	%background-color: #555;
-	background-color: white;
+	%background-color: #FEF4FF;
+	background-color: #FEF4FF;
 }
 
 a {
@@ -14,8 +14,8 @@ h1 {
   font-size: 2.9em;
 	$color: #333;
 	color:#333;
-	%background-color: #E0E3E7;
-	background-color: white;
+	%background-color: #FEF4FF;
+	background-color: #FEF4FF;
 	%display: inline;
 	padding-bottom:0px;
 }
@@ -46,25 +46,25 @@ margin-bottom: 3px
 
 
 #wrap {
-	width: 750px;
+	width: 800px;
 	margin: 0 auto;
-	background-color: #fff;
+	background-color: #FEF4FF;
 }
 
 #aboveheader {
-  %background-color: #555;
-  background-color: white;
+  %background-color: #FEF4FF;
+  background-color: #FEF4FF;
   display: block;
   height: 0px;
   position: fixed;
   top: 0px;
-  width: 750px;
+  width: 800px;
 }
 
 #header {
-	width: 750px;
+	width: 800px;
 	%background-color: #E0E3E7;
-	background-color: white;
+	background-color: #FEF4FF;
 	display: block;
 	height:85px;
 	margin: 0 auto;
@@ -124,8 +124,7 @@ margin-bottom: 3px
 	margin: 0 0 3em 0;
 	padding: 0;
 	list-style: none;
-	%background-color: #828793; %#979EAC;% #f2f2f2;
-	background-color: white;
+	background-color: #FEF4FF;
 	%border-bottom: 1px solid #ccc;
 	border-bottom: 0px solid #ccc;
 	%border-top: 1px solid #ccc;
@@ -237,7 +236,7 @@ width:200px;
   display:block;
   width:120px;
   font-weight:bold;
-  color:#FFFFFF;
+  color:#FEF4FF;
   background-color:#98bf21;
   text-align:center;
   padding:4px;
