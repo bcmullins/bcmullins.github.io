@@ -2,8 +2,8 @@
 body {
 	font-family: sans-serif;
 	font-size: 90%;
-	%background-color: #FEFFF1;
-	background-color: #FEFFF1;
+	%background-color: #FFFFFF;
+	background-color: #FFFFFF;
 }
 
 a {
@@ -14,8 +14,8 @@ h1 {
   font-size: 2.9em;
 	$color: #333;
 	color:#333;
-	%background-color: #FEFFF1;
-	background-color: #FEFFF1;
+	%background-color: #FFFFFF;
+	background-color: #FFFFFF;
 	%display: inline;
 	padding-bottom:0px;
 }
@@ -48,12 +48,12 @@ margin-bottom: 3px
 #wrap {
 	width: 800px;
 	margin: 0 auto;
-	background-color: #FEFFF1;
+	background-color: #FFFFFF;
 }
 
 #aboveheader {
-  %background-color: #FEFFF1;
-  background-color: #FEFFF1;
+  %background-color: #FFFFFF;
+  background-color: #FFFFFF;
   display: block;
   height: 0px;
   position: fixed;
@@ -63,8 +63,8 @@ margin-bottom: 3px
 
 #header {
 	width: 800px;
-	%background-color: #E0E3E7;
-	background-color: #FEFFF1;
+	%background-color: #FFFFFF;
+	background-color: #FFFFFF;
 	display: block;
 	height:85px;
 	margin: 0 auto;
@@ -124,7 +124,7 @@ margin-bottom: 3px
 	margin: 0 0 3em 0;
 	padding: 0;
 	list-style: none;
-	background-color: #FEFFF1;
+	background-color: #FFFFFF;
 	%border-bottom: 1px solid #ccc;
 	border-bottom: 0px solid #ccc;
 	%border-top: 1px solid #ccc;
@@ -236,7 +236,7 @@ width:200px;
   display:block;
   width:120px;
   font-weight:bold;
-  color:#FEFFF1;
+  color:#FFFFFF;
   background-color:#98bf21;
   text-align:center;
   padding:4px;
