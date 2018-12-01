@@ -13,6 +13,8 @@ permalink: /links/
 
 [A Fine Theorem](https://afinetheorem.wordpress.com)
 
+[Fermat's Library](https://fermatslibrary.com/journal_club)
+
 ### Podcasts I Listen To
 
 [Philosophize This!](http://philosophizethis.org)

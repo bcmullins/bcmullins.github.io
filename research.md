@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
 
-## Multidimensional Income Mobility
+## Multi-period Income Mobility
 
 Historically, income mobility is measured as some function of the change in income between two time periods for some population. Recently, approaches have been developed that take advantage of multi-period data. This project aims to study and develop higher-dimensional analogues of mobility indices in two time periods that are robust to measurement error and statistical noise.
 
@@ -20,10 +20,10 @@ This project aims to bring the recent work of Diestel and collaborators on the t
 
 A draft of initial results is [here](/images/infinitism.pdf).
 
-## Formal Ethics and Cold War Rationality
+## Machine Learning without Numbers
 
-To what extent does the work of moral philosophers in the 1960s-1980s such as David Gauthier and John Rawls fit into the Cold War Rationality Research Program?
+In the past decade, many advances were made in understanding how the topological properties of observable data affects the prospects for learning or solving a particular question, e.g., a classification procedure. This paper surveys topological learning theory with an emphasis on exposition and examples.
 
-## What is fidelity anyway? Reflections on Post-Hoc Prediction Explanations
+___
 
-Much of the model interpretation literature is focused on post-hoc or after-the-fact explanations of particular predictions from an arbitrary model and what properties these explanations ought to have. If we conceive of model explanations as models themselves, then we may have black-box (not interpretable) explanations of white-box (intrepretable) models and vice versa. This project investigates the interplay between white-boxes, black-boxes, and the hierarchy of best explanations from the perspective of interpreting predictions from machine learning models.
+Updated: 12/18
