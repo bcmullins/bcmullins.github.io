@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-15T21:48:15-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Articles I’ve Read in 2018</title><link href="http://localhost:4000/Top-Articles-2018/" rel="alternate" type="text/html" title="Top Articles I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2018</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2018/">&lt;p&gt;Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-16T13:57:50-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Articles I’ve Read in 2018</title><link href="http://localhost:4000/Top-Articles-2018/" rel="alternate" type="text/html" title="Top Articles I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2018</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2018/">&lt;p&gt;Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.&lt;/p&gt;
 
 &lt;p&gt;For my top books that I’ve read in 2018, &lt;a href=&quot;/Top-Books-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 
@@ -13,7 +13,7 @@
 
 &lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1007/978-1-4612-4808-8&quot;&gt;10.1007/978-1-4612-4808-8&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This short note describes a solution to the two-card variant of a game called Googol. In this variant of the game, Player 1 writes down two distinct rational numbers $x_1, x_2$ and Player 2 guesses which of the two is larger after seeing the first number $x_1$. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Principle_of_indifference&quot;&gt;principle of indifference&lt;/a&gt; gives a probability of success of one half by random guessing. The paper offers a strictly better solution. Pick a threshold $T$ with density $f(t)$ where $f(t)$ has support on the reals, e.g., the standard normal distribution. If $x_1 &amp;lt; T$, then say $x_2$ is larger and vice versa. Since there is a non-zero probability that $T$ is between $x_1$ and $x_2$, this strategy strictly dominates random guessing.&lt;/p&gt;
+&lt;p&gt;This short note describes a solution to the two-card variant of a game called Googol. In this variant of the game, Player 1 writes down two distinct rational numbers $x_1, x_2$ and Player 2 guesses which of the two is larger after seeing the first number $x_1$. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Principle_of_indifference&quot;&gt;principle of indifference&lt;/a&gt; gives a probability of success of one half by random guessing. The paper offers a strictly better solution. Pick a threshold $T$ from density $f(t)$ where $f(t)$ has support on the reals, e.g., the standard normal distribution. If $x_1 &amp;lt; T$, then say $x_2$ is larger and vice versa. Since there is a non-zero probability that $T$ is between $x_1$ and $x_2$, this strategy strictly dominates random guessing.&lt;/p&gt;
 
 &lt;p&gt;On a first reading, this is an unexpected result that took a bit to wrap my mind around. Note that this conclusion does not violate the principle of indifference since Player 2 is not in a state of ignorance; they have observed the value of $x_1$. What makes this problem interesting is that $x_2$ does not depend on the value of $x_1$ so knowing $x_1$ seems irrelevant to determining the size of $x_2$.&lt;/p&gt;
 
@@ -89,9 +89,7 @@
 
 &lt;p&gt;One prominent criticism addressed is that this leads to algorithmic decision making that is divorced from the human element. This is true is two respects: 1. the reasoning may be too complex for the patient to understand; 2. the individual practitioner’s influence is greatly reduced.&lt;/p&gt;
 
-&lt;!---
-TODO: Add paragraph connecting EBM with data science
----&gt;
+&lt;p&gt;I found this paper particularly interesting given that there’s an close analogy between EBM and data science that would have not been apparent prior to working in industry.&lt;/p&gt;
 
 &lt;p&gt;This paper was featured in the EBM column of an issue of &lt;a href=&quot;http://www.thereasoner.org&quot;&gt;The Reasoner&lt;/a&gt;.&lt;/p&gt;
 
@@ -106,7 +104,15 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;Link: &lt;a href=&quot;https://arxiv.org/abs/1611.03530&quot;&gt;arxiv.org/abs/1611.03530&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;In this paper, the authors present a set of results related to the meaning of generalization with reference to deep learning models. They show the capacity for standard architectures to memorize random training labels. They explore how different regularization techniques affect test set performance. It’s an interesting paper without a coherent message other than “we don’t know what causes models to generalize.”&lt;/p&gt;
+&lt;p&gt;In this paper, the authors present empirical and theoretical results on generalization error and the capacity for memorization in deep learning models, specifically with convolutional neural networks (CNN). CNN architectures exist that achieve near-perfect performance on standard image datasets, e.g. CIFAR10, with low generalization error. The authors found that by randomly permuting the image labels, the same architectures produce models with near-perfect accuracy on the training data but, correspondingly, a high generalization error. They summarize their finding as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Deep neural networks easily fit random labels.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To put this result into context, the authors explore how different regularization techniques, e.g., dropout, weight decay, etc., affect generalization error. The conclusion is along the lines of &lt;em&gt;we don’t know what causes neural networks to generalize well.&lt;/em&gt; I do want to emphasize that while I found this paper interesting, readable, and helpful to understanding deep learning models, it may have received more hype from the ML community than it deserves.&lt;/p&gt;
+
+&lt;p&gt;I crossed paths with this paper while browsing &lt;a href=&quot;https://blog.acolyer.org&quot;&gt;the morning paper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;stuck-the-law-and-economics-of-residential-stability&quot;&gt;Stuck! The Law and Economics of Residential Stability&lt;/h2&gt;
 &lt;hr /&gt;
@@ -119,9 +125,17 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;Link: &lt;a href=&quot;https://www.yalelawjournal.org/article/stuck-the-law-and-economics-of-residential-stagnation&quot;&gt;https://www.yalelawjournal.org/article/stuck-the-law-and-economics-of-residential-stagnation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This article discusses laws that impede geographic mobility across states and offers solutions to lessen this impediment. This problem is diagnosed in three phases: the factors affecting inflows and outflows, when cities are too big, and when local governments are too big.&lt;/p&gt;
+&lt;p&gt;This article discusses the phenomena of declining interstate mobility and some of its potential causes and effects. To summarize the decline:&lt;/p&gt;
 
-&lt;p&gt;This is a wonderful article and was mentioned in the further reading of the JEP.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Americans are not leaving places hit by economic crises, resulting in unemployment rates and low wages that linger in these areas for decades. And people are not moving to rich regions where the highest wages are available.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The author examines the state and local policies that affect interstate mobility both those that impede entering a new state, e.g., differential licensure requirements, and those that impede leaving one’s current state, e.g., encouraging homeownership through the mortgage interest deduction and other subsidies. One effect discussed extensively of the sluggish labor market resulting from decreased interstate mobility is the decreased effectiveness of federal macroeconomic policy. Consider two neighboring states where one state is booming while the other busts but there is little population movement between the states. In this case, there may not be a uniform monetary policy beneficial to both states.&lt;/p&gt;
+
+&lt;p&gt;This article is interesting primarily as a dip of one’s toes into the depths of economic mobility.&lt;/p&gt;
+
+&lt;p&gt;I came across this article in the Further Reading from the &lt;a href=&quot;https://www.aeaweb.org/journals/jep&quot;&gt;Journal of Economic Perspectives&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;top5itis&quot;&gt;TOP5ITIS&lt;/h2&gt;
 &lt;hr /&gt;
@@ -132,7 +146,11 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;Link: &lt;a href=&quot;http://www.econ.brown.edu/Faculty/serrano/pdfs/wp2018-2-Top5itis.pdf&quot;&gt;www.econ.brown.edu/Faculty/serrano/pdfs/wp2018-2-Top5itis.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This paper is a hilarious poke at the Top5 economics journals and the recent discussions of them at the AEA meetings. 10/10&lt;/p&gt;
+&lt;p&gt;This paper is a commical commentary on both the academic economists’ infatuation with the &lt;em&gt;Top5&lt;/em&gt; economics journals and the recent discussions of them at the AEA meetings. The author charges the practice of focusing primairly on &lt;em&gt;Top5&lt;/em&gt; publications as arbitrary gatekeeping that potentially stifles innovation that is not clearly a good measure of either one’s performance as an academic or one’s expertise in a topic. A sample of the goodness:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Since the disease is a simple application of the counting measure (typically a person learns to count in primary school), through a process of contagion, top5itis spreads quickly to affect people outside economics, including schoolchildren offspring of economists who get together in the playground to make disparaging remarks about each other’s parents.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;learning-is-a-risky-business&quot;&gt;Learning is a Risky Business&lt;/h2&gt;
 &lt;hr /&gt;
@@ -145,7 +163,9 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1007/s10670-018-9972-0&quot;&gt;10.1007/s10670-018-9972-0&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The author attacks Richard Pettigrew’s accuracy based argument for the Principle of Indifference. He does this by considering introducing time into the partitioning of the state space. Simply put: consider a year where each day either phi or not-phi. Then there are 2^356 possible histories. The Principle of indifference assigns equal probability to each. But this implies that each day is independent of prior days, i.e., one does not learn from experience.&lt;/p&gt;
+&lt;p&gt;This paper advances an argument against the &lt;a href=&quot;https://en.wikipedia.org/wiki/Principle_of_indifference&quot;&gt;principle of indifference&lt;/a&gt;. Roughly, the principle of indifference says that absent evidence to the contrary one should assign equal probability to each possible state of the world. The author’s argument proceeds by introducing time into the partitioning of the state space. Simply put: consider a year where each day either $\phi$ or $\neg \phi$. Then there are $2^{365}$ possible histories. The principle of indifference assigns equal probability to each; however, this implies that the assessment of probabilities on each day is independent of what happened on prior days, i.e., one does not learn from experience.&lt;/p&gt;
+
+&lt;p&gt;It’s a compelling argument that may require the notion of &lt;em&gt;learn&lt;/em&gt; to be tightened up. Also: the paper’s leading example involves a SuperBaby.&lt;/p&gt;
 
 &lt;h2 id=&quot;anchors-high-precision-model-agnostic-explanations&quot;&gt;Anchors: High-Precision Model-Agnostic Explanations&lt;/h2&gt;
 &lt;hr /&gt;
@@ -160,7 +180,9 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;Link: &lt;a href=&quot;https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982&quot;&gt;https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This paper introduces an approach to prediction explanation called anchors as a refinement of the LIME model. This is a refinement due to it not being clear how much a post-hoc prediction of a point generalizes while anchors provide a clear measure of coverage. An anchor is a point in the space where the prediction holds with high probability. Note that at present the anchor approach only works with binary classification models.&lt;/p&gt;
+&lt;p&gt;This paper introduces an approach to prediction explanation called anchors as a refinement of the LIME approach. With LIME, model behavior is assessed by sampling points around the observation of interest and building an interpretable model on the sampled data to find out which variables are driving the prediction. More on LIME &lt;a href=&quot;https://homes.cs.washington.edu/~marcotcr/blog/lime/&quot;&gt;here&lt;/a&gt;. One difficulty with building local models for post-hoc prediction is that it is not clear how far out from the observation of interest that the local model generalizes. This concern is addressed by introducing anchors, topologically simple regions of the feature space where a prediction holds with high probability. Think of anchors as a sufficiency condition. This method can better generalize because it is essentially claiming less. Note that at present the anchor approach only works with binary classification models.&lt;/p&gt;
+
+&lt;p&gt;The GitHub repo to test out these techniques can be &lt;a href=&quot;https://github.com/marcotcr/anchor&quot;&gt;found here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;understanding-and-misunderstanding-randomized-controlled-trials&quot;&gt;Understanding and misunderstanding randomized controlled trials&lt;/h2&gt;
 &lt;hr /&gt;
@@ -175,19 +197,17 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;This article evaluates the benefits and limitations of randomized control trials (RCT). In practice, the goal of running an RCT is to obtain an estimate of the average effect from some treatment employing as few assumptions as possible; indeed, estimating the average treatment effect (ATE) is a nonparametric method. We often think of an RCT is the “gold-standard” evidence for the existence of a causal effect in medicine, economics, etc.; however, the effectiveness of an RCT comes from having no prior evidence. If we have more information about the underlying causal mechanism, then we can perform more accurate inference by stratifying our randomization by causal pathways, for instance, or employ various other causal modeling techniques. The value of RCTs is in when we do not have the same assumptions; however, once we agree on assumptions, we can leverage those assumptions to use other estimation methods.&lt;/p&gt;
 
-&lt;p&gt;Applying the results of an RCT is tricky. Generalizing from a sample to a population is suspect in the social sciences due to all of the potential differences in groups, e.g., the sample may not have been random or there may be been post-randomization confounding, also called realized confounding. Often the estimated ATE is applied to the individual; however, this is entirely erroneous, since the ATE is an average and an individual’s characteristics will differ from the average.&lt;/p&gt;
+&lt;p&gt;Applying the results of an RCT is tricky. Generalizing from a sample to a population is suspect in the social sciences due to all of the potential differences between groups, e.g., the sample may not have been random or there may be been post-randomization confounding, also called realized confounding. Often the estimated ATE is applied to the individual; however, this is entirely erroneous, since the ATE is an average and an individual’s characteristics will differ from the average.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“In these conversations, the results of an RCT may have marginal value. If your physician tells you that she endorses evidence-based medicine, and that the drug will work for you because an RCT has shown that ‘it works’, it is time to find a physician who knows that you and the average are not the same.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Overall, this is a great paper that I shared with Daniel who expressed the same thoughts. One last note is that it’s good to see an example of a former Nobel winner (Deaton) write a paper that’s outside of his subarea that wasn’t a terrible effort.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;http://causality.cs.ucla.edu/blog/index.php/2018/03/10/challenging-the-hegemony-of-randomized-controlled-trials-comments-on-deaton-and-cartwright/&quot;&gt;See here&lt;/a&gt; for comments on this paper from Judea Pearl.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
-&lt;p&gt;$^*$ Since we’re likely not Pythagoreans, there’s likely not a good reason for preferring ten articles to eleven.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.</summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018/">&lt;p&gt;Here are the top three books I’ve read in 2018.&lt;/p&gt;
+&lt;p&gt;$^*$Since we’re likely not Pythagoreans, there’s probably not a good reason for preferring ten articles to eleven.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.</summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018-working/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018-working</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018-working/">&lt;p&gt;Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem thematically distinct, they are bound together by themes of innovation, conflict, and ideology.&lt;/p&gt;
 
 &lt;p&gt;For my top articles that I’ve read in 2018, &lt;a href=&quot;/Top-Articles-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 
@@ -205,6 +225,8 @@ TODO: Add paragraph connecting EBM with data science
 &lt;h2 id=&quot;attack-of-the-50-foot-blockchain&quot;&gt;Attack of the 50 Foot Blockchain&lt;/h2&gt;
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;50%&quot; height=&quot;50%&quot; src=&quot;https://rocknerd.co.uk/wp-content/uploads/2017/07/botandguy.jpg&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Author: David Gerard&lt;/p&gt;
 
 &lt;p&gt;Published: 2017&lt;/p&gt;
@@ -212,6 +234,8 @@ TODO: Add paragraph connecting EBM with data science
 &lt;p&gt;[summary]&lt;/p&gt;
 
 &lt;p&gt;[thoughts]&lt;/p&gt;
+
+&lt;p&gt;You can read more on &lt;a href=&quot;https://davidgerard.co.uk/blockchain/&quot;&gt;David Gerard’s blog&lt;/a&gt; of the same name.&lt;/p&gt;
 
 &lt;h2 id=&quot;exact-thinking-in-demented-times&quot;&gt;Exact Thinking in Demented Times&lt;/h2&gt;
 &lt;hr /&gt;
@@ -222,4 +246,8 @@ TODO: Add paragraph connecting EBM with data science
 
 &lt;p&gt;[summary]&lt;/p&gt;
 
-&lt;p&gt;[thoughts]&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018.</summary></entry><entry><title type="html">Coming Soon!</title><link href="http://localhost:4000/Coming-Soon/" rel="alternate" type="text/html" title="Coming Soon!" /><published>2018-11-18T00:00:00-06:00</published><updated>2018-11-18T00:00:00-06:00</updated><id>http://localhost:4000/Coming-Soon</id><content type="html" xml:base="http://localhost:4000/Coming-Soon/"></content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;[thoughts]&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem thematically distinct, they are bound together by themes of innovation, conflict, and ideology.</summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018/">&lt;p&gt;Here are the top three books I’ve read in 2018.&lt;/p&gt;
+
+&lt;p&gt;For my top articles that I’ve read in 2018, &lt;a href=&quot;/Top-Articles-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;coming-soon&quot;&gt;&lt;em&gt;Coming soon!&lt;/em&gt;&lt;/h1&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018.</summary></entry></feed>
