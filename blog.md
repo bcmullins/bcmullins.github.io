@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 permalink: /blog/
+mathjax: true
 ---
 
 <div class="posts">

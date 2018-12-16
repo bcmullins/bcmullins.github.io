@@ -1,1 +1,225 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-18T22:25:36-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Coming Soon!</title><link href="http://localhost:4000/Coming-Soon/" rel="alternate" type="text/html" title="Coming Soon!" /><published>2018-11-18T00:00:00-06:00</published><updated>2018-11-18T00:00:00-06:00</updated><id>http://localhost:4000/Coming-Soon</id><content type="html" xml:base="http://localhost:4000/Coming-Soon/"></content><author><name></name></author><summary type="html"></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-15T21:48:15-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Articles I’ve Read in 2018</title><link href="http://localhost:4000/Top-Articles-2018/" rel="alternate" type="text/html" title="Top Articles I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2018</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2018/">&lt;p&gt;Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.&lt;/p&gt;
+
+&lt;p&gt;For my top books that I’ve read in 2018, &lt;a href=&quot;/Top-Books-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-the-largest-number&quot;&gt;Pick the Largest Number&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Thomas Cover&lt;/p&gt;
+
+&lt;p&gt;Publication: Open Problems in Communication and Computation&lt;/p&gt;
+
+&lt;p&gt;Published: 1987&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1007/978-1-4612-4808-8&quot;&gt;10.1007/978-1-4612-4808-8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This short note describes a solution to the two-card variant of a game called Googol. In this variant of the game, Player 1 writes down two distinct rational numbers $x_1, x_2$ and Player 2 guesses which of the two is larger after seeing the first number $x_1$. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Principle_of_indifference&quot;&gt;principle of indifference&lt;/a&gt; gives a probability of success of one half by random guessing. The paper offers a strictly better solution. Pick a threshold $T$ with density $f(t)$ where $f(t)$ has support on the reals, e.g., the standard normal distribution. If $x_1 &amp;lt; T$, then say $x_2$ is larger and vice versa. Since there is a non-zero probability that $T$ is between $x_1$ and $x_2$, this strategy strictly dominates random guessing.&lt;/p&gt;
+
+&lt;p&gt;On a first reading, this is an unexpected result that took a bit to wrap my mind around. Note that this conclusion does not violate the principle of indifference since Player 2 is not in a state of ignorance; they have observed the value of $x_1$. What makes this problem interesting is that $x_2$ does not depend on the value of $x_1$ so knowing $x_1$ seems irrelevant to determining the size of $x_2$.&lt;/p&gt;
+
+&lt;p&gt;I came across this paper by way of the &lt;a href=&quot;https://fermatslibrary.com/journal_club&quot;&gt;Fermat’s Library Journal Club&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-trouble-with-psychological-darwinism&quot;&gt;The Trouble with Psychological Darwinism&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;25%&quot; height=&quot;25%&quot; src=&quot;https://static01.nyt.com/images/2017/12/01/arts/01fodor-obit-1/01fodor-obit-1-superJumbo.jpg?quality=90&amp;amp;auto=webp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: Jerry Fodor&lt;/p&gt;
+
+&lt;p&gt;Publication: London Review of Books&lt;/p&gt;
+
+&lt;p&gt;Published: Jan 1998&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://www.lrb.co.uk/v20/n02/jerry-fodor/the-trouble-with-psychological-darwinism&quot;&gt;www.lrb.co.uk/v20/n02/jerry-fodor/the-trouble-with-psychological-darwinism&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind which holds that the mind functions from modular structures and is partly innate (or the structures are anyway). This is in contrast to the blank-slate, social constructionist, plastic empiricist view. Fodor lays out four principles of Pinker’s and Plotkin’s views and points out where they deviate from his own. Here are the four: 1. the mind is a computational system; 2. the mind is largely modular; 3. a lot of cognitive structure is innate; 4. a lot of mental structure is an evolutionary adaption. Fodor contests the fourth point by adding that 3. doesn’t imply 4.&lt;/p&gt;
+
+&lt;p&gt;A wonderful read that I couldn’t endorse more. Fodor’s writing is both lucid and highly entertaining. Here is a passage characteristic of this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Psychological Darwinism is a kind of conspiracy theory; that is, it explains behaviour by imputing an interest (viz in the proliferation of the genome) that the agent of the behaviour does not acknowledge. When literal conspiracies are alleged, duplicity is generally part of the charge: ‘He wasn’t making confetti; he was shredding the evidence. He did X in aid of Y, and then he lied about his motive.’ But in the kind of conspiracy theories psychologists like best, the motive is supposed to be inaccessible even to the agent, who is thus perfectly sincere in denying the imputation. In the extreme case, it’s hardly even the agent to whom the motive is attributed. Freudian explanations provide a familiar example: What seemed to be merely Jones’s slip of the tongue was the unconscious expression of a libidinous impulse. But not Jones’s libidinous impulse, really; one that his Id had on his behalf. Likewise, for the psychological Darwinist: what seemed to be your, after all, unsurprising interest in your child’s well-being turns out to be your genes’ conspiracy to propagate themselves. Not your conspiracy, notice, but theirs.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2017/11/30/obituaries/jerry-a-fodor-dead-philosopher-of-the-mind.html&quot;&gt;Jerry Fodor passed away in late 2017.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-mathematicians-lament&quot;&gt;A Mathematician’s Lament&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Paul Lockhart&lt;/p&gt;
+
+&lt;p&gt;Published: 2002&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;http://mysite.science.uottawa.ca/mnewman/LockhartsLament.pdf&quot;&gt;http://mysite.science.uottawa.ca/mnewman/LockhartsLament.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This essay is an indictment of the modern K-12 math curriculum primarily because mathematics is presented as unmotivated, algorithmic drudgery by educators who have never done mathematics. This is a wonderful and hilarious read! The author argues that mathematics classes should be less structured, more argument based, and concepts and distinctions should be situated in their historical and philosophical context.&lt;/p&gt;
+
+&lt;p&gt;The author runs with the analogy of painting where we would never teach painting without having the students actually paint. The proper analogue with the current mathematics curriculum would be having the students memorize colors, brushes, styles, and terse terminology with no motivation or context and not ever really have them paint except in some rigidly defined sense, e.g., painting by numbers or tracing from a stencil.&lt;/p&gt;
+
+&lt;p&gt;The view is pushed that mathematics is an art whose practical consequences are a biproduct rather than an end. This is similar to those who argue that philosophy is an activity rather than a subject.&lt;/p&gt;
+
+&lt;h2 id=&quot;to-explain-or-to-predict&quot;&gt;To Explain or to Predict&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Galit Shmueli&lt;/p&gt;
+
+&lt;p&gt;Publication: Statistical Science&lt;/p&gt;
+
+&lt;p&gt;Published: Aug 2010&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1214/10-STS330&quot;&gt;10.1214/10-STS330&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper covers the difference between prediction and explanation in depth. It discusses the difference in the modeling process from conception to model validation featuring two case studies with the Netflix Challenge data and auction data. The author distinguishes descriptive modeling from the tasks of prediction and explanation; however, descriptive modeling is not covered in depth.&lt;/p&gt;
+
+&lt;p&gt;While this paper is not groundbreaking, it provides an excellent overview between different sorts of modeling especially for those coming from machine learning-heavy or statistics-heavy backgrounds. The appendix provides an example of when a properly specified model, i.e., the true model, may not be the most predictive. Though counterintuitive at first, this result demonstrates the fundamental difference between the tasks of prediction and explanation.&lt;/p&gt;
+
+&lt;h2 id=&quot;progress-in-evidence-based-medicine-a-quarter-century-on&quot;&gt;Progress in evidence-based medicine: a quarter century on&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;25%&quot; height=&quot;25%&quot; src=&quot;https://s3.amazonaws.com/libapps/customers/4658/images/EBM.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Authors: Benjamin Djulbegovic &amp;amp; Gordon H Guyatt&lt;/p&gt;
+
+&lt;p&gt;Publication: The Lancet&lt;/p&gt;
+
+&lt;p&gt;Published: Feb 2017&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1016/S0140-6736(16)31592-6&quot;&gt;doi.org/10.1016/S0140-6736(16)31592-6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article introduces Evidence Based Medicine (EBM) and it’s three main tenets: 1. not all evidence is created equal; 2. all relevant evidence should be used in decision making; 3. clinical decision making should consider patients’ values and preferences. Initially, the field pushed for practitioners to remain up-to-date on the latest research in their field; however, this is too tall of a task, so the movement changed emphasis to systematic studies and literature overviews.&lt;/p&gt;
+
+&lt;p&gt;One prominent criticism addressed is that this leads to algorithmic decision making that is divorced from the human element. This is true is two respects: 1. the reasoning may be too complex for the patient to understand; 2. the individual practitioner’s influence is greatly reduced.&lt;/p&gt;
+
+&lt;!---
+TODO: Add paragraph connecting EBM with data science
+---&gt;
+
+&lt;p&gt;This paper was featured in the EBM column of an issue of &lt;a href=&quot;http://www.thereasoner.org&quot;&gt;The Reasoner&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-deep-learning-requires-rethinking-generalization&quot;&gt;Understanding Deep Learning Requires Rethinking Generalization&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, &amp;amp; Oriol Vinyals&lt;/p&gt;
+
+&lt;p&gt;Publication: arXiv&lt;/p&gt;
+
+&lt;p&gt;Published: Feb 2017&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://arxiv.org/abs/1611.03530&quot;&gt;arxiv.org/abs/1611.03530&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In this paper, the authors present a set of results related to the meaning of generalization with reference to deep learning models. They show the capacity for standard architectures to memorize random training labels. They explore how different regularization techniques affect test set performance. It’s an interesting paper without a coherent message other than “we don’t know what causes models to generalize.”&lt;/p&gt;
+
+&lt;h2 id=&quot;stuck-the-law-and-economics-of-residential-stability&quot;&gt;Stuck! The Law and Economics of Residential Stability&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: David Schleicher&lt;/p&gt;
+
+&lt;p&gt;Publication: Yale Law Journal&lt;/p&gt;
+
+&lt;p&gt;Published: October 2017&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://www.yalelawjournal.org/article/stuck-the-law-and-economics-of-residential-stagnation&quot;&gt;https://www.yalelawjournal.org/article/stuck-the-law-and-economics-of-residential-stagnation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article discusses laws that impede geographic mobility across states and offers solutions to lessen this impediment. This problem is diagnosed in three phases: the factors affecting inflows and outflows, when cities are too big, and when local governments are too big.&lt;/p&gt;
+
+&lt;p&gt;This is a wonderful article and was mentioned in the further reading of the JEP.&lt;/p&gt;
+
+&lt;h2 id=&quot;top5itis&quot;&gt;TOP5ITIS&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Roberto Serrano&lt;/p&gt;
+
+&lt;p&gt;Status: Working paper as of Jan 2018&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;http://www.econ.brown.edu/Faculty/serrano/pdfs/wp2018-2-Top5itis.pdf&quot;&gt;www.econ.brown.edu/Faculty/serrano/pdfs/wp2018-2-Top5itis.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper is a hilarious poke at the Top5 economics journals and the recent discussions of them at the AEA meetings. 10/10&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-is-a-risky-business&quot;&gt;Learning is a Risky Business&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Wayne C. Myrvold&lt;/p&gt;
+
+&lt;p&gt;Publication: Erkenntnis&lt;/p&gt;
+
+&lt;p&gt;Published: Feb 2018&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1007/s10670-018-9972-0&quot;&gt;10.1007/s10670-018-9972-0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The author attacks Richard Pettigrew’s accuracy based argument for the Principle of Indifference. He does this by considering introducing time into the partitioning of the state space. Simply put: consider a year where each day either phi or not-phi. Then there are 2^356 possible histories. The Principle of indifference assigns equal probability to each. But this implies that each day is independent of prior days, i.e., one does not learn from experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;anchors-high-precision-model-agnostic-explanations&quot;&gt;Anchors: High-Precision Model-Agnostic Explanations&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;40%&quot; height=&quot;40%&quot; src=&quot;/images/blog/best_articles_2018/anchor.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Authors: Marco Túlio Ribeiro, Sameer Singh, &amp;amp; Carlos Guestrin&lt;/p&gt;
+
+&lt;p&gt;Publication: Proceedings of The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)&lt;/p&gt;
+
+&lt;p&gt;Published: Feb 2018&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982&quot;&gt;https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper introduces an approach to prediction explanation called anchors as a refinement of the LIME model. This is a refinement due to it not being clear how much a post-hoc prediction of a point generalizes while anchors provide a clear measure of coverage. An anchor is a point in the space where the prediction holds with high probability. Note that at present the anchor approach only works with binary classification models.&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-and-misunderstanding-randomized-controlled-trials&quot;&gt;Understanding and misunderstanding randomized controlled trials&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Angus Deaton and Nancy Cartwright&lt;/p&gt;
+
+&lt;p&gt;Publication: Social Science &amp;amp; Medicine&lt;/p&gt;
+
+&lt;p&gt;Published: Aug 2018&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1016/j.socscimed.2017.12.005&quot;&gt;10.1016/j.socscimed.2017.12.005&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article evaluates the benefits and limitations of randomized control trials (RCT). In practice, the goal of running an RCT is to obtain an estimate of the average effect from some treatment employing as few assumptions as possible; indeed, estimating the average treatment effect (ATE) is a nonparametric method. We often think of an RCT is the “gold-standard” evidence for the existence of a causal effect in medicine, economics, etc.; however, the effectiveness of an RCT comes from having no prior evidence. If we have more information about the underlying causal mechanism, then we can perform more accurate inference by stratifying our randomization by causal pathways, for instance, or employ various other causal modeling techniques. The value of RCTs is in when we do not have the same assumptions; however, once we agree on assumptions, we can leverage those assumptions to use other estimation methods.&lt;/p&gt;
+
+&lt;p&gt;Applying the results of an RCT is tricky. Generalizing from a sample to a population is suspect in the social sciences due to all of the potential differences in groups, e.g., the sample may not have been random or there may be been post-randomization confounding, also called realized confounding. Often the estimated ATE is applied to the individual; however, this is entirely erroneous, since the ATE is an average and an individual’s characteristics will differ from the average.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In these conversations, the results of an RCT may have marginal value. If your physician tells you that she endorses evidence-based medicine, and that the drug will work for you because an RCT has shown that ‘it works’, it is time to find a physician who knows that you and the average are not the same.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Overall, this is a great paper that I shared with Daniel who expressed the same thoughts. One last note is that it’s good to see an example of a former Nobel winner (Deaton) write a paper that’s outside of his subarea that wasn’t a terrible effort.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://causality.cs.ucla.edu/blog/index.php/2018/03/10/challenging-the-hegemony-of-randomized-controlled-trials-comments-on-deaton-and-cartwright/&quot;&gt;See here&lt;/a&gt; for comments on this paper from Judea Pearl.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;$^*$ Since we’re likely not Pythagoreans, there’s likely not a good reason for preferring ten articles to eleven.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.</summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-08T00:00:00-06:00</published><updated>2018-12-08T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018/">&lt;p&gt;Here are the top three books I’ve read in 2018.&lt;/p&gt;
+
+&lt;p&gt;For my top articles that I’ve read in 2018, &lt;a href=&quot;/Top-Articles-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;science-and-change-1500-to-1700&quot;&gt;Science and Change: 1500 to 1700&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Hugh Kearney&lt;/p&gt;
+
+&lt;p&gt;Published: 1971&lt;/p&gt;
+
+&lt;p&gt;[summary]&lt;/p&gt;
+
+&lt;p&gt;[thoughts]&lt;/p&gt;
+
+&lt;h2 id=&quot;attack-of-the-50-foot-blockchain&quot;&gt;Attack of the 50 Foot Blockchain&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: David Gerard&lt;/p&gt;
+
+&lt;p&gt;Published: 2017&lt;/p&gt;
+
+&lt;p&gt;[summary]&lt;/p&gt;
+
+&lt;p&gt;[thoughts]&lt;/p&gt;
+
+&lt;h2 id=&quot;exact-thinking-in-demented-times&quot;&gt;Exact Thinking in Demented Times&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Karl Sigmund&lt;/p&gt;
+
+&lt;p&gt;Published: 2017&lt;/p&gt;
+
+&lt;p&gt;[summary]&lt;/p&gt;
+
+&lt;p&gt;[thoughts]&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018.</summary></entry><entry><title type="html">Coming Soon!</title><link href="http://localhost:4000/Coming-Soon/" rel="alternate" type="text/html" title="Coming Soon!" /><published>2018-11-18T00:00:00-06:00</published><updated>2018-11-18T00:00:00-06:00</updated><id>http://localhost:4000/Coming-Soon</id><content type="html" xml:base="http://localhost:4000/Coming-Soon/"></content><author><name></name></author><summary type="html"></summary></entry></feed>
