@@ -8,7 +8,7 @@ permalink: /projects/
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
 
-We introduce the topological notion of anchors as a formal analogue to the [theory of probabilisitic anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) to study the interpretability of machine learning classification models. With topological anchors, we derive lower bounds for interpretability of classes of machine learning models by their topological complexity. Through this perspective, there is a correspondence between learning theoretic solvablility and classifier interpretability.
+This project studies connections between the topological properties of machine learning classification models and the interpretability of those models. We introduce a rigorous grounding for the [theory of probabilisitic anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf). Through this perspective, there exists a correspondence between learning theoretic solvablility and classifier interpretability.
 
 ## Multi-period Income Mobility
 
