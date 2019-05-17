@@ -26,8 +26,8 @@ This project aims to bring the recent work of Diestel and collaborators on the t
 
 A draft of initial results is [here](/images/infinitism.pdf).
 
-A sketch of this approach will be presented at the [2019 Society for Exact Philosophy conference](http://www.phil.ufl.edu/host/sep/meeting.html).
+A sketch of this approach will be presented at the [2019 Society for Exact Philosophy conference](http://www.phil.ufl.edu/host/sep/meeting.html). See the deck for this conference [here](https://bcmullins.github.io/infinite_cycles/#/).
 
 ___
 
-Updated: 3/19
+Updated: 5/19
