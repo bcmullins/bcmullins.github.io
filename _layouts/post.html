@@ -5,6 +5,7 @@ layout: default
   {% include mathjax.html %}
 </head>
 
+{{ page.date | date: "%B %e, %Y" }} | {% include read_time.html %}
 
 <article class="post">
   <h1>{{ page.title }}</h1>
