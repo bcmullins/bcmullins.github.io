@@ -109,3 +109,6 @@ def extract_element_from_json(obj, path):
             outer_arr.append(extract(item, path, 0, []))
         return outer_arr
 {% endhighlight %}
+
+## Update
+This post is featured in Issue #374 of [PyCoder's Weekly](https://pycoders.com/issues/374). 

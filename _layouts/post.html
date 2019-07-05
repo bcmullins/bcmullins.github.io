@@ -5,6 +5,13 @@ layout: default
   {% include mathjax.html %}
 </head>
 
+<form action="https://getsimpleform.com/messages?form_api_token=bf9ee17b64768467ab777087bbbbbdd8" method="post" class="subscribe-box">
+  Subscribe via Email <br/>
+  <input type="email" name="email" placeholder="Your email"/>
+  <input type="submit" value="Subscribe" id="submit"/>
+</form>
+<br>
+
 {{ page.date | date: "%B %e, %Y" }} | {% include read_time.html %}
 
 <article class="post">

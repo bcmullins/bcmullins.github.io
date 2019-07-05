@@ -11,7 +11,7 @@ mathjax: true
 I was looking online for a simple vertical Borel Hierarchy in Latex for a paper that I'm writing and had no luck. So I've written one. See the code below to use it.
 
 
-```latex
+{% highlight Latex %}
 \documentclass{article}
 
 \usepackage{tikz}
@@ -57,4 +57,4 @@ I was looking online for a simple vertical Borel Hierarchy in Latex for a paper 
   \label{g:borel_hierarchy}
 \end{figure}
 \end{document}
-```
+{% endhighlight %}

@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
@@ -287,3 +287,28 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.subscribe-box {
+  vertical-align: middle;
+  text-align: center;
+  border-bottom: 1px solid $lightGray;
+  padding-bottom: 30px
+}
+
+.subscribe-box input {
+  vertical-align: middle;
+        margin-top: 0.25em;
+        margin-bottom: 0.5em;
+        padding: 0.75em;
+        font-family: monospace, sans-serif;
+        border:1px solid orange;
+        outline-color: black;
+        border-radius: 3px;
+        transition: box-shadow .2s ease;
+}
+
+.subscribe-box input:focus {
+  outline: none !important;
+    border-color: orange;
+    box-shadow: 0 0 10px orange;
+}
