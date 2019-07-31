@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-04T23:58:58-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Parsing Nested JSON Records in Python</title><link href="http://localhost:4000/parsing-json-python/" rel="alternate" type="text/html" title="Parsing Nested JSON Records in Python" /><published>2019-06-22T00:00:00-05:00</published><updated>2019-06-22T00:00:00-05:00</updated><id>http://localhost:4000/parsing-json-python</id><content type="html" xml:base="http://localhost:4000/parsing-json-python/">&lt;p&gt;JSON is the typical format used by web services for message passing that’s also relatively human-readable. Despite being more human-readable than most alternatives, JSON objects can be quite complex. For analyzing complex JSON data in Python, there aren’t clear, general methods for extracting information (see &lt;a href=&quot;https://realpython.com/python-json/&quot;&gt;here&lt;/a&gt; for a tutorial of working with JSON data in Python). This post provides a solution if one knows the path through the nested JSON to the desired information.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-30T23:09:28-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Sets and Classes, Comprehension and Intuition</title><link href="http://localhost:4000/sets-classes-comprehension/" rel="alternate" type="text/html" title="Sets and Classes, Comprehension and Intuition" /><published>2019-07-05T00:00:00-05:00</published><updated>2019-07-05T00:00:00-05:00</updated><id>http://localhost:4000/sets-classes-comprehension</id><content type="html" xml:base="http://localhost:4000/sets-classes-comprehension/">&lt;p&gt;In Maddy’s book, there is an interesting discussion on sets vs classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Helped build my intuition&lt;/li&gt;
+  &lt;li&gt;Clarify why the difference matters historically&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sets-and-classes-two-perspectives-on-collections&quot;&gt;Sets and Classes: two perspectives on collections&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Classes: “Every collection is collected by some property”&lt;/li&gt;
+  &lt;li&gt;One needs the property to prove existence&lt;/li&gt;
+  &lt;li&gt;Sets: “Any collection, with a common property or not, can be counted”&lt;/li&gt;
+  &lt;li&gt;Iterative conception&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unlimited-comprehension&quot;&gt;Unlimited Comprehension&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leads to paradoxes (Russel’s paradox)&lt;/li&gt;
+  &lt;li&gt;Restricted comprehension or separation&lt;/li&gt;
+  &lt;li&gt;Separation follows from existence and replacement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While reading &lt;a href=&quot;https://faculty.sites.uci.edu/pjmaddy/&quot;&gt;Penelope Maddy’s&lt;/a&gt; book, &lt;em&gt;Realism in Mathematics&lt;/em&gt;, I came across a brief but interesting discussion giving a historical perspective on sets and classes. I realized that while I have a working knowledge of the distinction between sets and classes (in ZFC at least), e.g., the ordinals form a proper class; there is no set of all sets; and so forth, I lacked the intuition of what classes are and why we care about them.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets-and-classes-two-perspectives-on-collections-1&quot;&gt;Sets and Classes: two perspectives on collections&lt;/h2&gt;
+
+&lt;p&gt;Maddy’s discussion begins from the pre-theoretical notion of a collection. In the early 20th century, two competing perspectives emerged on how one ought to think about a collection of numbers or mathematical objects. Maddy describes these as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“This [combinatorial] idea of set was developed by Zermelo and became our modern iterative conception: sets are formed in hierarchy of stages. The contrasting idea of classes as extensions of properties, or better, of concepts, formed the groundwork of Frege’s theory. On this conception, we imagine the entire universe separated into two heaps depending on whether or not things have the given property or fall under the given concept. These contrasting ideas, set as iteratively generated versus class as extension, are often called the mathematical and logical notions of collection, respectively” Maddy (1983), 118-9.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Sets are things which occur in the iterative hierarchy; they are formed in stages. Thus, the elements of a proper class like the class of all sets do all exist, but they do not exist together, in the sense that they do not form a set. The reason for this is now obvious: new sets are formed at each stage, so there cannot be a stage at which the set of all of them is formed. What is missing for this proper class is a stage after which all its elements have been formed.” Maddy (1983), 119.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;40%&quot; height=&quot;40%&quot; src=&quot;/images/blog/sets_classes/cumulative_hierarchy.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h3&gt;
+
+&lt;p&gt;Karel Hrbacek &amp;amp; Thomas Jech, &lt;em&gt;Introduction to Set Theory&lt;/em&gt;, 3rd Ed., 1999.&lt;/p&gt;
+
+&lt;p&gt;Penelope Maddy, Proper Classes, &lt;em&gt;The Journal of Symbolic Logic&lt;/em&gt;, 48(1), 1983.&lt;/p&gt;
+
+&lt;p&gt;Penelope Maddy, &lt;em&gt;Realism in Mathematics&lt;/em&gt;, 1990.&lt;/p&gt;</content><author><name></name></author><summary type="html">In Maddy’s book, there is an interesting discussion on sets vs classes Helped build my intuition Clarify why the difference matters historically</summary></entry><entry><title type="html">Parsing Nested JSON Records in Python</title><link href="http://localhost:4000/parsing-json-python/" rel="alternate" type="text/html" title="Parsing Nested JSON Records in Python" /><published>2019-06-22T00:00:00-05:00</published><updated>2019-06-22T00:00:00-05:00</updated><id>http://localhost:4000/parsing-json-python</id><content type="html" xml:base="http://localhost:4000/parsing-json-python/">&lt;p&gt;JSON is the typical format used by web services for message passing that’s also relatively human-readable. Despite being more human-readable than most alternatives, JSON objects can be quite complex. For analyzing complex JSON data in Python, there aren’t clear, general methods for extracting information (see &lt;a href=&quot;https://realpython.com/python-json/&quot;&gt;here&lt;/a&gt; for a tutorial of working with JSON data in Python). This post provides a solution if one knows the path through the nested JSON to the desired information.&lt;/p&gt;
 
 &lt;h2 id=&quot;motivating-example&quot;&gt;Motivating Example&lt;/h2&gt;
 &lt;p&gt;Suppose you have the following JSON record:&lt;/p&gt;
