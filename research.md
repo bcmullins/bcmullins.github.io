@@ -8,7 +8,7 @@ permalink: /projects/
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
 
-This project studies connections between the topological properties of machine learning classification models and the explainability of those models' predictions. We introduce a rigorous grounding for the [theory of probabilisitic anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and provide an intuitive but formal definition of an explainable classifer. From this perspective, we derive connections between the degree of explainability, topological complexity of the classifier, and the learning theoretic notion of solvability.
+This project studies connections between the topological properties of machine learning classification models and the explainability of those models' predictions. We introduce a rigorous, topological grounding for the [theory of probabilisitic anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and provide an intuitive but formal definition of an explainable classifer. From this perspective, we derive connections between the degree of explainability, topological complexity of the classifier, and the learning theoretic notion of solvability.
 
 ## Earnings Mobility and SNAP Participation in Georgia
 
@@ -16,7 +16,7 @@ This project investigates earnings mobility among SNAP participants using linked
 
 This project is in collaboration with my colleagues at the Fiscal Research Center at Georgia State University.
 
-Results from this project were presented at the [National Tax Association's Annual Conference](https://ntanet.org/event/2014/11/2014-annual-conference-on-taxation/), the [Next Generation of Public Finance conference](https://aysps.gsu.edu/files/2016/01/NGPF-Conference-Schedule.pdf), and [discussed on WABE](https://www.wabe.org/closer-look-stone-mountains-mayor-orlando-and-more/), Atlanta's NPR affiliate.
+Results from this project were presented at the [National Tax Association's Annual Conference](https://ntanet.org/event/2014/11/2014-annual-conference-on-taxation/), the [Next Generation of Public Finance conference](https://aysps.gsu.edu/files/2016/01/NGPF-Conference-Schedule.pdf), the [International Conference on Administrative Data Research](https://ijpds.org/adr2019) and [discussed on WABE](https://www.wabe.org/closer-look-stone-mountains-mayor-orlando-and-more/), Atlanta's NPR affiliate.
 
 ## Infinite Cycles and the Regress Problem
 
