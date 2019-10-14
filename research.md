@@ -18,6 +18,8 @@ This project is in collaboration with my colleagues at the Fiscal Research Cente
 
 Results from this project were presented at the [National Tax Association's Annual Conference](https://ntanet.org/event/2014/11/2014-annual-conference-on-taxation/), the [Next Generation of Public Finance conference](https://aysps.gsu.edu/files/2016/01/NGPF-Conference-Schedule.pdf), the [International Conference on Administrative Data Research](https://ijpds.org/adr2019) and [discussed on WABE](https://www.wabe.org/closer-look-stone-mountains-mayor-orlando-and-more/), Atlanta's NPR affiliate.
 
+To enable practitioners to easily calculate and work with mobility indices, we're developing an R package called mobilityIndexR. We plan for the initial release of this package to be early Dec 2019.
+
 ## Infinite Cycles and the Regress Problem
 
 <img style="float: right; display: inline-block" width="25%" height="25%"  src="/images/infinitecycle.png">
@@ -38,4 +40,4 @@ This project is in collaboration with my colleagues at the Fiscal Research Cente
 
 ___
 
-Updated: 7/19
+Updated: 10/19

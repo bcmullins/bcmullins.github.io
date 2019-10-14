@@ -7,13 +7,15 @@ permalink: /links/
 
 ### Blogs I Read
 
-[Statistical Modeling, Causal Inference, and Social Science (a.k.a. Gelman's blog)](http://andrewgelman.com)
+[Statistical Modeling, Causal Inference, and Social Science (Gelman's blog)](http://andrewgelman.com)
 
 [The Reasoner](http://thereasoner.org)
 
 [A Fine Theorem](https://afinetheorem.wordpress.com)
 
 [Fermat's Library](https://fermatslibrary.com/journal_club)
+
+[Logic Matters](https://www.logicmatters.net/blogfront/)
 
 ### Podcasts I Listen To
 
