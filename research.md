@@ -10,6 +10,8 @@ permalink: /projects/
 
 This project studies connections between the topological properties of machine learning classification models and the explainability of those models' predictions. We introduce a rigorous, topological grounding for the [theory of probabilisitic anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and provide an intuitive but formal definition of an explainable classifer. From this perspective, we derive connections between the degree of explainability, topological complexity of the classifier, and the learning theoretic notion of solvability.
 
+Working Paper: [Identifying the Most Explainable Classifier](https://arxiv.org/abs/1910.08595)
+
 ## Earnings Mobility and SNAP Participation in Georgia
 
 This project investigates earnings mobility among SNAP participants using linked administrative data from the State of Georgia. The goal of this work is to better understand the earnings mobility of low-income populations and how participation in government benefits programs affects one's earnings, especially during economic downturns such as the Great Recession.
