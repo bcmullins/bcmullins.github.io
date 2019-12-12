@@ -20,7 +20,7 @@ This project is in collaboration with my colleagues at the Fiscal Research Cente
 
 Results from this project were presented at the [National Tax Association's Annual Conference](https://ntanet.org/event/2014/11/2014-annual-conference-on-taxation/), the [Next Generation of Public Finance conference](https://aysps.gsu.edu/files/2016/01/NGPF-Conference-Schedule.pdf), the [International Conference on Administrative Data Research](https://ijpds.org/adr2019) and [discussed on WABE](https://www.wabe.org/closer-look-stone-mountains-mayor-orlando-and-more/), Atlanta's NPR affiliate.
 
-To enable practitioners to easily calculate and work with mobility indices, we're developing an R package called mobilityIndexR. We plan for the initial release of this package to be early Dec 2019.
+To enable practitioners to easily calculate and work with mobility indices, we've developed an R package called [mobilityIndexR](https://github.com/bcmullins/mobilityIndexR).
 
 ## Infinite Cycles and the Regress Problem
 

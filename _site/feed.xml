@@ -1,4 +1,262 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-24T09:47:56-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Resources for Learning Measure Theory</title><link href="http://localhost:4000/measure_theory_resources/" rel="alternate" type="text/html" title="Resources for Learning Measure Theory" /><published>2019-10-13T00:00:00-05:00</published><updated>2019-10-13T00:00:00-05:00</updated><id>http://localhost:4000/measure_theory_resources</id><content type="html" xml:base="http://localhost:4000/measure_theory_resources/">&lt;p&gt;When approaching measure theory for the first time, the ideas can seem opaque and unmotivated. This is amplified since many students of measure theory are not coming from a strictly mathematics background and may be approaching the material on their own outside of the classroom. In addition to first-year math graduate students and advanced math undergraduates, students in stats, economics, the hard sciences, etc. will find their way into learning measure theory. This is a guide to resources for learning measure theory that tries to keep in mind that many (myself included) approach the material with an atypical background.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-11T23:14:10-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Articles I’ve Read in 2019</title><link href="http://localhost:4000/Top-Articles-2019/" rel="alternate" type="text/html" title="Top Articles I've Read in 2019" /><published>2019-12-11T00:00:00-06:00</published><updated>2019-12-11T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2019</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2019/">&lt;p&gt;Below are the top eleven articles I’ve read in 2019. A theme of methodology runs through this set of papers, especially statistical methodology. There’s also some fun miscellany mixed in with blockchain (whose craze seems like a lifetime ago now), unicorns, and the history of the English language. To my surprise, all of these articles are from the present decade. They are presented in chronological order.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out-of-econometrics&quot;&gt;The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Joshua D. Angrist and Jörn-Steffen Pischke&lt;/p&gt;
+
+&lt;p&gt;Publication: Journal of Economic Perspectives&lt;/p&gt;
+
+&lt;p&gt;Published: Spring 2010&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1257/jep.24.2.3&quot;&gt;10.1257/jep.24.2.3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper is in some sense a response to Ed Leamer’s 1983 &lt;a href=&quot;https://www.jstor.org/stable/1803924&quot;&gt;Let’s Take the Con Out of Econometrics&lt;/a&gt; that questioned the methods of econometrics both in theory and in practice for parading as objective science when in reality several hidden judgements are made by practitioners. Angrist and Pischke argue that, since Leamer’s critique, a focus on research design, i.e., the way in which studies are formulated and data is collected, has led to a revolution in econometrics.  Specifically, the use of quasi-experimental methods such as instrumental variables, regression discontinuity design, and difference-in-differences has led to more robust estimates of causal effects. Whereas Leamer proposed sensitivity analysis as a solution, the authors contend that better design better addresses Leamer’s worries.&lt;/p&gt;
+
+&lt;figure style=&quot;float: right; display: inline-block&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/rdd.png&quot; width=&quot;350&quot; height=&quot;275&quot; /&gt;
+  &lt;figcaption style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://davidevans.blog/2018/05/18/activity-for-teaching-regression-discontinuity-design/&quot;&gt;Example Regression Discontinuity Design&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Angrist and Pischke give several examples with a focus on applied microeconomics, specifically labor and education, since these fields adapt easily to the quasi-experimental methodology. This paper sheds light on the current practice of econometrics, or at least how one influential party sees it. The authors remark that these methods may not be sexy or directly and quickly get at the “big” questions, but the quasi-experimental approach to econometrics proceeds by accumulation and small gains in understanding, similar to how we think about the hard sciences.&lt;/p&gt;
+
+&lt;p&gt;This paper gives one a nice introduction to the ideas and context of Angrist and Pischke’s text &lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics&quot;&gt;Mostly Harmless Econometrics&lt;/a&gt; or their more friendly &lt;a href=&quot;https://www.masteringmetrics.com&quot;&gt;Mastering ‘Metrics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;english-is-not-normal&quot;&gt;English is not normal&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: John McWhorter&lt;/p&gt;
+
+&lt;p&gt;Publication: Aeon&lt;/p&gt;
+
+&lt;p&gt;Published: Nov 2015&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages&quot;&gt;aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a quirky essay about the history of the English language. The author argues its unique place among languages is largely an artifact of history. Here are two interesting tidbits. For the first, Old English is basically unrecognizable from contemporary English; witness the following: &lt;em&gt;“Hwæt, we gardena in geardagum þeodcyninga þrym gefrunon”&lt;/em&gt; is Old English for “So, we Spear-Danes have heard of the tribe-kings’ glory in days of yore”. While that sentence seems a bit contrived, you get the point. For the second tidbit, over time, English adopted French and Latin words along with a natural scale of refinement and formality: for example, kingly (English), royal (French), regal (Latin) all denote the same idea but express it with increasing regard.&lt;/p&gt;
+
+&lt;p&gt;The author leaves us with this summary:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The common idea that English dominates the world because it is ‘flexible’ implies that there have been languages that failed to catch on beyond their tribe because they were mysteriously rigid. I am not aware of any such languages. What English does have on other tongues is that it is deeply peculiar in the structural sense. And it became peculiar because of the slings and arrows – as well as caprices – of outrageous history.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-need-for-cognitive-science-in-methodology&quot;&gt;The Need for Cognitive Science in Methodology&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Sander Greenland&lt;/p&gt;
+
+&lt;p&gt;Publication: American Journal of Epidemiology&lt;/p&gt;
+
+&lt;p&gt;Published: Aug 2017&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1093/aje/kwx259&quot;&gt;10.1093/aje/kwx259&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There has been much recent literature on the deficiency of current statistical methods; however, not much attention has been paid to cognitive biases of practitioners using these methods. Greenland describes three such biases:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1) dichotomania, the compulsion to perceive quantities as dichotomous even when dichotomization is unnecessary and misleading, as in inferences based on whether a P value is “statistically significant”; 2) nullism, the tendency to privilege the hypothesis of no difference or no effect when there is no scientific basis for doing so, as when testing only the null hypothesis; and 3) statistical reification, treating hypothetical data distributions and statistical models as if they reflect known physical laws rather than speculative assumptions for thought experiments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While these points have been brought up by &lt;a href=&quot;http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf&quot;&gt;Gelman&lt;/a&gt; and others in some form, Greenland provides a cohesive and convincing account of when it is that the tools themselves aren’t the (only) problem. He argues in favor of the methodological position that “Statistical analyses are merely thought experiments, informing us as to what would follow deductively under their assumptions” (&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2019/12/03/whats-wrong-with-bayes/&quot;&gt;Gelman agrees&lt;/a&gt;). While an interesting philosophical position (and one have sympathies for), this view certainly doesn’t match my experience with how practitioners treat statistical analyses in the wild. Perhaps, that’s additional evidence that we ought to be thinking about the cognitive status of practitioners.&lt;/p&gt;
+
+&lt;p&gt;Amusing quotes are peppered throughout: “This null obsession is the most destructive pseudoscientific gift that conventional statistics (both frequentist and Bayesian) has given the modern world.”&lt;/p&gt;
+
+&lt;p&gt;Greenland also takes a swipe at &lt;a href=&quot;https://plato.stanford.edu/entries/learning-formal/&quot;&gt;formal methodology&lt;/a&gt; and &lt;a href=&quot;https://plato.stanford.edu/entries/pseudo-science/#KarPop&quot;&gt;philosophy of science&lt;/a&gt;: “thinking that parsimony is a property of nature when it is instead only an effective learning heuristic, or that refutationism involves believing hypotheses until they are falsified, when instead it involves never asserting a hypothesis is true”. While I buy much of what Greenland has to say, I may be too much of an ideologue to go this far.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockchain-is-not-only-crappy-technology-but-a-bad-vision-for-the-future&quot;&gt;Blockchain is not only crappy technology but a bad vision for the future&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Kai Stinchcombe&lt;/p&gt;
+
+&lt;p&gt;Published: Apr 2018&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec&quot;&gt;medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure style=&quot;float: right; display: inline-block&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/blockchainmail.jpg&quot; /&gt;
+  &lt;figcaption style=&quot;text-align: center&quot;&gt;Blockchainmail&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is a followup to &lt;a href=&quot;https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100&quot;&gt;Ten years in, nobody has come up with a use for blockchain&lt;/a&gt;. The author argues two points: people often confuse blockchain the idea with blockchain the technology; and we actually do not want fully trustless transactions. On the first point, people want a way for correct information to be entered into a tamperproof database, e.g., tracking fruit to ensure it’s organic; however, nothing stops bad data from being entered into the database. On the second point, the author defends the value of social trust and points out examples where even major uses of cryptocurrencies, e.g., the Silk Road and Ripple, rely on trust measures, e.g., seller reviews, rather than smart contracts or anything else of the sort. These social institutions are better than having to trust the code of someone offering a smart contract or from having to write one’s contract every time one wishes to make a transaction. Trading this trust for other ends leads to a world that’s “not a paradise but a crypto-medieval hellhole.”&lt;/p&gt;
+
+&lt;h2 id=&quot;why-data-is-never-raw&quot;&gt;Why Data is Never Raw&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Nick Barrowman&lt;/p&gt;
+
+&lt;p&gt;Publication: The New Atlantis&lt;/p&gt;
+
+&lt;p&gt;Published: Summer/Fall 2018&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://www.thenewatlantis.com/publications/why-data-is-never-raw&quot;&gt;www.thenewatlantis.com/publications/why-data-is-never-raw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article applies the idea of &lt;a href=&quot;https://plato.stanford.edu/entries/science-theory-observation/#HowObsEviMigTheLad&quot;&gt;theory-ladeness of observation&lt;/a&gt; from the philosophy of science to the idea of raw data in statistics and data science. Just as the presuppositions of an observer affect how one interprets what is observed, how data are captured (not just given) affect what the data say.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“For example, rates of domestic violence were historically underestimated because these crimes were rarely documented. Polling data may miss people who are homeless or institutionalized, and if marginalized people are incompletely represented by opinion polls, the results may be skewed. Data sets often preferentially include people who are more easily reached or more likely to respond.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For this reason, the method of data acquisition is highly relevant to its interpretation and use whether for survey data from such and such a population, measurements in a lab, or transaction logs from a production system. To sum up, the author offers the words of Geoffrey Bowker of UC Irvine: “Raw data is both an oxymoron and a bad idea; to the contrary, data should be cooked with care.”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-bias-bias-in-behavioral-economics&quot;&gt;The Bias Bias in Behavioral Economics&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Gerd Gigerenzer&lt;/p&gt;
+
+&lt;p&gt;Publication: Review of Behavioral Economics&lt;/p&gt;
+
+&lt;p&gt;Published: Dec 2018&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1561/105.00000092&quot;&gt;10.1561/105.00000092&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is an attack on the current state of behavioral economics. Since the work of Kahneman and Tverksy in the 1970s, behavioral economics has largely focused on the identification of &lt;a href=&quot;https://hbr.org/2015/05/from-economic-man-to-behavioral-economics&quot;&gt;biases and heuristics for decision making&lt;/a&gt;. Biases are consistent and widespread departures from the rational choice model. The author argues for the bias bias: attributing a bias to behavior that is potentially well-motivated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;40%&quot; height=&quot;50%&quot; src=&quot;/images/blog/top_articles_2019/coin_flip.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most interesting bias discussed is the law of small numbers: “People think a string is more likely the closer the number of heads and tails corresponds to the underlying equal probabilities. For instance, the string HHHHHT is deemed more likely than HHHHHH.” When we consider six coin flips, this intuition is clearly incorrect since each possible outcome is equally likely and the events are independent. Consider, instead, if there are seven coin flips. We still have that all outcomes are equally likely; however, HHHHHT appears as a substring in four outcomes, while HHHHHH only appears in three. This result holds for any number of coin flips greater than the length of the substring. This potentially explains people’s otherwise confused intuitions.&lt;/p&gt;
+
+&lt;p&gt;The paper concludes by suggesting that behavioral economics abandon its current research program and follow the alternative &lt;a href=&quot;https://plato.stanford.edu/entries/bounded-rationality/&quot;&gt;bounded rationality&lt;/a&gt; vision set out by Herbert Simon in the latter half of the 20th century. Rather than focusing on departures from the expected utility model, Simon focused more on descriptive models and included notions of choice under uncertainty rather than exclusively choice under risk.&lt;/p&gt;
+
+&lt;h2 id=&quot;intellectual-control&quot;&gt;Intellectual Control&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: George Fairbanks&lt;/p&gt;
+
+&lt;p&gt;Publication: IEEE Software&lt;/p&gt;
+
+&lt;p&gt;Published: Jan/Feb 2019&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1109/MS.2018.2874294&quot;&gt;10.1109/MS.2018.2874294&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is about the notion of control in software development. The current practice of &lt;a href=&quot;https://en.wikipedia.org/wiki/Test-driven_development&quot;&gt;test driven development&lt;/a&gt; provides statistical control, i.e., if all of the test cases pass, then there likely is not a problem. In contrast, an alternative notion is intellectual control, i.e., being able to explain what the code/program/system is doing. There are obvious tradeoffs: intellectual control doesn’t scale well; statistical control can be effective if executed well; etc.&lt;/p&gt;
+
+&lt;p&gt;The author provides an effective analogy that differentiates the two notions of control:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“imagine driving a car on a road with guardrails. In this metaphor, the guardrails are tests and driving the car is us writing programs. He then wondered if it’s OK to successfully arrive at our destination after hitting the guardrails during the journey. His audience laughed because having a car under control means we are able to drive without hitting the rails.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tony Hoare said it best in &lt;a href=&quot;https://dl.acm.org/citation.cfm?doid=358549.358561&quot;&gt;his Turing Award lecture&lt;/a&gt;, “There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.”&lt;/p&gt;
+
+&lt;h2 id=&quot;unicorns-cheshire-cats-and-the-new-dilemmas-of-entrepreneurial-finance&quot;&gt;Unicorns, Cheshire cats, and the new dilemmas of entrepreneurial finance&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Martin Kenney and John Zysman&lt;/p&gt;
+
+&lt;p&gt;Publication: Venture Capital&lt;/p&gt;
+
+&lt;p&gt;Published: Mar 2019&lt;/p&gt;
+
+&lt;p&gt;DOI: &lt;a href=&quot;https://doi.org/10.1080/13691066.2018.1517430&quot;&gt;10.1080/13691066.2018.1517430&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper examines the rise of the unicorn: a start-up with a private valuation of over one billion USD. Many of these unicorns came about due to the low barrier to entry of starting a firm and raising capital. Often these firms are technology-focused with lots of intangible assets, e.g., Uber, AirBnB, etc., and are, thus, easily scalable. To scale up and gain market share, these companies often burn through massive amounts of capital while in a growth-phase. An ecosystem of funding, including traditional VC, angel investors, incubators, etc., has developed to progress these firms through their growth-phase with the eventual goal of selling their stake to another investor or to the public.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;60%&quot; height=&quot;60%&quot; src=&quot;/images/blog/top_articles_2019/cheshire.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A result is that incumbent firms in traditionally stable industries have been “disrupted” by growth-phase start-ups aiming to take market share. The attempt to capture market share is often done by offering lower prices, e.g., an Uber or Lyft ride is usually cheaper than getting a taxi. At the same time, the start-up is using capital money to fund this behavior. The fight for market share is motivated by the winner-takes-all nature of many industries, since there is not necessarily an market need for several search engines, social media platforms, etc.&lt;/p&gt;
+
+&lt;p&gt;From an economic perspective, it is not clear if this method of producing firms is beneficial overall, since the goal for investors appears to be to raise the private valuation to sell to another investor or the public without concern for the long-term stability of the start-up.&lt;/p&gt;
+
+&lt;p&gt;The authors provide a nice summary for their paper’s goal: “to interrogate the enthusiasm for backing entrepreneurial start-ups, losses or not, and for seeking to turbo-charge their growth to the point that they become the so-called ‘unicorns.’”&lt;/p&gt;
+
+&lt;p&gt;This paper shared much in common with &lt;a href=&quot;https://press.princeton.edu/books/hardcover/9780691175034/capitalism-without-capital&quot;&gt;Capitalism without Capital&lt;/a&gt; which made the &lt;a href=&quot;## TODO&quot;&gt;2019 Top Books list&lt;/a&gt;. I came across this paper from &lt;a href=&quot;https://www.economist.com/briefing/2019/04/17/the-wave-of-unicorn-ipos-reveals-silicon-valleys-groupthink&quot;&gt;an article in The Economist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-new-americanism&quot;&gt;A New Americanism&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Jill Lepore&lt;/p&gt;
+
+&lt;p&gt;Publication: Foreign Affairs&lt;/p&gt;
+
+&lt;p&gt;Published: Mar/Apr 2019&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://www.foreignaffairs.com/articles/united-states/2019-02-05/new-americanism-nationalism-jill-lepore&quot;&gt;www.foreignaffairs.com/articles/united-states/2019-02-05/new-americanism-nationalism-jill-lepore&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This short article argues that nations look to an origin story to explain their existence and that this story changes with the times. It wasn’t until the 1840s that the people of the United States viewed themselves as a nation (not sure what population this applies to). These shared myths continued to be developed until the second half of the twentieth century where they fell out of fashion for historians as nationalism yielded way to globalization, first politically then economically.&lt;/p&gt;
+
+&lt;p&gt;Just because academic trends changed does not entail that the nation no longer looks for its founding myth; rather, these myths are just not provided by historians. The author alludes to this being the origin of the nativist, so-called nationalist movement observed in the US as well as in other countries. The author urges historians to write about the nation once more.&lt;/p&gt;
+
+&lt;p&gt;Lepore’s history of the United States &lt;a href=&quot;https://www.thesetruthsbook.com&quot;&gt;These Truths&lt;/a&gt; was released in late 2018.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-dangers-of-post-hoc-interpretability-unjustified-counterfactual-explanations&quot;&gt;The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Thibault Laugel, Marie-Jeanne Lesot, Christophe Marsala, Xavier Renard, and Marcin Detyniecki&lt;/p&gt;
+
+&lt;p&gt;Publication: Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19)&lt;/p&gt;
+
+&lt;p&gt;Published: Jul 2019&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://www.ijcai.org/proceedings/2019/0388.pdf&quot;&gt;ijcai.org/proceedings/2019/0388.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper extends the idea of a local explanation of a classifier’s prediction to counterfactually-justified local explanations to provide a link between the classifier and the training data. For an explanation to be justified for a given point in the feature space $x$, there must exist point $z$ in the training data, perhaps the nearest point to $x$, that’s correctly classified where $x, z$ belong to the same label and are topologically &lt;a href=&quot;https://en.wikipedia.org/wiki/Connected_space#Path_connectedness&quot;&gt;path connected&lt;/a&gt; with respect to the euclidean topology on the feature space. The intuition is that a local explanation for a prediction cannot be justified in this stronger sense if the point in question is isolated from correctly predicted instances in the training data. This leads to the amusing corollary that no explanations are justified if the predictive model classifies all instances in the training data incorrectly.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/counterfactual_explanations.png&quot; /&gt;
+  &lt;figcaption style=&quot;text-align: center&quot;&gt;Left: explanation not justified; right: explanation justified&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;The authors operationalize this through an approximation algorithm to provide an estimate of whether or not a point is path connected to a correct prediction of an observation in the training data sharing the same label. A &lt;a href=&quot;https://www.ecmlpkdd2019.org/downloads/paper/226.pdf&quot;&gt;followup paper&lt;/a&gt; by this group appeared at KDD in August.&lt;/p&gt;
+
+&lt;p&gt;I find this paper particularly compelling since it connects closely with my work studying the &lt;a href=&quot;https://arxiv.org/abs/1910.08595v2&quot;&gt;topological properties of explanations of classifier predictions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;mistaken-i-think-therefore-i-make-mistakes-and-change-my-mind&quot;&gt;Mistaken: I think, therefore I make mistakes and change my mind&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Daniel Ward&lt;/p&gt;
+
+&lt;p&gt;Publication: Aeon&lt;/p&gt;
+
+&lt;p&gt;Published: Oct 2019&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://aeon.co/essays/i-think-therefore-i-make-mistakes-and-change-my-mind&quot;&gt;aeon.co/essays/i-think-therefore-i-make-mistakes-and-change-my-mind&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is about the notion of human infallibility and how it is antithetical to rationality. On this conception, being rational is being able to give reasons for one’s actions and that involves the possibility of error. The author argues that the notion of human infallibility underlies both &lt;a href=&quot;https://plato.stanford.edu/entries/moral-relativism/&quot;&gt;moral relativism&lt;/a&gt; in anthropology/sociology and &lt;a href=&quot;https://en.wikipedia.org/wiki/Revealed_preference&quot;&gt;revealed preference&lt;/a&gt; in economics, both of which the author finds objectionable.&lt;/p&gt;
+
+&lt;p&gt;The case of revealed preference is the more interesting of the two. Revealed preference is the notion that an agent reveals their preferences for goods through their choices, a behaviorist approach to choice/decision theory. The author argues that this theory does not account for genuine mistakes. We may think that is because the agent in the model is more rational than humans; however, this turns on the specific notion of rationality. On the reason giving account, mistakes are the hallmark of rationality.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To err is human. Missteps, misapprehensions, misspeakings, momentary lapses and mess-ups are part of the fabric of life. Yet we are capable of making mistakes precisely because we are thoughtful, intelligent beings with complex goals and sincerely held values. We wouldn’t be able to if we were otherwise. Regrets: we’ve had a few. But we are the wiser for them.”&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Below are the top eleven articles I’ve read in 2019. A theme of methodology runs through this set of papers, especially statistical methodology. There’s also some fun miscellany mixed in with blockchain (whose craze seems like a lifetime ago now), unicorns, and the history of the English language. To my surprise, all of these articles are from the present decade. They are presented in chronological order.</summary></entry><entry><title type="html">Introducing mobilityIndexR, an R package for measuring mobility</title><link href="http://localhost:4000/mobilityindexr/" rel="alternate" type="text/html" title="Introducing mobilityIndexR, an R package for measuring mobility" /><published>2019-10-16T00:00:00-05:00</published><updated>2019-10-16T00:00:00-05:00</updated><id>http://localhost:4000/mobilityindexr</id><content type="html" xml:base="http://localhost:4000/mobilityindexr/">&lt;p&gt;[Intro]&lt;/p&gt;
+
+&lt;h2 id=&quot;simple-example&quot;&gt;Simple Example&lt;/h2&gt;
+
+&lt;h2 id=&quot;advanced-features&quot;&gt;Advanced Features&lt;/h2&gt;
+
+&lt;h2 id=&quot;future-features&quot;&gt;Future Features&lt;/h2&gt;</content><author><name></name></author><summary type="html">[Intro]</summary></entry><entry><title type="html">Top Books I’ve Read in 2019</title><link href="http://localhost:4000/Top-Books-2019/" rel="alternate" type="text/html" title="Top Books I've Read in 2019" /><published>2019-10-16T00:00:00-05:00</published><updated>2019-10-16T00:00:00-05:00</updated><id>http://localhost:4000/Top-Books-2019</id><content type="html" xml:base="http://localhost:4000/Top-Books-2019/">&lt;p&gt;[Intro]&lt;/p&gt;
+
+&lt;h2 id=&quot;measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces&quot;&gt;Measure and Category: A Survey of the Analogies between Topological and Measure Spaces&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: John C. Oxtoby&lt;/p&gt;
+
+&lt;p&gt;Published: 1971 (1980 2nd ed.)&lt;/p&gt;
+
+&lt;h2 id=&quot;the-structures-of-everyday-life-civilization-and-capital-15th---18th-century-volume-1&quot;&gt;The Structures of Everyday Life: Civilization and Capital, 15th - 18th Century: Volume 1&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Fernand Braudel&lt;/p&gt;
+
+&lt;p&gt;Published: 1981&lt;/p&gt;
+
+&lt;p&gt;Braudel’s book paints a picture of everyday life in Europe during the 14th to the 18th centuries. Rather than focus on the lives and happenings of so-called “great men”, Braudel discusses the minutiae that is easily overlooked. These range from the evolution of food and drink to fashion, housing, and decor, to manners, money, and technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;60%&quot; height=&quot;60%&quot; src=&quot;/images/blog/top_books_2019/hoe_cultivation_belt.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most fruitful way to understand this book is as a primer on the era that sets the stage for the next two volumes of the work. As the goal is to provide the reader with a vivid context, Braudel is not regularly ventures outside of Europe and into the past to tell the story of how the state of affairs played out and what others were doing at the same time.&lt;/p&gt;
+
+&lt;p&gt;Braudel can be somewhat uneven as he jumps between topics. For instance, the book begins with a long (perhaps) 70 page digression on the statistics world population/demography from the late Middle Ages to the 20th century. It is apparent that Braudel is interested in the Chinese, providing the foil to countless comparisons with Europe.&lt;/p&gt;
+
+&lt;p&gt;The author does venture into big questions asking why it is that Europeans and not the Chinese initiated the age of explorations, despite the head start of the Chinese. While these questions are undoubtedly interesting and worthwhile, this book shines in the details. I would be remiss not to mention that throughout there are numerous beautiful color illustrations of paintings and documents.&lt;/p&gt;
+
+&lt;p&gt;This is a book where even if one takes nothing specific away, one will take away much context. The &lt;a href=&quot;https://www.binghamton.edu/fbc/&quot;&gt;Fernand Braudel Center at Binghamton University&lt;/a&gt; continues social science research in Braudel’s tradition.&lt;/p&gt;
+
+&lt;h2 id=&quot;capitalism-without-capital&quot;&gt;Capitalism without Capital&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Jonathan Haskel and Stian Weslake&lt;/p&gt;
+
+&lt;p&gt;Published: 2018&lt;/p&gt;</content><author><name></name></author><summary type="html">[Intro]</summary></entry><entry><title type="html">Resources for Learning Measure Theory</title><link href="http://localhost:4000/measure_theory_resources/" rel="alternate" type="text/html" title="Resources for Learning Measure Theory" /><published>2019-10-13T00:00:00-05:00</published><updated>2019-10-13T00:00:00-05:00</updated><id>http://localhost:4000/measure_theory_resources</id><content type="html" xml:base="http://localhost:4000/measure_theory_resources/">&lt;p&gt;When approaching measure theory for the first time, the ideas can seem opaque and unmotivated. This is amplified since many students of measure theory are not coming from a strictly mathematics background and may be approaching the material on their own outside of the classroom. In addition to first-year math graduate students and advanced math undergraduates, students in stats, economics, the hard sciences, etc. will find their way into learning measure theory. This is a guide to resources for learning measure theory that tries to keep in mind that many (myself included) approach the material with an atypical background.&lt;/p&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
@@ -301,9 +559,66 @@ David Atkinson and Jeanne Peijnenburg. 2017. Fading Foundations: Probability and
   &lt;span class=&quot;k&quot;&gt;\caption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Borel Hierarchy&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;\label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;g:borel&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;hierarchy&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;\end{figure}&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;\end{document}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Top Articles I’ve Read in 2018</title><link href="http://localhost:4000/Top-Articles-2018/" rel="alternate" type="text/html" title="Top Articles I've Read in 2018" /><published>2018-12-16T00:00:00-06:00</published><updated>2018-12-16T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2018</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2018/">&lt;p&gt;Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.&lt;/p&gt;
+&lt;span class=&quot;nt&quot;&gt;\end{document}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-16T00:00:00-06:00</published><updated>2018-12-16T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018/">&lt;p&gt;Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem rather disparate, they are bound together by themes of innovation, conflict, and ideology.&lt;/p&gt;
 
-&lt;p&gt;For the top books that I’ve read in 2018, &lt;a href=&quot;/Top-Books-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;science-and-change-1500-to-1700&quot;&gt;Science and Change: 1500 to 1700&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Hugh Kearney&lt;/p&gt;
+
+&lt;p&gt;Published: 1971&lt;/p&gt;
+
+&lt;p&gt;This book argues that the story of science’s emergence from the darkness during the Renaissance is an instance of revisionist history. &lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;20%&quot; height=&quot;20%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/31/Boyle_air_pump.jpg&quot; /&gt; This story is usually centered on Bacon, the Puritan spirit, the rise of Capitalism, experimentalism, and the founding of the Royal Society in England. In contrast, the author distinguishes between three dominant movements of thought between 1500 to 1700. The Organic movement dominated the beginning of the period having the authority of both church and state. This movement’s intellectual origins are found in Aristotle and biological analogies. The Mystical movement was a reaction to the Organic movement rooted in neo-platonism and alchemy. Finally, we have the usual protagonist in this story: the mechanist movement.&lt;/p&gt;
+
+&lt;p&gt;The usual account holds that the mechanistic approach won out because the mechanists were also the experimentalists. With regard to experiments, differing motivations between practitioners in each tradition led to differences in the objects of experiments. &lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;30%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Harvey_%281578-1657%29_Venenbild.jpg/1024px-William_Harvey_%281578-1657%29_Venenbild.jpg&quot; /&gt; For instance, the Organic approach experimented with blood flow and the purpose of the heart. We can see this illustrated in inventions as well: the Mystic approach made progress in the construction of furnaces, while the mechanists created better clockwork technology. So practitioners in all traditions experimented and invented; it was simply their motivations that differed.&lt;/p&gt;
+
+&lt;p&gt;This book treads familiar ground of philosophy of science and general history of science. I had known that both Newton and Bacon was not the mechanists of their legacies. With that being said, I was unaware of the influence of neo-platonism and the Magical/Occult tradition during the Renaissance. This is a topic I intend to dive deeper into given my interests in Orphism and the so-called mystery cults of antiquity (an interest stemming from discussions of Dionysus and Bacchus in my all time favorite book &lt;a href=&quot;https://en.wikipedia.org/wiki/A_History_of_Western_Philosophy&quot;&gt;&lt;em&gt;A History of Western Philosophy&lt;/em&gt;&lt;/a&gt; by Bertrand Russell).&lt;/p&gt;
+
+&lt;p&gt;The World Scientific printing of this book contains dozens of beautiful, glossy illustrations such as the figure above from William Harvey’s experiments on the circulation of blood. That alone is worth picking up a copy of this one.&lt;/p&gt;
+
+&lt;h2 id=&quot;attack-of-the-50-foot-blockchain&quot;&gt;Attack of the 50 Foot Blockchain&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;50%&quot; height=&quot;50%&quot; src=&quot;https://rocknerd.co.uk/wp-content/uploads/2017/07/botandguy.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: David Gerard&lt;/p&gt;
+
+&lt;p&gt;Published: 2017&lt;/p&gt;
+
+&lt;p&gt;This book discusses both the origins and prospects of Bitcoin and other cryptocurrencies and blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved. The writing style is comical and conversational, and the author pulls no punches in throwing cold water on the cryptocurrency hype. The two quotes below are illustrative:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Bitcoin community is now sufficiently dysfunctional that even such a simple proposal as “OK, let’s increase the block size to two megabytes” led to community schisms, code forks, retributive DDOS attacks, death threats, a split between Chinese miners and American core programmers … and plenty of other clear evidence that this and other problems in the Bitcoin protocol will never be fixed by a consensus process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bitcoins are so hard for normal people to use that from CryptoLocker on, ransomware operators have been known to provide technical support to victims, so they can work out how to pay them and unlock their files. F-Secure even compiled a customer service evaluation of ransomware gangs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gerard’s take is that cryptocurrencies have not delivered on their promises. The implementations of Bitcoin and Ethereum have been fraught with troubles, e.g., &lt;a href=&quot;https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/&quot;&gt;The DAO hack&lt;/a&gt;. The technologies are not easy to use, and the primary use case seems to be some form of money laundering. As for blockchain, there have been successful distributed ledgers, e.g. Git (which I use in conjunction with GitHub to host this site); however, for most use cases, it is overengineering.&lt;/p&gt;
+
+&lt;p&gt;I picked up this book after three months into seriously learning about and eventually mining cryptocurrencies. Keep in mind that this was in the heat of the Bitcoin fever in December 2017! Outside of an &lt;a href=&quot;https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100&quot;&gt;article on Hackernoon&lt;/a&gt;, many of the resources I came across were highly optimistic, e.g., &lt;a href=&quot;https://www.coursera.org/learn/cryptocurrency/home/info&quot;&gt;the &lt;em&gt;Bitcoin and Cryptocurrency Technologies&lt;/em&gt; Coursera course&lt;/a&gt;. Gerard’s book lent a good bit of perspective to my enthusiasm. I look forward to looking back at this one in a decade or so.&lt;/p&gt;
+
+&lt;p&gt;You can read more on &lt;a href=&quot;https://davidgerard.co.uk/blockchain/&quot;&gt;David Gerard’s blog&lt;/a&gt; of the same name.&lt;/p&gt;
+
+&lt;h2 id=&quot;exact-thinking-in-demented-times&quot;&gt;Exact Thinking in Demented Times&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Karl Sigmund&lt;/p&gt;
+
+&lt;p&gt;Published: 2017&lt;/p&gt;
+
+&lt;p&gt;This book chronicles the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vienna_Circle&quot;&gt;Vienna Circle&lt;/a&gt; (or Wiener Kreis), a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna. The aim of the circle was to orient philosophy or foundations on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy, a view referred to as logical positivism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;30%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/17/Schlick_sitting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rather than focusing primarily on the evolution of logical positivism as an idea, Sigmund focuses on the lives and relations between members of the circle. While this account can come off as a bit gossipy, it is instructive in understanding the evolution of an exciting new research program composed of independent thinkers with political differences and big personalities. The Circle was chaired by Moritz Schlick (pictured to the right), a professor of inductive sciences at the University of Vienna. Other members of the circle featured include Rudolph Carnap, Otto Neurath, Phillip Frank, Viktor Kraft, and Hans Hahn.&lt;/p&gt;
+
+&lt;p&gt;The author captures the excitement of the times through detailing the dissemination of the Circle’s research through a series of international conferences, a controversial manifesto (both internally and externally) called &lt;em&gt;The Scientific Conception of the World: The Vienna Circle&lt;/em&gt; (&lt;em&gt;Wissenschafteliche Weltauffassung: Der Wiener Kreis&lt;/em&gt;), an edited journal &lt;a href=&quot;https://www.springer.com/philosophy/journal/10670/PS2&quot;&gt;&lt;em&gt;Erkenntnis&lt;/em&gt;&lt;/a&gt; which is active today, and several published monographs.&lt;/p&gt;
+
+&lt;p&gt;This excitement is best captured in A.J. Ayer’s 1936 report on the developments by the Vienna Circle from a visit in 1933: &lt;a href=&quot;https://en.wikipedia.org/wiki/Language,_Truth,_and_Logic&quot;&gt;Language, Truth, &amp;amp; Logic&lt;/a&gt;. My introduction to logical positivism was through Ayer’s book in a history of analytic philosophy seminar, and my continued interest in the Vienna Circle stems from their ability to have made influential contributions across many disciplines (particularly those I’m interested in) often regarded as requiring high specialization.&lt;/p&gt;
+
+&lt;p&gt;I recommend this book as a companion to &lt;a href=&quot;https://www.harpercollins.com/9780060936648/wittgensteins-poker&quot;&gt;Wittgenstein’s Poker&lt;/a&gt;, the story of the encounter between two thinkers, Karl Popper and Ludwig Wittgenstein, each at the periphery of the Vienna Circle.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem rather disparate, they are bound together by themes of innovation, conflict, and ideology.</summary></entry><entry><title type="html">Top Articles I’ve Read in 2018</title><link href="http://localhost:4000/Top-Articles-2018/" rel="alternate" type="text/html" title="Top Articles I've Read in 2018" /><published>2018-12-16T00:00:00-06:00</published><updated>2018-12-16T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2018</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2018/">&lt;p&gt;Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.&lt;/p&gt;
 
 &lt;h2 id=&quot;pick-the-largest-number&quot;&gt;Pick the Largest Number&lt;/h2&gt;
 &lt;hr /&gt;
@@ -510,65 +825,4 @@ David Atkinson and Jeanne Peijnenburg. 2017. Fading Foundations: Probability and
 
 &lt;hr /&gt;
 &lt;hr /&gt;
-&lt;p&gt;$^*$Since we’re likely not Pythagoreans, there’s probably not a good reason for preferring ten articles to eleven.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.</summary></entry><entry><title type="html">Top Books I’ve Read in 2018</title><link href="http://localhost:4000/Top-Books-2018/" rel="alternate" type="text/html" title="Top Books I've Read in 2018" /><published>2018-12-16T00:00:00-06:00</published><updated>2018-12-16T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2018</id><content type="html" xml:base="http://localhost:4000/Top-Books-2018/">&lt;p&gt;Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem rather disparate, they are bound together by themes of innovation, conflict, and ideology.&lt;/p&gt;
-
-&lt;p&gt;For the top articles that I’ve read in 2018, &lt;a href=&quot;/Top-Articles-2018/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;science-and-change-1500-to-1700&quot;&gt;Science and Change: 1500 to 1700&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Author: Hugh Kearney&lt;/p&gt;
-
-&lt;p&gt;Published: 1971&lt;/p&gt;
-
-&lt;p&gt;This book argues that the story of science’s emergence from the darkness during the Renaissance is an instance of revisionist history. &lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;20%&quot; height=&quot;20%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/31/Boyle_air_pump.jpg&quot; /&gt; This story is usually centered on Bacon, the Puritan spirit, the rise of Capitalism, experimentalism, and the founding of the Royal Society in England. In contrast, the author distinguishes between three dominant movements of thought between 1500 to 1700. The Organic movement dominated the beginning of the period having the authority of both church and state. This movement’s intellectual origins are found in Aristotle and biological analogies. The Mystical movement was a reaction to the Organic movement rooted in neo-platonism and alchemy. Finally, we have the usual protagonist in this story: the mechanist movement.&lt;/p&gt;
-
-&lt;p&gt;The usual account holds that the mechanistic approach won out because the mechanists were also the experimentalists. With regard to experiments, differing motivations between practitioners in each tradition led to differences in the objects of experiments. &lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;30%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Harvey_%281578-1657%29_Venenbild.jpg/1024px-William_Harvey_%281578-1657%29_Venenbild.jpg&quot; /&gt; For instance, the Organic approach experimented with blood flow and the purpose of the heart. We can see this illustrated in inventions as well: the Mystic approach made progress in the construction of furnaces, while the mechanists created better clockwork technology. So practitioners in all traditions experimented and invented; it was simply their motivations that differed.&lt;/p&gt;
-
-&lt;p&gt;This book treads familiar ground of philosophy of science and general history of science. I had known that both Newton and Bacon was not the mechanists of their legacies. With that being said, I was unaware of the influence of neo-platonism and the Magical/Occult tradition during the Renaissance. This is a topic I intend to dive deeper into given my interests in Orphism and the so-called mystery cults of antiquity (an interest stemming from discussions of Dionysus and Bacchus in my all time favorite book &lt;a href=&quot;https://en.wikipedia.org/wiki/A_History_of_Western_Philosophy&quot;&gt;&lt;em&gt;A History of Western Philosophy&lt;/em&gt;&lt;/a&gt; by Bertrand Russell).&lt;/p&gt;
-
-&lt;p&gt;The World Scientific printing of this book contains dozens of beautiful, glossy illustrations such as the figure above from William Harvey’s experiments on the circulation of blood. That alone is worth picking up a copy of this one.&lt;/p&gt;
-
-&lt;h2 id=&quot;attack-of-the-50-foot-blockchain&quot;&gt;Attack of the 50 Foot Blockchain&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;50%&quot; height=&quot;50%&quot; src=&quot;https://rocknerd.co.uk/wp-content/uploads/2017/07/botandguy.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Author: David Gerard&lt;/p&gt;
-
-&lt;p&gt;Published: 2017&lt;/p&gt;
-
-&lt;p&gt;This book discusses both the origins and prospects of Bitcoin and other cryptocurrencies and blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved. The writing style is comical and conversational, and the author pulls no punches in throwing cold water on the cryptocurrency hype. The two quotes below are illustrative:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Bitcoin community is now sufficiently dysfunctional that even such a simple proposal as “OK, let’s increase the block size to two megabytes” led to community schisms, code forks, retributive DDOS attacks, death threats, a split between Chinese miners and American core programmers … and plenty of other clear evidence that this and other problems in the Bitcoin protocol will never be fixed by a consensus process.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bitcoins are so hard for normal people to use that from CryptoLocker on, ransomware operators have been known to provide technical support to victims, so they can work out how to pay them and unlock their files. F-Secure even compiled a customer service evaluation of ransomware gangs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Gerard’s take is that cryptocurrencies have not delivered on their promises. The implementations of Bitcoin and Ethereum have been fraught with troubles, e.g., &lt;a href=&quot;https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/&quot;&gt;The DAO hack&lt;/a&gt;. The technologies are not easy to use, and the primary use case seems to be some form of money laundering. As for blockchain, there have been successful distributed ledgers, e.g. Git (which I use in conjunction with GitHub to host this site); however, for most use cases, it is overengineering.&lt;/p&gt;
-
-&lt;p&gt;I picked up this book after three months into seriously learning about and eventually mining cryptocurrencies. Keep in mind that this was in the heat of the Bitcoin fever in December 2017! Outside of an &lt;a href=&quot;https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100&quot;&gt;article on Hackernoon&lt;/a&gt;, many of the resources I came across were highly optimistic, e.g., &lt;a href=&quot;https://www.coursera.org/learn/cryptocurrency/home/info&quot;&gt;the &lt;em&gt;Bitcoin and Cryptocurrency Technologies&lt;/em&gt; Coursera course&lt;/a&gt;. Gerard’s book lent a good bit of perspective to my enthusiasm. I look forward to looking back at this one in a decade or so.&lt;/p&gt;
-
-&lt;p&gt;You can read more on &lt;a href=&quot;https://davidgerard.co.uk/blockchain/&quot;&gt;David Gerard’s blog&lt;/a&gt; of the same name.&lt;/p&gt;
-
-&lt;h2 id=&quot;exact-thinking-in-demented-times&quot;&gt;Exact Thinking in Demented Times&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Author: Karl Sigmund&lt;/p&gt;
-
-&lt;p&gt;Published: 2017&lt;/p&gt;
-
-&lt;p&gt;This book chronicles the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vienna_Circle&quot;&gt;Vienna Circle&lt;/a&gt; (or Wiener Kreis), a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna. The aim of the circle was to orient philosophy or foundations on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy, a view referred to as logical positivism.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;30%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/17/Schlick_sitting.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rather than focusing primarily on the evolution of logical positivism as an idea, Sigmund focuses on the lives and relations between members of the circle. While this account can come off as a bit gossipy, it is instructive in understanding the evolution of an exciting new research program composed of independent thinkers with political differences and big personalities. The Circle was chaired by Moritz Schlick (pictured to the right), a professor of inductive sciences at the University of Vienna. Other members of the circle featured include Rudolph Carnap, Otto Neurath, Phillip Frank, Viktor Kraft, and Hans Hahn.&lt;/p&gt;
-
-&lt;p&gt;The author captures the excitement of the times through detailing the dissemination of the Circle’s research through a series of international conferences, a controversial manifesto (both internally and externally) called &lt;em&gt;The Scientific Conception of the World: The Vienna Circle&lt;/em&gt; (&lt;em&gt;Wissenschafteliche Weltauffassung: Der Wiener Kreis&lt;/em&gt;), an edited journal &lt;a href=&quot;https://www.springer.com/philosophy/journal/10670/PS2&quot;&gt;&lt;em&gt;Erkenntnis&lt;/em&gt;&lt;/a&gt; which is active today, and several published monographs.&lt;/p&gt;
-
-&lt;p&gt;This excitement is best captured in A.J. Ayer’s 1936 report on the developments by the Vienna Circle from a visit in 1933: &lt;a href=&quot;https://en.wikipedia.org/wiki/Language,_Truth,_and_Logic&quot;&gt;Language, Truth, &amp;amp; Logic&lt;/a&gt;. My introduction to logical positivism was through Ayer’s book in a history of analytic philosophy seminar, and my continued interest in the Vienna Circle stems from their ability to have made influential contributions across many disciplines (particularly those I’m interested in) often regarded as requiring high specialization.&lt;/p&gt;
-
-&lt;p&gt;I recommend this book as a companion to &lt;a href=&quot;https://www.harpercollins.com/9780060936648/wittgensteins-poker&quot;&gt;Wittgenstein’s Poker&lt;/a&gt;, the story of the encounter between two thinkers, Karl Popper and Ludwig Wittgenstein, each at the periphery of the Vienna Circle.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2018. They are presented below in chronological order. While these three books seem rather disparate, they are bound together by themes of innovation, conflict, and ideology.</summary></entry></feed>
+&lt;p&gt;$^*$Since we’re likely not Pythagoreans, there’s probably not a good reason for preferring ten articles to eleven.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top eleven papers I’ve come across in 2018.$^*$ These papers are mostly recent publications (within the last two years) with some older ones peppered in. They are in chronological order below.</summary></entry></feed>
