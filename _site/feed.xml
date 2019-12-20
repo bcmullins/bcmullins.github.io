@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-11T23:14:10-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Articles I’ve Read in 2019</title><link href="http://localhost:4000/Top-Articles-2019/" rel="alternate" type="text/html" title="Top Articles I've Read in 2019" /><published>2019-12-11T00:00:00-06:00</published><updated>2019-12-11T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2019</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2019/">&lt;p&gt;Below are the top eleven articles I’ve read in 2019. A theme of methodology runs through this set of papers, especially statistical methodology. There’s also some fun miscellany mixed in with blockchain (whose craze seems like a lifetime ago now), unicorns, and the history of the English language. To my surprise, all of these articles are from the present decade. They are presented in chronological order.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-20T00:14:38-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Top Books I’ve Read in 2019</title><link href="http://localhost:4000/Top-Books-2019/" rel="alternate" type="text/html" title="Top Books I've Read in 2019" /><published>2019-12-18T00:00:00-06:00</published><updated>2019-12-18T00:00:00-06:00</updated><id>http://localhost:4000/Top-Books-2019</id><content type="html" xml:base="http://localhost:4000/Top-Books-2019/">&lt;p&gt;Here are the top three books I’ve read in 2019, presented below in chronological order by year published. While quite the cliché, the theme that emerged this year is to not judge a book by its cover. While Measure and Category by John Oxtoby appears to be a terse math treatise, it is a short, well-paced, lucid read (though requiring &lt;a href=&quot;/measure_theory_resources/&quot;&gt;some prerequisites&lt;/a&gt;). Braudel’s The Structures of Everyday Life digs deeply into the minutiae of common experience in early modern Europe rather than providing overarching historical narrative. To finish, Haskel and Weslake’s Capitalism without Capital is a well researched - if at times dull - look at intangible assets from a economic perspective whose title reminds one of a political polemic.&lt;/p&gt;
+
+&lt;h2 id=&quot;measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces&quot;&gt;Measure and Category: A Survey of the Analogies between Topological and Measure Spaces&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: John C. Oxtoby&lt;/p&gt;
+
+&lt;p&gt;Published: 1971 (1980 2nd ed.)&lt;/p&gt;
+
+&lt;p&gt;Measure and Category is a slim mathematics monograph that explores connections between concepts in measure theory and topology. From this book’s cover, one would expect the typical, terse Springer(-Verlag) &lt;a href=&quot;https://www.springer.com/series/136&quot;&gt;Graduate Texts in Mathematics&lt;/a&gt; affair. To the contrary, a &lt;a href=&quot;https://mathoverflow.net/questions/11591/suggestions-for-a-good-measure-theory-book&quot;&gt;recommendation on Stack Exchange&lt;/a&gt; describes Measure and Category as “a fantastic little book. After you have studied the others, you can read through this like a novel and everything will start to fit together much more. Pure inspiration.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block; margin: 0px 0px 0px 20px&quot; width=&quot;25%&quot; height=&quot;25%&quot; src=&quot;https://images.springer.com/sgw/books/medium/9780387905082.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To give an example of what’s going on in this book, let’s compare two notions of &lt;em&gt;smallness&lt;/em&gt; applied to subsets of the real numbers. In measure theory, the (Lebesgue) measure is a generalization of the length of an interval, e.g. the measure of the unit interval is one and the measure of the real numbers is infinite. Collections of real numbers with zero measure, also called &lt;a href=&quot;https://en.wikipedia.org/wiki/Null_set&quot;&gt;null sets&lt;/a&gt;, can be thought of as &lt;em&gt;small&lt;/em&gt;. An alternative notion of &lt;em&gt;smallness&lt;/em&gt; from a topological perspective is being &lt;a href=&quot;https://en.wikipedia.org/wiki/Meagre_set&quot;&gt;meagre&lt;/a&gt;. Among other properties, these sets contain no open intervals as subsets. So meagre sets are &lt;em&gt;small&lt;/em&gt; because they lack thickness.&lt;/p&gt;
+
+&lt;p&gt;To illustrate the similarities between null sets and meagre sets, any countable number of null (meagre) sets combined together is a null (meagre) set. So these sets are so small that combining them together with other small sets always yields another small set. Oxtoby provides several &lt;em&gt;duality&lt;/em&gt; results specifying conditions when null and meagre can be interchanged in a theorem. While these properties are similar, not every null set is meagre nor is every meagre set null. In fact, we can show that the real numbers &lt;a href=&quot;https://mathoverflow.net/questions/43478/is-there-a-measure-zero-set-which-isnt-meagre&quot;&gt;can be partitioned&lt;/a&gt; into a null set and a meagre set of relatively low complexity!&lt;/p&gt;
+
+&lt;p&gt;I came across this book when working on a &lt;a href=&quot;https://arxiv.org/abs/1910.08595&quot;&gt;topological approach to explainable machine learning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-structures-of-everyday-life-civilization-and-capital-15th---18th-century-volume-1&quot;&gt;The Structures of Everyday Life: Civilization and Capital, 15th - 18th Century: Volume 1&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Author: Fernand Braudel&lt;/p&gt;
+
+&lt;p&gt;Published: 1981&lt;/p&gt;
+
+&lt;p&gt;The first entry of Braudel’s Civilization and Capital trilogy paints a picture of everyday life in Europe during the 14th to the 18th centuries. Rather than focus on the lives and happenings of so-called “great men”, Braudel discusses the minutiae that is easily overlooked in common experience. These range from the evolution of food and drink to fashion, housing, and decor, to manners, money, and technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block; margin: 0px 0px 0px 20px&quot; width=&quot;25%&quot; height=&quot;25%&quot; src=&quot;https://images.ucpress.edu/covers/300/9780520081147.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most fruitful way to understand this book is as a primer to a particular epoch that sets the stage for the next two volumes of the series. As the goal is to provide the reader with a vivid context, Braudel regularly ventures outside of Europe and into the past to tell the story of how a state of affairs played out and what others were doing around the same time. In this sense, this book is much more broad in scope than it initially claims.&lt;/p&gt;
+
+&lt;p&gt;Braudel can be somewhat uneven as he jumps between topics. For instance, the book begins with a long (perhaps) 70 page digression on the statistics of world population/demography from the late Middle Ages to the 20th century. Similarly, it is apparent that Braudel is quite interested in the Chinese, providing the foil in countless comparisons with Europe.&lt;/p&gt;
+
+&lt;p&gt;The author does briefly venture into big questions asking why it is that Europeans and not the Chinese initiated the age of explorations, despite the head start of the Chinese. While these questions are surely interesting and worthwhile, this book shines in the details. I would be remiss not to mention that throughout there are numerous beautiful color illustrations of paintings and documents (for the hardback printing at least).&lt;/p&gt;
+
+&lt;p&gt;This is a book where even if one takes nothing specific away, one will take away much context. The &lt;a href=&quot;https://www.binghamton.edu/fbc/&quot;&gt;Fernand Braudel Center at Binghamton University&lt;/a&gt; continues social science research in Braudel’s tradition.&lt;/p&gt;
+
+&lt;h2 id=&quot;capitalism-without-capital&quot;&gt;Capitalism without Capital&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Authors: Jonathan Haskel and Stian Weslake&lt;/p&gt;
+
+&lt;p&gt;Published: 2018&lt;/p&gt;
+
+&lt;p&gt;With the title Capitalism without Capital, one may expect a polemic against neoliberalism or a cypherpunk manifesto. Instead, Haskel and Weslake provide a detailed initial investigation into how the increased prevalence of intangible goods affects both our economic statistics and the marketplace.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block; margin: 0px 0px 0px 20px&quot; width=&quot;25%&quot; height=&quot;25%&quot; src=&quot;https://pup-assets.imgix.net/onix/images/9780691175034.jpg?w=640&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The book opens with a succinct example of the growth of intangible assets. Consider a gym from 1970 versus a gym today. By their nature, gyms are physical asset heavy ventures both then and now. The gym of today, however, may include many additional intangible assets, e.g., software organizing memberships, offering classes remotely through streaming video, etc. It is just these sort of intangible assets and goods that our economic statistics can miss!&lt;/p&gt;
+
+&lt;p&gt;Outside of the accounting issues, the increased presence of intangible goods affects the marketplace, especially for firms that primarily produce intangible goods. The market for word processor software, for instance, is heavily dominated by one product since there isn’t enough differential need to warrant more competition: given the nature of the product, one word processor is good enough. On another front, given that business loans through bank financing often require either the firm’s physical assets or stakeholders assets as collateral, these firms will rely more heavily on VC and active investors that are in a position to better understand the potential value of the firm’s assets.&lt;/p&gt;
+
+&lt;p&gt;This book is an interesting read despite being a bit dry from time to time. I certainly have a better appreciation for firms producing software and a better understanding of the role of VC in the software industry. I came across Capitalism without Capital from &lt;a href=&quot;https://www.gatesnotes.com/Books/Capitalism-Without-Capital&quot;&gt;Bill Gates’ recommendation&lt;/a&gt;, and I suspect that many others found it through this same means.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are the top three books I’ve read in 2019, presented below in chronological order by year published. While quite the cliché, the theme that emerged this year is to not judge a book by its cover. While Measure and Category by John Oxtoby appears to be a terse math treatise, it is a short, well-paced, lucid read (though requiring some prerequisites). Braudel’s The Structures of Everyday Life digs deeply into the minutiae of common experience in early modern Europe rather than providing overarching historical narrative. To finish, Haskel and Weslake’s Capitalism without Capital is a well researched - if at times dull - look at intangible assets from a economic perspective whose title reminds one of a political polemic.</summary></entry><entry><title type="html">Top Articles I’ve Read in 2019</title><link href="http://localhost:4000/Top-Articles-2019/" rel="alternate" type="text/html" title="Top Articles I've Read in 2019" /><published>2019-12-12T00:00:00-06:00</published><updated>2019-12-12T00:00:00-06:00</updated><id>http://localhost:4000/Top-Articles-2019</id><content type="html" xml:base="http://localhost:4000/Top-Articles-2019/">&lt;p&gt;Below are the top eleven articles I’ve read in 2019. A theme of methodology runs through this set of papers, especially statistical methodology. There’s also some fun miscellany mixed in with blockchain (whose craze seems like a lifetime ago now), unicorns, and the history of the English language. To my surprise, all of these articles are from the present decade. They are presented in chronological order.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out-of-econometrics&quot;&gt;The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics&lt;/h2&gt;
 &lt;hr /&gt;
@@ -14,7 +67,7 @@
 &lt;p&gt;This paper is in some sense a response to Ed Leamer’s 1983 &lt;a href=&quot;https://www.jstor.org/stable/1803924&quot;&gt;Let’s Take the Con Out of Econometrics&lt;/a&gt; that questioned the methods of econometrics both in theory and in practice for parading as objective science when in reality several hidden judgements are made by practitioners. Angrist and Pischke argue that, since Leamer’s critique, a focus on research design, i.e., the way in which studies are formulated and data is collected, has led to a revolution in econometrics.  Specifically, the use of quasi-experimental methods such as instrumental variables, regression discontinuity design, and difference-in-differences has led to more robust estimates of causal effects. Whereas Leamer proposed sensitivity analysis as a solution, the authors contend that better design better addresses Leamer’s worries.&lt;/p&gt;
 
 &lt;figure style=&quot;float: right; display: inline-block&quot;&gt;
-  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/rdd.png&quot; width=&quot;350&quot; height=&quot;275&quot; /&gt;
+  &lt;img src=&quot;/images/blog/top_articles_2019/rdd.png&quot; width=&quot;350&quot; height=&quot;275&quot; /&gt;
   &lt;figcaption style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://davidevans.blog/2018/05/18/activity-for-teaching-regression-discontinuity-design/&quot;&gt;Example Regression Discontinuity Design&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -73,7 +126,7 @@
 &lt;p&gt;Link: &lt;a href=&quot;https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec&quot;&gt;medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure style=&quot;float: right; display: inline-block&quot;&gt;
-  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/blockchainmail.jpg&quot; /&gt;
+  &lt;img src=&quot;/images/blog/top_articles_2019/blockchainmail.jpg&quot; /&gt;
   &lt;figcaption style=&quot;text-align: center&quot;&gt;Blockchainmail&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -191,7 +244,7 @@
 &lt;p&gt;This paper extends the idea of a local explanation of a classifier’s prediction to counterfactually-justified local explanations to provide a link between the classifier and the training data. For an explanation to be justified for a given point in the feature space $x$, there must exist point $z$ in the training data, perhaps the nearest point to $x$, that’s correctly classified where $x, z$ belong to the same label and are topologically &lt;a href=&quot;https://en.wikipedia.org/wiki/Connected_space#Path_connectedness&quot;&gt;path connected&lt;/a&gt; with respect to the euclidean topology on the feature space. The intuition is that a local explanation for a prediction cannot be justified in this stronger sense if the point in question is isolated from correctly predicted instances in the training data. This leads to the amusing corollary that no explanations are justified if the predictive model classifies all instances in the training data incorrectly.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/images/blog/top_articles_2019/counterfactual_explanations.png&quot; /&gt;
+  &lt;img src=&quot;/images/blog/top_articles_2019/counterfactual_explanations.png&quot; /&gt;
   &lt;figcaption style=&quot;text-align: center&quot;&gt;Left: explanation not justified; right: explanation justified&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -223,40 +276,7 @@
 
 &lt;h2 id=&quot;advanced-features&quot;&gt;Advanced Features&lt;/h2&gt;
 
-&lt;h2 id=&quot;future-features&quot;&gt;Future Features&lt;/h2&gt;</content><author><name></name></author><summary type="html">[Intro]</summary></entry><entry><title type="html">Top Books I’ve Read in 2019</title><link href="http://localhost:4000/Top-Books-2019/" rel="alternate" type="text/html" title="Top Books I've Read in 2019" /><published>2019-10-16T00:00:00-05:00</published><updated>2019-10-16T00:00:00-05:00</updated><id>http://localhost:4000/Top-Books-2019</id><content type="html" xml:base="http://localhost:4000/Top-Books-2019/">&lt;p&gt;[Intro]&lt;/p&gt;
-
-&lt;h2 id=&quot;measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces&quot;&gt;Measure and Category: A Survey of the Analogies between Topological and Measure Spaces&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Author: John C. Oxtoby&lt;/p&gt;
-
-&lt;p&gt;Published: 1971 (1980 2nd ed.)&lt;/p&gt;
-
-&lt;h2 id=&quot;the-structures-of-everyday-life-civilization-and-capital-15th---18th-century-volume-1&quot;&gt;The Structures of Everyday Life: Civilization and Capital, 15th - 18th Century: Volume 1&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Author: Fernand Braudel&lt;/p&gt;
-
-&lt;p&gt;Published: 1981&lt;/p&gt;
-
-&lt;p&gt;Braudel’s book paints a picture of everyday life in Europe during the 14th to the 18th centuries. Rather than focus on the lives and happenings of so-called “great men”, Braudel discusses the minutiae that is easily overlooked. These range from the evolution of food and drink to fashion, housing, and decor, to manners, money, and technology.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&quot;float: right; display: inline-block&quot; width=&quot;60%&quot; height=&quot;60%&quot; src=&quot;/images/blog/top_books_2019/hoe_cultivation_belt.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The most fruitful way to understand this book is as a primer on the era that sets the stage for the next two volumes of the work. As the goal is to provide the reader with a vivid context, Braudel is not regularly ventures outside of Europe and into the past to tell the story of how the state of affairs played out and what others were doing at the same time.&lt;/p&gt;
-
-&lt;p&gt;Braudel can be somewhat uneven as he jumps between topics. For instance, the book begins with a long (perhaps) 70 page digression on the statistics world population/demography from the late Middle Ages to the 20th century. It is apparent that Braudel is interested in the Chinese, providing the foil to countless comparisons with Europe.&lt;/p&gt;
-
-&lt;p&gt;The author does venture into big questions asking why it is that Europeans and not the Chinese initiated the age of explorations, despite the head start of the Chinese. While these questions are undoubtedly interesting and worthwhile, this book shines in the details. I would be remiss not to mention that throughout there are numerous beautiful color illustrations of paintings and documents.&lt;/p&gt;
-
-&lt;p&gt;This is a book where even if one takes nothing specific away, one will take away much context. The &lt;a href=&quot;https://www.binghamton.edu/fbc/&quot;&gt;Fernand Braudel Center at Binghamton University&lt;/a&gt; continues social science research in Braudel’s tradition.&lt;/p&gt;
-
-&lt;h2 id=&quot;capitalism-without-capital&quot;&gt;Capitalism without Capital&lt;/h2&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;Authors: Jonathan Haskel and Stian Weslake&lt;/p&gt;
-
-&lt;p&gt;Published: 2018&lt;/p&gt;</content><author><name></name></author><summary type="html">[Intro]</summary></entry><entry><title type="html">Resources for Learning Measure Theory</title><link href="http://localhost:4000/measure_theory_resources/" rel="alternate" type="text/html" title="Resources for Learning Measure Theory" /><published>2019-10-13T00:00:00-05:00</published><updated>2019-10-13T00:00:00-05:00</updated><id>http://localhost:4000/measure_theory_resources</id><content type="html" xml:base="http://localhost:4000/measure_theory_resources/">&lt;p&gt;When approaching measure theory for the first time, the ideas can seem opaque and unmotivated. This is amplified since many students of measure theory are not coming from a strictly mathematics background and may be approaching the material on their own outside of the classroom. In addition to first-year math graduate students and advanced math undergraduates, students in stats, economics, the hard sciences, etc. will find their way into learning measure theory. This is a guide to resources for learning measure theory that tries to keep in mind that many (myself included) approach the material with an atypical background.&lt;/p&gt;
+&lt;h2 id=&quot;future-features&quot;&gt;Future Features&lt;/h2&gt;</content><author><name></name></author><summary type="html">[Intro]</summary></entry><entry><title type="html">Resources for Learning Measure Theory</title><link href="http://localhost:4000/measure_theory_resources/" rel="alternate" type="text/html" title="Resources for Learning Measure Theory" /><published>2019-10-13T00:00:00-05:00</published><updated>2019-10-13T00:00:00-05:00</updated><id>http://localhost:4000/measure_theory_resources</id><content type="html" xml:base="http://localhost:4000/measure_theory_resources/">&lt;p&gt;When approaching measure theory for the first time, the ideas can seem opaque and unmotivated. This is amplified since many students of measure theory are not coming from a strictly mathematics background and may be approaching the material on their own outside of the classroom. In addition to first-year math graduate students and advanced math undergraduates, students in stats, economics, the hard sciences, etc. will find their way into learning measure theory. This is a guide to resources for learning measure theory that tries to keep in mind that many (myself included) approach the material with an atypical background.&lt;/p&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
