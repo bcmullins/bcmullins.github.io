@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Structure of Epistemic Justification via the Telephone Game (part I)
-categories: epistemology
+categories: Epistemology
 mathjax: true
 ---
 
