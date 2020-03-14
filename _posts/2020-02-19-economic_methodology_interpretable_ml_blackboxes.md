@@ -1,11 +1,11 @@
 ---
 layout: post_emiml
-title: Interpretability, Explainability, and Black Boxes
+title: Economic Methodology Meets Interpretable Machine Learning - Part I - Interpretability, Explainability, and Black Boxes
 categories: ExplainableML PhilScience
 mathjax: true
 ---
 
-This post briefly introduces the ideas of black boxes, explainability, and interpretability for machine learning models and offers arguments for and against deploying only interpretable models in the wild when interpretable models are available. The debate over interpretable models in machine learning is far from settled and has been getting [much attention in recent years](http://interpretable.ml/#Debate).
+This post is the first entry in Economic Methodology Meets Interpretable Machine Learning and briefly introduces the ideas of black boxes, explainability, and interpretability for machine learning models and offers arguments for and against deploying only interpretable models in the wild when interpretable models are available. The debate over interpretable models in machine learning is far from settled and has been getting [much attention in recent years](http://interpretable.ml/#Debate).
 
 There is no clear consensus on what exactly black boxes, explainability, and interpretability mean as evidenced by (and despite) the dozens of review articles (that are hopefully not all saying the same thing). See [here](https://christophm.github.io/interpretable-ml-book/), [here](http://doi.acm.org/10.1145/3236009), and [here](https://ui.adsabs.harvard.edu/abs/2017arXiv170208608D) for a few. Take my approach as one perspective among many.
 
