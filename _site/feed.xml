@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-14T16:16:33-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Some Fun with Knights and Knaves</title><link href="http://localhost:4000/knights-knaves-smullyan-part1/" rel="alternate" type="text/html" title="Some Fun with Knights and Knaves" /><published>2020-03-14T00:00:00-05:00</published><updated>2020-03-14T00:00:00-05:00</updated><id>http://localhost:4000/knights-knaves-smullyan-part1</id><content type="html" xml:base="http://localhost:4000/knights-knaves-smullyan-part1/">&lt;p&gt;I’m currently working through Raymond Smullyan’s &lt;a href=&quot;https://store.doverpublications.com/0486497054.html&quot;&gt;The Gödelian Puzzle Book&lt;/a&gt; and came across a fun problem that serves as a good starting point for new readers of Smullyan. Smullyan is well known for (among many other things) producing &lt;a href=&quot;https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_puzzles&quot;&gt;several books of logic puzzles&lt;/a&gt; that introduce ideas from mathematical and philosophical logic in an accessible but still technical way. These books are often formatted where each chapter has an introduction to the relevant characters, ideas, and setting, several problems for the reader to work through, and the solutions to the problems.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-30T18:32:03-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brett Mullins</title><subtitle>Researcher - Data Scientist</subtitle><entry><title type="html">Shadow on Pop!_OS/Ubuntu 19.10</title><link href="http://localhost:4000/shadow-on-popos-1910/" rel="alternate" type="text/html" title="Shadow on Pop!_OS/Ubuntu 19.10" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>http://localhost:4000/shadow-on-popos-1910</id><content type="html" xml:base="http://localhost:4000/shadow-on-popos-1910/">&lt;p&gt;I recently moved to a &lt;a href=&quot;https://system76.com&quot;&gt;System76&lt;/a&gt; Darter Pro running &lt;a href=&quot;https://system76.com/pop&quot;&gt;Pop!_OS 19.10&lt;/a&gt; as my primary laptop (review coming soon). As you might have guessed by the version number, Pop!_OS is System76’s fork of Ubuntu. With this move, I switched to &lt;a href=&quot;https://shadow.tech&quot;&gt;Shadow&lt;/a&gt; as my cloud gaming service, since they have a supported Linux client - no messing with Wine, dual boots, or VMs required! The Shadow Linux client is built to be compatible with 18.04+ but didn’t work right away due to some &lt;a href=&quot;https://wiki.archlinux.org/index.php/Hardware_video_acceleration&quot;&gt;Video Acceleration&lt;/a&gt; issues. Below is a guide for getting Shadow running on 19.10 based on my experience troubleshooting.&lt;/p&gt;
+
+&lt;div style=&quot;content: ''; clear: both; display: flex;&quot;&gt;
+  &lt;div style=&quot;float: left; width 40%; padding: 5px; flex: 40%&quot;&gt;
+    &lt;img src=&quot;/images/blog/shadow_pop/pop.png&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div style=&quot;float: right; width 60%; padding: 5px; flex:60%&quot;&gt;
+    &lt;img src=&quot;/images/blog/shadow_pop/shadow_logo.jpeg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://nicolasguilloux.github.io/blade-shadow-beta/&quot;&gt;Shadow Linux client&lt;/a&gt; is an easy to use AppImage file which looks to have been developed initially by the Shadow Linux community. Following the documentation for getting the VA-API to detect my onboard GPU, I ran into numerous issues with drivers. Despite my efforts, I could not get any results with the i965 driver, so I tried using the iHD driver suggested by a random StackExchange post. By switching drivers and passing a flag when launching Shadow, the client runs and streams without issues.&lt;/p&gt;
+
+&lt;p&gt;Here are the steps:&lt;/p&gt;
+
+&lt;p&gt;1 - Use &lt;code class=&quot;highlighter-rouge&quot;&gt;vainfo&lt;/code&gt; to find your GPU. If you see &lt;code class=&quot;highlighter-rouge&quot;&gt;-1&lt;/code&gt; returned anywhere (like below), then you likely have driver problems.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;vainfo
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; vainfo
+libva info: VA-API version 1.5.0
+libva info: va_getDriverName&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init &lt;span class=&quot;k&quot;&gt;function &lt;/span&gt;__vaDriverInit_1_4
+libva error: /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so init failed
+libva info: va_openDriver&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; returns &lt;span class=&quot;nt&quot;&gt;-1&lt;/span&gt;
+vaInitialize failed with error code &lt;span class=&quot;nt&quot;&gt;-1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;unknown libva error&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;,exit&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;2 - Install the &lt;a href=&quot;https://github.com/intel/media-driver&quot;&gt;drivers for the onboard GPU&lt;/a&gt;. Note that &lt;code class=&quot;highlighter-rouge&quot;&gt;intel-media-va-driver&lt;/code&gt; doesn’t seem to give you all that you need, so &lt;code class=&quot;highlighter-rouge&quot;&gt;intel-media-va-driver-non-free&lt;/code&gt; may be necessary.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;libva libmfx1 libmfx-tools intel-media-va-driver-non-free&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;3 - Check that the drivers are recognized. You should be seeing both &lt;code class=&quot;highlighter-rouge&quot;&gt;H264&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;HEVC&lt;/code&gt; in the output.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;LIBVA_DRIVER_NAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;iHD
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; vainfo
+libva info: VA-API version 1.5.0
+libva info: va_getDriverName&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; returns 0
+libva info: User requested driver &lt;span class=&quot;s1&quot;&gt;'iHD'&lt;/span&gt;
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init &lt;span class=&quot;k&quot;&gt;function &lt;/span&gt;__vaDriverInit_1_5
+libva info: va_openDriver&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; returns 0
+vainfo: VA-API version: 1.5 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;libva 2.5.0&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+vainfo: Driver version: Intel iHD driver - 1.0.0
+vainfo: Supported profile and entrypoints
+      VAProfileNone                   :	VAEntrypointVideoProc
+      VAProfileNone                   :	VAEntrypointStats
+      VAProfileMPEG2Simple            :	VAEntrypointVLD
+      VAProfileMPEG2Simple            :	VAEntrypointEncSlice
+      VAProfileMPEG2Main              :	VAEntrypointVLD
+      VAProfileMPEG2Main              :	VAEntrypointEncSlice
+      VAProfileH264Main               :	VAEntrypointVLD
+      VAProfileH264Main               :	VAEntrypointEncSlice
+      VAProfileH264Main               :	VAEntrypointFEI
+      VAProfileH264Main               :	VAEntrypointEncSliceLP
+      VAProfileH264High               :	VAEntrypointVLD
+      VAProfileH264High               :	VAEntrypointEncSlice
+      VAProfileH264High               :	VAEntrypointFEI
+      VAProfileH264High               :	VAEntrypointEncSliceLP
+      VAProfileVC1Simple              :	VAEntrypointVLD
+      VAProfileVC1Main                :	VAEntrypointVLD
+      VAProfileVC1Advanced            :	VAEntrypointVLD
+      VAProfileJPEGBaseline           :	VAEntrypointVLD
+      VAProfileJPEGBaseline           :	VAEntrypointEncPicture
+      VAProfileH264ConstrainedBaseline:	VAEntrypointVLD
+      VAProfileH264ConstrainedBaseline:	VAEntrypointEncSlice
+      VAProfileH264ConstrainedBaseline:	VAEntrypointFEI
+      VAProfileH264ConstrainedBaseline:	VAEntrypointEncSliceLP
+      VAProfileVP8Version0_3          :	VAEntrypointVLD
+      VAProfileVP8Version0_3          :	VAEntrypointEncSlice
+      VAProfileHEVCMain               :	VAEntrypointVLD
+      VAProfileHEVCMain               :	VAEntrypointEncSlice
+      VAProfileHEVCMain               :	VAEntrypointFEI
+      VAProfileHEVCMain10             :	VAEntrypointVLD
+      VAProfileHEVCMain10             :	VAEntrypointEncSlice
+      VAProfileVP9Profile0            :	VAEntrypointVLD
+      VAProfileVP9Profile2            :	VAEntrypointVLD&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;4 - Test the video encoding. It’s a strange video… but it’s in the &lt;a href=&quot;https://github.com/Intel-Media-SDK/MediaSDK/wiki/Intel-media-stack-on-Ubuntu&quot;&gt;Intel Media Kit documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;wget https://fate-suite.libav.org/h264-conformance/AUD_MW_E.264
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;/usr/share/mfx/samples/sample_decode h264 &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; AUD_MW_E.264 &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 30 &lt;span class=&quot;nt&quot;&gt;-rgb4&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;5 - Run the Shadow AppImage with the &lt;em&gt;no sandbox&lt;/em&gt; option set.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;path/to/AppImage/directory
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;./Shadow.AppImage &lt;span class=&quot;nt&quot;&gt;--no-sandbox&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;For the future, you may want to add the export statement from step three to your .bashrc file or create a shell script to that runs the export statement and the AppImage. Enjoy!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: I’m still not 100% confident in the details of how this method works under the hood. If anyone wants to chat about it, feel free to email me at brettcmullins at gmail.com.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">I recently moved to a System76 Darter Pro running Pop!_OS 19.10 as my primary laptop (review coming soon). As you might have guessed by the version number, Pop!_OS is System76’s fork of Ubuntu. With this move, I switched to Shadow as my cloud gaming service, since they have a supported Linux client - no messing with Wine, dual boots, or VMs required! The Shadow Linux client is built to be compatible with 18.04+ but didn’t work right away due to some Video Acceleration issues. Below is a guide for getting Shadow running on 19.10 based on my experience troubleshooting.</summary></entry><entry><title type="html">Some Fun with Knights and Knaves</title><link href="http://localhost:4000/knights-knaves-smullyan-part1/" rel="alternate" type="text/html" title="Some Fun with Knights and Knaves" /><published>2020-03-14T00:00:00-05:00</published><updated>2020-03-14T00:00:00-05:00</updated><id>http://localhost:4000/knights-knaves-smullyan-part1</id><content type="html" xml:base="http://localhost:4000/knights-knaves-smullyan-part1/">&lt;p&gt;I’m currently working through Raymond Smullyan’s &lt;a href=&quot;https://store.doverpublications.com/0486497054.html&quot;&gt;The Gödelian Puzzle Book&lt;/a&gt; and came across a fun problem that serves as a good starting point for new readers of Smullyan. Smullyan is well known for (among many other things) producing &lt;a href=&quot;https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_puzzles&quot;&gt;several books of logic puzzles&lt;/a&gt; that introduce ideas from mathematical and philosophical logic in an accessible but still technical way. These books are often formatted where each chapter has an introduction to the relevant characters, ideas, and setting, several problems for the reader to work through, and the solutions to the problems.
 &lt;img style=&quot;float: right; display: inline-block; margin: 10px 0px 0px 20px; width: 200px; height: 300px&quot; src=&quot;https://sep.yimg.com/ca/I/yhst-137970348157658_2614_646619657&quot; /&gt;
 I’ve found that working through Smullyan’s books helps build mathematical intuition better than repeatedly walking through proofs and applications of theorems. I would much rather go through Smullyan’s Gödel book than ever see &lt;a href=&quot;https://www.logicmatters.net/tyl/booknotes/enderton/&quot;&gt;Enderton’s Chapter 3&lt;/a&gt; again!&lt;/p&gt;
 
@@ -609,52 +700,4 @@ Peter Klein and John Turri. “Infinitism in Epistemology”, Internet Encyclope
 Cameron Ross. “Infinite Regress Arguments”, The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.), &lt;a href=&quot;https://plato.stanford.edu/archives/fall2018/entries/infinite-regress/&quot;&gt;https://plato.stanford.edu/archives/fall2018/entries/infinite-regress/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;On the mathematical approach to the regress problem:&lt;br /&gt;
-David Atkinson and Jeanne Peijnenburg. 2017. Fading Foundations: Probability and the Regress Problem. Springer Open. &lt;a href=&quot;https://doi.org/10.1007/978-3-319-58295-5&quot;&gt;https://doi.org/10.1007/978-3-319-58295-5&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In epistemology, we often think of the things we believe as discrete propositions. For instance, you may believe that there is a computer screen in front of you. But how is this belief justified? One way of justifying a belief is by offering a reason, which can itself also be a proposition. For this next proposition, we can then ask how it is justified and so on. The regress problem asks the following question: if any of the things we believe are justified, then what is the structure of that justification? Does the justification question not just keep getting passed backward forever with reasons for reasons for reasons?</summary></entry><entry><title type="html">Borel Hierarchy in Latex with TikZ</title><link href="http://localhost:4000/borel-hierarchy/" rel="alternate" type="text/html" title="Borel Hierarchy in Latex with TikZ" /><published>2019-01-12T00:00:00-06:00</published><updated>2019-01-12T00:00:00-06:00</updated><id>http://localhost:4000/borel-hierarchy</id><content type="html" xml:base="http://localhost:4000/borel-hierarchy/">&lt;p&gt;&lt;img width=&quot;40%&quot; height=&quot;40%&quot; src=&quot;/images/blog/borel_hierarchy/borel_hierarchy.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was looking online for a simple vertical Borel Hierarchy in Latex for a paper that I’m writing and had no luck. So I’ve written one. See the code below to use it.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-latex&quot; data-lang=&quot;latex&quot;&gt;&lt;span class=&quot;k&quot;&gt;\documentclass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;article&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;\usepackage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;tikz&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;\begin{document}&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;\begin{figure}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;\centering&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;\begin{tikzpicture}&lt;/span&gt; [scale=1]
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (delta01) at (0,0) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (sigma01) at (1,1) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Sigma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (pi01) at (-1,1) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Pi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (delta02) at (0,2) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (sigma02) at (1,3) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Sigma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (pi02) at (-1,3) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Pi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (deltamid) at (0,4) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (sigmamid) at (1,5) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (pimid) at (-1,5) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (delta0alpha) at (0,4) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\alpha&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (sigma0alpha) at (1,5) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Sigma&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\alpha&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (pi0alpha) at (-1,5) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Pi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\alpha&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (delta0alpha1) at (0, 6) &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\Delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;_{&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\alpha&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (deltatop) at (0,7) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (sigmatop) at (1,7) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\node&lt;/span&gt; (pitop) at (-1,7) &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta01) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (sigma01);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta01) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (pi01);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta02) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (sigma01);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta02) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (pi01);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta02) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (sigma02);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta02) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (pi02);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta02) -- (deltamid) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (sigma02) -- (sigmamid) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (pi02) -- (pimid) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta0alpha) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (sigma0alpha);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta0alpha) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (pi0alpha);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta0alpha1) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (sigma0alpha);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta0alpha1) edge node[left] &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt; (pi0alpha);
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (delta0alpha1) -- (deltatop) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (sigma0alpha) -- (sigmatop) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-    &lt;span class=&quot;k&quot;&gt;\path&lt;/span&gt; (pi0alpha) -- (pitop) node [midway, sloped] &lt;span class=&quot;p&quot;&gt;{$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\dots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$}&lt;/span&gt;;
-  &lt;span class=&quot;nt&quot;&gt;\end{tikzpicture}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;\caption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Borel Hierarchy&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;\label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;g:borel&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;hierarchy&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;\end{figure}&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;\end{document}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+David Atkinson and Jeanne Peijnenburg. 2017. Fading Foundations: Probability and the Regress Problem. Springer Open. &lt;a href=&quot;https://doi.org/10.1007/978-3-319-58295-5&quot;&gt;https://doi.org/10.1007/978-3-319-58295-5&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In epistemology, we often think of the things we believe as discrete propositions. For instance, you may believe that there is a computer screen in front of you. But how is this belief justified? One way of justifying a belief is by offering a reason, which can itself also be a proposition. For this next proposition, we can then ask how it is justified and so on. The regress problem asks the following question: if any of the things we believe are justified, then what is the structure of that justification? Does the justification question not just keep getting passed backward forever with reasons for reasons for reasons?</summary></entry></feed>
