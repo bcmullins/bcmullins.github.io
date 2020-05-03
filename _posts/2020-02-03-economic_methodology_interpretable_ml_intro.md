@@ -1,5 +1,5 @@
 ---
-layout: post_emiml
+layout: post_emiml_first
 title: Economic Methodology Meets Interpretable Machine Learning - Introduction
 categories: ExplainableML PhilScience
 mathjax: true
