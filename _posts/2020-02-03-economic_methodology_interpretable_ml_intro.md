@@ -35,7 +35,7 @@ I plan to post a new entry in this series every two weeks or so. If you want kee
 
 **Part II** introduces Milton Friedman's 1953 article *The Methodology of Positive Economics*. This article is regarded as "the most cited, influential, and controversial piece of methodological writing in twentieth-century economics", arguing that the assumptions of an economic model are unimportant so long as the model is predictive within its domain.  
 
-**Part III** looks at responses to Friedman by Paul Samuelson and Dan Hausman which capture the some of the intuition of what's problematic with Friedman's argument.
+**Part III** looks at responses to Friedman by Paul Samuelson, Stanley Wong, and Dan Hausman which capture the some of the intuition of what's problematic with Friedman's argument.
 
 **Part IV** considers the current state of the realistic assumptions debate and introduces two contemporary arguments: one in support of instrumentalism and another which holds that economists follow a middle position in practice.
 

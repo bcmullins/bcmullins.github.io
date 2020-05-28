@@ -5,7 +5,7 @@ categories: PhilScience
 mathjax: true
 ---
 
-This post introduces [Milton Friedman's](https://en.wikipedia.org/wiki/Milton_Friedman) 1953 essay *The Methodology of Positive Economics* which takes the position that economic theories should be evaluated only on their predictions within some specified domain. This article [has been called](https://tint.helsinki.fi/publications/maki,%20readingF53.pdf) "the most cited, the most influential, and the most controversial piece of methodological writing in 20th century economics" and plays the foil (and occasionally the bogeyman) in much of the economic methodology literature.
+This post introduces [Milton Friedman's](https://en.wikipedia.org/wiki/Milton_Friedman) 1953 essay *The Methodology of Positive Economics* which takes the position that economic theories should be evaluated only on their predictions within some specified domain. This article [has been called](https://tint.helsinki.fi/publications/maki,%20readingF53.pdf) "the most cited, the most influential, and the most controversial piece of methodological writing in 20th century economics" and plays the foil (and occasionally the bogeyman) in much of the economic methodology literature. This is so much so that it is often referred to as Friedman 1953 or even F53.
 
 To illustrate this point, one influential commentator [sums up his view](https://afinetheorem.wordpress.com/2011/06/27/a-critique-of-friedmans-methodological-instrumentalism-b-caldwell-1980/) on Friedman's methodology:
 >"if what you are doing looks like Popper or Friedman (1953), you are doing something gravely wrong. Friedman’s positive economics essay is so influential, though, that we need continue battening down the hatches as its destructive tempest swirls."

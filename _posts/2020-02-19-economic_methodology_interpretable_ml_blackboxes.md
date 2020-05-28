@@ -55,7 +55,7 @@ This argument is a strengthened version of the one given in [*Stop explaining bl
 
 ## The Case Against Interpretability in the Wild
 
-<img width='40%' height='40%' style="float: right; display: inline-block; margin: 0px 0px 0px 20px" src="https://media.arxiv-vanity.com/render-output/2475882/XAI.png">
+<img width='40%' height='40%' style="float: right; display: inline-block; margin: 0px 0px 0px 20px" src="/images/blog/econML/tradeoff.png">
 
 One interesting argument posits that [interpretability is a means and not an end](https://link.springer.com/article/10.1007/s13347-019-00372-9). The ends in question for machine learning models are fairness, privacy, stability, causality, and so forth. With the focus on interpretability, we may be (implicitly) assuming both that interpretability is a means at getting at these ends and, more strongly, that interpretability is the only means to get at these ends. At the very least, this should be suspect, since interpretability is domain-specific and lacks a unified definition.
 
