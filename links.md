@@ -17,6 +17,14 @@ permalink: /links/
 
 [Logic Matters](https://www.logicmatters.net/blogfront/)
 
+### Periodicals I Read
+
+[Foreign Affairs](https://www.foreignaffairs.com/)
+
+[Aeon](https://aeon.co/)
+
+[The New Atlantis](https://www.thenewatlantis.com/)
+
 ### Podcasts I Listen To
 
 [Philosophize This!](http://philosophizethis.org)

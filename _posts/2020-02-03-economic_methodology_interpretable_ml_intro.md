@@ -27,7 +27,7 @@ There are few economic methodologists today who hold these sorts of instrumental
 
 ### Plan for Future Posts
 
-I plan to post a new entry in this series every two weeks or so. If you want keep up to date with this series, you can subscribe by email in the box at the top of this page. Here is a brief summary of each entry:
+If you want keep up to date with this series, you can subscribe by email in the box at the top of this page. Here is a brief summary of each entry:
 
 **Part I** gives an overview of black box, explainable, and interpretable machine learning models. We sketch a few arguments focusing on model trust against using black box models in the wild. While some argue for using explainability techniques such as LIME, others push for restricting practitioners to only deploying interpretable models when available and appropriate.  
 
