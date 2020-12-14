@@ -1,0 +1,63 @@
+I"<p>Below are the top books I’ve read in 2020.</p>
+
+<p>They are presented in chronological order.</p>
+
+<h2 id="the-history-of-phlogiston-theory">The History of Phlogiston Theory</h2>
+<hr />
+
+<p>Author: John Henry White</p>
+
+<p>Published: 1932</p>
+
+<p>[Introduce phlogiston theory; how it’s often taught today in phil and history of science for instance; especially regarding negative weight]</p>
+
+<p>[“The Phlogiston Period was a halfway stage between alchemy and modern chemistry.”]</p>
+
+<figure style="float: right; display: inline-block; margin: 10px 0px 10px 25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Georg_Ernst_Stahl_crop.jpg/800px-Georg_Ernst_Stahl_crop.jpg" width="200" height="250" />
+  <figcaption style="text-align: center">Georg Stahl</figcaption>
+</figure>
+
+<p>[With respect to the view that phlogiston has levity or negative weight, which originates with Johann Juncker in 1730. The author adds: “Writers are often prone to point to this absurdity as typifying the attitude of phlogistonists and speak of it as being their one lame answer to a leading question, but such was by no means the case. Apart from the fact that such a theory seemed much less absurd then than now, actually it gained very little support and many leading phlogistonists would have none of it.”]</p>
+
+<p>[I was only lost in the chemistry a few times]</p>
+
+<h2 id="the-abraham-dilemma-a-divine-delusion">The Abraham Dilemma: A Divine Delusion</h2>
+<hr />
+
+<p>Author: George Graham</p>
+
+<p>Published: 2015</p>
+
+<p>This book develops a theory of delusion, particularly <a href="https://en.wikipedia.org/wiki/Religious_delusion">religious delusion</a>, as a mental illness. This account of delusion is not limited to the fixation of a particular belief; rather, Graham argues that delusion is more of a tendency or disposition toward sorts of beliefs. In the case of religious delusion, these beliefs are religious or spiritual in nature.</p>
+
+<p><img style="float: right; display: inline-block; margin: 10px 0px 10px 25px" src="https://fdslive.oup.com/covers/gab/550-550-72-jpg-RGB-85/9780198728658.jpg" width="180" height="250" /></p>
+
+<p>Many definitions of delusion hold that the subject of a delusion harbors false beliefs against evidence to the contrary. In the case of religious or spiritual delusion, however, this is complicated since not all such beliefs are verifiable or falsifiable, e.g. consider the proposition <em>God exists</em>. For sure, delusion still requires one to unreasonably hold a belief. What’s not clear, though, is whether or not this is sufficient. Consider an example of so-called <a href="https://en.wikipedia.org/wiki/Positive_illusions">Positive Illusions</a>, beliefs that may be false that are beneficial to one’s well being, such as a parent believing that their child is not using drugs. On this account, delusion requires a belief held unreasonably with negative consequences for one’s well being.</p>
+
+<p>Graham offers joint sufficiency conditions for delusion as well as suggesting which of them might be necessary. In addition to the two mentioned above, Graham includes resistance to challenges of one’s beliefs as well as over-identifying one’s self with one’s beliefs. While these conditions are not precise enough to act as diagnostic criteria, they do encapsulate a theory of delusion as a mental disorder that keeps clinicians and patients in mind. One criticism of the book is that Graham waits until near the end of the book to unveil these sufficiency conditions, after much buildup, and then quickly moves on, leaving the reader a bit unsatisfied.</p>
+
+<p>I took George Graham’s seminar on Philosophy and Mental Illness in 2014 at <a href="https://philosophy.gsu.edu/">Georgia State University</a> and had several interesting chats about the metaphysics and definability of mental disorders.</p>
+
+<h2 id="libra-shrugged-how-facebook-tried-to-take-over-the-money">Libra Shrugged: How Facebook Tried to Take Over the Money</h2>
+<hr />
+
+<p>Author: David Gerard</p>
+
+<p>Published: 2020</p>
+
+<p>This book tells the story of Libra, Facebook’s failed attempt to create a cryptocurrency. In contrast to the discussion and poking fun at the <a href="https://en.wikipedia.org/wiki/Cypherpunk">cypherpunk ideology</a> behind Bitcoin and other cyptocurrencies in <a href="/Top-Books-2018/#attack-of-the-50-foot-blockchain">Attack of the 50 Foot Blockchain</a>, <em>Libra Shrugged</em> offers a beat-by-beat chronicle from the inception of Libra to Facebook’s prolonged battle with regulators with a bit of context sprinkled throughout.</p>
+
+<p><img style="float: right; display: inline-block; margin: 0px 0px 0px 25px" width="30%" height="30%" src="https://davidgerard.co.uk/blockchain/wp-content/uploads/2020/10/libra-shrugged-david-gerard-ebook-front-240px.jpg" /></p>
+
+<p>The idea behind Libra was to create a cryptocurrency that is backed by a basket of stable circulating currencies, e.g. USD, Euro, etc., which would become the payment backend for Facebook’s platforms. At least, this is how Libra was <a href="https://techcrunch.com/2019/06/18/facebook-libra/">presented early on</a>. So many questions come to mind: How exactly does it work? Is it decentralized? If so, what’s the consensus algorithm? If not, why is it a cryptocurrency? Not only was Facebook was not forthcoming on the details (especially to financial regulators, especially regarding data privacy), but they seemed unsure of the details when they did offer answers.</p>
+
+<p>Aside from the Facebook shenanigans that we’ve come to expect, Gerard offers a devastating (and humorous) critique the mind-set that spawned Libra. Here’s a taste:</p>
+<blockquote>
+  <p>“A lot of the problems that Facebook claims Libra solves are really just US retail banking being a few decades behind the rest of the world—sending money between banks can take days, everything has fees, so many things need a phone call, paper checks are still a thing, and so on. But it’s standard in Silicon Valley to propose an all-encompassing international system, and base it entirely on looking out your window in Palo Alto.”</p>
+</blockquote>
+
+<p>Libra Shrugged provides an amusing and enjoyable (at times frustrating) case study of the pitfalls of both new technology exuberance and how bad branding (being Facebook’s cryptocurrency) can poison an already suspect project.</p>
+
+<p>Fittingly, at the time of writing this, Libra and the Libra Association have <a href="https://davidgerard.co.uk/blockchain/2020/12/03/facebooks-libra-is-now-diem-stable-act-says-stablecoins-must-get-banking-licenses/">rebranded to Diem</a>.</p>
+:ET

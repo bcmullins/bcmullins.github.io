@@ -30,7 +30,7 @@ This project aims to bring the recent work of Diestel and collaborators on the t
 
 A draft of initial results is [here](/images/infinitism.pdf).
 
-New results from this approach were presented at the [2019 Society for Exact Philosophy conference](http://www.phil.ufl.edu/host/sep/meeting.html). See the deck for this conference [here](https://bcmullins.github.io/infinite_cycles/#/).
+New results from this approach were presented at the [2019 Society for Exact Philosophy conference](http://meta.phil.ufl.edu/host/sep/meeting.html?year=2019). See the deck for this conference [here](https://bcmullins.github.io/infinite_cycles/#/).
 
 ## Multi-period Income Mobility
 

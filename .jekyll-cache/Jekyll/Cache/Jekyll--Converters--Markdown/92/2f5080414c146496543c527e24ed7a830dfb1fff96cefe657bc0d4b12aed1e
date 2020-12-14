@@ -1,0 +1,40 @@
+I"<<h2 id="topology-and-explainable-machine-learning">Topology and Explainable Machine Learning</h2>
+
+<p><img style="float: right; display: inline-block" width="40%" height="40%" src="/images/model.png" /></p>
+
+<p>This project studies connections between the topological properties of machine learning classification models and the explainability of those models’ predictions. We introduce a rigorous, topological grounding for the <a href="https://homes.cs.washington.edu/~marcotcr/aaai18.pdf">theory of probabilisitic anchors</a> and provide an intuitive but formal definition of an explainable classifer. From this perspective, we derive connections between the degree of explainability, topological complexity of the classifier, and the learning theoretic notion of solvability.</p>
+
+<p>Working Paper: <a href="https://arxiv.org/abs/1910.08595">Identifying the Most Explainable Classifier</a></p>
+
+<h2 id="earnings-mobility-and-snap-participation-in-georgia">Earnings Mobility and SNAP Participation in Georgia</h2>
+
+<p>This project investigates earnings mobility among SNAP participants using linked administrative data from the State of Georgia. The goal of this work is to better understand the earnings mobility of low-income populations and how participation in government benefits programs affects one’s earnings, especially during economic downturns such as the Great Recession.</p>
+
+<p>This project is in collaboration with my colleagues at the Fiscal Research Center at Georgia State University.</p>
+
+<p>Results from this project were presented at the <a href="https://ntanet.org/event/2014/11/2014-annual-conference-on-taxation/">National Tax Association’s Annual Conference</a>, the <a href="https://aysps.gsu.edu/files/2016/01/NGPF-Conference-Schedule.pdf">Next Generation of Public Finance conference</a>, the <a href="https://ijpds.org/adr2019">International Conference on Administrative Data Research</a> and <a href="https://www.wabe.org/closer-look-stone-mountains-mayor-orlando-and-more/">discussed on WABE</a>, Atlanta’s NPR affiliate.</p>
+
+<p>To enable practitioners to easily calculate and work with mobility indices, we’ve developed an R package called <a href="https://github.com/bcmullins/mobilityIndexR">mobilityIndexR</a>.</p>
+
+<h2 id="infinite-cycles-and-the-regress-problem">Infinite Cycles and the Regress Problem</h2>
+
+<p><img style="float: right; display: inline-block" width="25%" height="25%" src="/images/infinitecycle.png" /></p>
+
+<p>This project aims to bring the recent work of Diestel and collaborators on the topological approach to infinite cycles in graphs to bear on the program of Atkinson and Peijnenburg in analyzing the justification structure of infinite chains and infinite cycles of reasoning from a probabilistic and epistemological perspective.</p>
+
+<p>A draft of initial results is <a href="/images/infinitism.pdf">here</a>.</p>
+
+<p>New results from this approach were presented at the <a href="http://meta.phil.ufl.edu/host/sep/meeting.html?year=2019">2019 Society for Exact Philosophy conference</a>. See the deck for this conference <a href="https://bcmullins.github.io/infinite_cycles/#/">here</a>.</p>
+
+<h2 id="multi-period-income-mobility">Multi-period Income Mobility</h2>
+
+<p>Historically, income mobility is measured as some function of the change in income between two time periods for some population. Recently, approaches have been developed that take advantage of multi-period data. This project aims to study and develop higher-dimensional analogues of mobility indices in two time periods that are robust to measurement error and statistical noise.</p>
+
+<p>See <a href="https://bcmullins.github.io/multidim_mobility/#/">here for a presentation</a> of initial results.</p>
+
+<p>This project is in collaboration with my colleagues at the Fiscal Research Center at Georgia State University.</p>
+
+<hr />
+
+<p>Updated: 10/19</p>
+:ET

@@ -1,0 +1,51 @@
+I"<p><img width="40%" height="40%" src="/images/blog/borel_hierarchy/borel_hierarchy.png" /></p>
+
+<p>I was looking online for a simple vertical Borel Hierarchy in Latex for a paper that I’m writing and had no luck. So I’ve written one. See the code below to use it.</p>
+
+<figure class="highlight"><pre><code class="language-latex" data-lang="latex"><span class="k">\documentclass</span><span class="p">{</span>article<span class="p">}</span>
+
+<span class="k">\usepackage</span><span class="p">{</span>tikz<span class="p">}</span>
+
+<span class="nt">\begin{document}</span>
+<span class="nt">\begin{figure}</span>
+  <span class="k">\centering</span>
+  <span class="nt">\begin{tikzpicture}</span> [scale=1]
+    <span class="k">\node</span> (delta01) at (0,0) <span class="p">{$</span><span class="nv">\Delta</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">1</span><span class="p">$}</span>;
+    <span class="k">\node</span> (sigma01) at (1,1) <span class="p">{$</span><span class="nv">\Sigma</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">1</span><span class="p">$}</span>;
+    <span class="k">\node</span> (pi01) at (-1,1) <span class="p">{$</span><span class="nv">\Pi</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">1</span><span class="p">$}</span>;
+    <span class="k">\node</span> (delta02) at (0,2) <span class="p">{$</span><span class="nv">\Delta</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">2</span><span class="p">$}</span>;
+    <span class="k">\node</span> (sigma02) at (1,3) <span class="p">{$</span><span class="nv">\Sigma</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">2</span><span class="p">$}</span>;
+    <span class="k">\node</span> (pi02) at (-1,3) <span class="p">{$</span><span class="nv">\Pi</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="m">2</span><span class="p">$}</span>;
+    <span class="k">\node</span> (deltamid) at (0,4) <span class="p">{}</span>;
+    <span class="k">\node</span> (sigmamid) at (1,5) <span class="p">{}</span>;
+    <span class="k">\node</span> (pimid) at (-1,5) <span class="p">{}</span>;
+    <span class="k">\node</span> (delta0alpha) at (0,4) <span class="p">{$</span><span class="nv">\Delta</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="nv">\alpha</span><span class="p">$}</span>;
+    <span class="k">\node</span> (sigma0alpha) at (1,5) <span class="p">{$</span><span class="nv">\Sigma</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="nv">\alpha</span><span class="p">$}</span>;
+    <span class="k">\node</span> (pi0alpha) at (-1,5) <span class="p">{$</span><span class="nv">\Pi</span><span class="p">^</span><span class="m">0</span><span class="p">_</span><span class="nv">\alpha</span><span class="p">$}</span>;
+    <span class="k">\node</span> (delta0alpha1) at (0, 6) <span class="p">{$</span><span class="nv">\Delta</span><span class="p">^</span><span class="m">0</span><span class="p">_{</span><span class="nv">\alpha</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="m">1</span><span class="p">}$}</span>;
+    <span class="k">\node</span> (deltatop) at (0,7) <span class="p">{}</span>;
+    <span class="k">\node</span> (sigmatop) at (1,7) <span class="p">{}</span>;
+    <span class="k">\node</span> (pitop) at (-1,7) <span class="p">{}</span>;
+    <span class="k">\path</span> (delta01) edge node[left] <span class="p">{}</span> (sigma01);
+    <span class="k">\path</span> (delta01) edge node[left] <span class="p">{}</span> (pi01);
+    <span class="k">\path</span> (delta02) edge node[left] <span class="p">{}</span> (sigma01);
+    <span class="k">\path</span> (delta02) edge node[left] <span class="p">{}</span> (pi01);
+    <span class="k">\path</span> (delta02) edge node[left] <span class="p">{}</span> (sigma02);
+    <span class="k">\path</span> (delta02) edge node[left] <span class="p">{}</span> (pi02);
+    <span class="k">\path</span> (delta02) -- (deltamid) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+    <span class="k">\path</span> (sigma02) -- (sigmamid) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+    <span class="k">\path</span> (pi02) -- (pimid) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+    <span class="k">\path</span> (delta0alpha) edge node[left] <span class="p">{}</span> (sigma0alpha);
+    <span class="k">\path</span> (delta0alpha) edge node[left] <span class="p">{}</span> (pi0alpha);
+    <span class="k">\path</span> (delta0alpha1) edge node[left] <span class="p">{}</span> (sigma0alpha);
+    <span class="k">\path</span> (delta0alpha1) edge node[left] <span class="p">{}</span> (pi0alpha);
+    <span class="k">\path</span> (delta0alpha1) -- (deltatop) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+    <span class="k">\path</span> (sigma0alpha) -- (sigmatop) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+    <span class="k">\path</span> (pi0alpha) -- (pitop) node [midway, sloped] <span class="p">{$</span><span class="nv">\dots</span><span class="p">$}</span>;
+  <span class="nt">\end{tikzpicture}</span>
+  <span class="k">\caption</span><span class="p">{</span>Borel Hierarchy<span class="p">}</span>
+  <span class="k">\label</span><span class="p">{</span>g:borel<span class="p">_</span>hierarchy<span class="p">}</span>
+<span class="nt">\end{figure}</span>
+<span class="nt">\end{document}</span></code></pre></figure>
+
+:ET
