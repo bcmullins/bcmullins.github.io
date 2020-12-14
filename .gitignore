@@ -2,3 +2,5 @@ _site
 _posts/2020-09-09*
 _posts/2020-10-02*
 _posts/2020-10-03*
+.jekyll-cache*
+.sass-cache*
