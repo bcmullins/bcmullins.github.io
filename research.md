@@ -8,6 +8,8 @@ permalink: /projects/
 
 This project centers around participating in the [NIST 2020 Differential Privacy Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential) with my colleagues in the [DREAM Lab](http://dbgroup.cs.umass.edu/) at UMass Amherst. This competition aims at developing new DP algorithms that incorporate and account for spatial and temporal information.
 
+Results: [Sprint 1](https://www.drivendata.co/blog/differential-privacy-winners-sprint1/) - [Sprint 2](https://www.drivendata.co/blog/differential-privacy-winners-sprint2/) - [Sprint 3](https://www.drivendata.co/blog/differential-privacy-winners-sprint3/)
+
 ## Topology and Explainable Machine Learning
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
@@ -38,4 +40,4 @@ New results from this approach were presented at the [2019 Society for Exact Phi
 
 ___
 
-Updated: 4/21
+Updated: 7/21

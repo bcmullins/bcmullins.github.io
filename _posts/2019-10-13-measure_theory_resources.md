@@ -33,7 +33,7 @@ If this sounds like you, the [collection of measure theory lectures](https://www
 
 ## What's Next?!
 
-Getting a handle on the basics of measure theory allows one pursue numerous areas of mathematics and its applications. Below are some that I find interesting and recommendations for a first dive into each area.
+Getting a handle on the basics of measure theory allows one to pursue numerous areas of mathematics and its applications. Below are some that I find interesting and recommendations for a first dive into each area.
 
 ### Measure-theoretic Probability
 
@@ -63,7 +63,7 @@ One aspect of meagre sets being negligible is that they contain no non-trivial o
 
 Descriptive set theory studies the structure and properties of "well-behaved" subsets of the reals and similar but more general spaces called [polish spaces](https://en.wikipedia.org/wiki/Polish_space). One starting place is the structure of the Borel sets, i.e., the closure of the open sets by repeated application of countable union, countable intersection, and complementation. An introduction in this direction is S. M. Srivastava's [_A Course on Borel Sets_](https://www.springer.com/gp/book/9780387984124). I will also point to a set of accessible [lecture notes](http://www.personal.psu.edu/jsr25/Spring_11/574_Sp11_Syllabus.html) by Jan Reimann.
 
-This area forms the foundation for one of my primary interests: topological learning theory (link coming soon).
+This area forms the foundation for one of my primary interests: [topological learning theory]({{ site.baseurl }}{% link _posts/2020-12-29-interesting-research-2010s.md %}#topological-learning-theory).
 
 ### History of Measure Theory
 
