@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 ---
-<img style="float: right; display: inline-block" width="50%" height="50%" src="/images/board.png">
+<img style="float: right; display: inline-block" width="40%" height="40%" src="/images/board.png">
 
 ### Blogs I Read
 
@@ -19,20 +19,13 @@ permalink: /links/
 
 ### Periodicals I Read
 
+<img style="float: right; display: inline-block" width="20%" height="20%" src="/images/coffee.png">
+
 [Foreign Affairs](https://www.foreignaffairs.com/)
 
 [Aeon](https://aeon.co/)
 
 [The New Atlantis](https://www.thenewatlantis.com/)
-
-### Podcasts I Listen To
-
-[Philosophize This!](http://philosophizethis.org)
-<img style="float: right; display: inline-block" width="25%" height="25%" src="/images/coffee.png">
-
-[EconTalk](http://www.econtalk.org)
-
-[Data Skeptic](https://dataskeptic.com)
 
 
 ### Books I Recommend to Everyone
