@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Paper - Earnings Mobility and the Great Recession
-categories: IncomeMobility
+categories: IncomeMobility NewPaper
 ---
 
 I have a new paper in [Social Science Quarterly](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13083) with my collaborators Dave Sjoquist and Sally Wallace at Georgia State University. This paper compares earnings mobility for low-wage workers before and after the Great Recession using linked administrative data from the state of Georgia. This work utilizes our [_mobilityIndexR_](https://github.com/bcmullins/mobilityIndexR) R package to estimate transition matrices and calculate mobility indices i.e. measures of mobility. [Click here]({{ site.baseurl }}{% link _posts/2021-01-20-introducing-mobilityindexr.md %}) for an introduction to the package.
