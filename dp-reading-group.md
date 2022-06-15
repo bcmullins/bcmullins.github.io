@@ -16,7 +16,7 @@ layout: page
 
 The differential privacy reading group meets weekly to discuss current works in the differential privacy literature. Each meeting, a volunteer presents a paper and the group discusses limitations, extensions, etc.
 
-If you're interested in attending, contact Miguel Fuentes (mmfuentes@cs.umass.edu).
+If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
 
 <h2>Upcoming Papers</h2>
 
