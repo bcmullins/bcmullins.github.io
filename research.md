@@ -8,8 +8,6 @@ permalink: /projects/
 
 This project seeks to advance methods for generating and working with differentially private synthetic data.
 
-
-
 ## Topology and Explainable Machine Learning
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
