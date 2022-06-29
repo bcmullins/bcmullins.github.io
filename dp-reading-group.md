@@ -8,9 +8,9 @@ layout: page
 <img style="float: right; display: inline-block; margin: 0px 0px 0px 25px" width="50%" height="50%"  src="https://journalistsresource.org/wp-content/uploads/2020/03/thumbnail_DiffPriv-teaser-720x480-1.jpg">
 </a>
 
-**Place:** TBD
+**Place:** UMass CS 201 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
 
-**Time:** TBD
+**Time:** Wednesdays @ 3PM ET
 
 <h2>About</h2>
 
@@ -28,25 +28,25 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <th><b>Notes</b></th>
   </tr>
   <tr>
-    <td></td>
+    <td>7/06/22</td>
     <td>Foundations</td>
     <td><a href="https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf">Calibrating Noise to Sensitivity in Private Data Analysis</a></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>7/13/22</td>
     <td>Composition</td>
     <td><a href="https://privacytools.seas.harvard.edu/files/privacytools/files/05670947.pdf">Boosting and Differential Privacy</a></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>7/20/22</td>
     <td>DP Variants</td>
     <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds</a></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>7/27/22</td>
     <td>Composition</td>
     <td><a href="https://arxiv.org/pdf/1311.0776.pdf">The Composition Theorem for Differential Privacy</a></td>
     <td></td>

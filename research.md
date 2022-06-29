@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+## Differentially Private Synthetic Data
+
+This project seeks to advance methods for generating and working with differentially private synthetic data.
+
+
+
 ## Topology and Explainable Machine Learning
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
@@ -34,12 +40,6 @@ A draft of initial results is [here](/images/infinitism.pdf).
 
 New results from this approach were presented at the [2019 Society for Exact Philosophy conference](http://meta.phil.ufl.edu/host/sep/meeting.html?year=2019). See the deck for this conference [here](https://bcmullins.github.io/infinite_cycles/#/).
 
-## Differential Privacy for Spatial and Temporal Data
-
-This project centers around participating in the [NIST 2020 Differential Privacy Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential) with my colleagues in the [DREAM Lab](http://dbgroup.cs.umass.edu/) at UMass Amherst. This competition aims at developing new DP algorithms that incorporate and account for spatial and temporal information.
-
-Results: [Sprint 1](https://www.drivendata.co/blog/differential-privacy-winners-sprint1/) - [Sprint 2](https://www.drivendata.co/blog/differential-privacy-winners-sprint2/) - [Sprint 3](https://www.drivendata.co/blog/differential-privacy-winners-sprint3/)
-
 ___
 
-Updated: 12/21
+Updated: 06/22
