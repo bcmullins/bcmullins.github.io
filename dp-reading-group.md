@@ -10,7 +10,7 @@ layout: page
 
 **Place:** UMass CS 201 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
 
-**Time:** Wednesdays @ 3PM ET
+**Time:** Fridays @ 2PM ET
 
 <h2>About</h2>
 
@@ -40,15 +40,21 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <td></td>
   </tr>
   <tr>
-    <td>7/20/22</td>
-    <td>DP Variants</td>
-    <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds</a></td>
+    <td>7/29/22</td>
+    <td>Privacy Attack</td>
+    <td><a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/view/711/693">Linear Program Reconstruction in Practice</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>7/27/22</td>
-    <td>Composition</td>
-    <td><a href="https://arxiv.org/pdf/1311.0776.pdf">The Composition Theorem for Differential Privacy</a></td>
+    <td>8/05/22</td>
+    <td>DP Variants</td>
+    <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds - Part I</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8/12/22</td>
+    <td>DP Variants</td>
+    <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds - Part II</a></td>
     <td></td>
   </tr>
 </table>
