@@ -46,7 +46,7 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <td></td>
   </tr>
   <tr>
-    <td>8/05/22</td>
+    <td>8/03/22</td>
     <td>DP Variants</td>
     <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds - Part I</a></td>
     <td></td>
