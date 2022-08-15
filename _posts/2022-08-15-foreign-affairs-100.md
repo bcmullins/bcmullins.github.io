@@ -39,7 +39,7 @@ This article is an airing of grievances from the French following the aftermath 
 ## The Tacna-Arica Controversy
 #### Edwin M. Borchard
 
-<img style="float: right; display: inline-block" width="40%" height="50%" src="/images/blog/foreign_affairs_100/war_pacific.png"/>
+<img style="float: right; display: inline-block" width="40%" height="50%" src="/images/blog/foreign_affairs_100/war_pacific.jpg"/>
 
 This is a detailed briefing on the [War of the Pacific](https://en.wikipedia.org/wiki/War_of_the_Pacific), a conflict between Chile and an allied Bolivia and Peru from 1879 to 1883 and its diplomatic aftermath. In the 1860s, Chile made territorial claims to Bolivian land extending its border northward to include a resource rich desert. After several treaties between Chile and Bolivia, a defensive agreement between Bolivia and Peru, and some bad faith negotiating, Chile initiated and easily won a war. Chile claimed land from both Bolivia and Peru - thereby landlocking Bolivia - and endless negotiating ensued. Even by the publication of this article, nearly 40 years later, the disputed territorial claims hadn't been resolved and wouldn't be resolved until [an arbitration with the US in 1929](https://en.wikipedia.org/wiki/Treaty_of_Lima_(1929)).
 
@@ -74,7 +74,7 @@ This is clearly the most politically and emotionally charged article of the bunc
 ## The Mandates of the Pacific
 #### George H. Blakeslee
 
-<img style="float: right; display: inline-block; margin: 20px 0px 5px 10px" width="50%" height="60%" src="/images/blog/foreign_affairs_100/pacific_mandates.png"/>
+<img style="float: right; display: inline-block; margin: 20px 0px 5px 10px" width="50%" height="60%" src="/images/blog/foreign_affairs_100/pacific_mandates.jpg"/>
 
 In the early 20th century, the German Empire amassed considerable [colonial holdings in the Pacific](https://en.wikipedia.org/wiki/List_of_former_German_colonies#Pacific). During the Peace Conferences, after the US failed to ratify the treaty, these islands were divided up among Japan, Great Britain, Australia, and New Zealand as a [mandate system](https://en.wikipedia.org/wiki/League_of_Nations_mandate#List_of_mandates). This article evaluates each mandate largely as to how it affects the United States. For instance, one common theme is the holder states unsurprisingly monopolized the natural resources extracted from the held territories.  
 
@@ -90,7 +90,7 @@ While interesting both practically and philosophically, I find this analysis, es
 ## Russia After Genoa and the Hague
 #### K (Archibald Cary Coolidge)
 
-<img style="float: right; display: inline-block; margin: 0px 0px 5px 10px" width="40%" height="40%" src="/images/blog/foreign_affairs_100/russia_today.png"/>
+<img style="float: right; display: inline-block; margin: 0px 0px 5px 10px" width="40%" height="40%" src="/images/blog/foreign_affairs_100/russia_today.jpg"/>
 
 This article is an evenhanded assessment of Russia's diplomatic relations which resembles a sort of messy love triangle. Since the conclusion of the war, the Soviet regime sought recognition from its peers, particularly the United States. Unfortunately, the U.S. adopted a non-interventionist stance toward European matters and opted not to participate in many conferences. Meanwhile, some European states are eager for Russian manufacturing exports to resume, others are weary of Soviet expansion into Central and Eastern Europe, and nearly all want the debt obligations of the prior [Tsarist regime](https://en.wikipedia.org/wiki/Nicholas_II_of_Russia) to be honored.
 
