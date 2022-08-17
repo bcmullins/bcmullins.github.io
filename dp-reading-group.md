@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Amherst Differential Privacy Reading Group
 ---
-
-<h1>Amherst Differential Privacy Reading Group</h1>
 
 <a href="https://journalistsresource.org/politics-and-government/comic-differential-privacy-2020-census/">
 <img style="float: right; display: inline-block; margin: 0px 0px 0px 25px" width="50%" height="50%"  src="https://journalistsresource.org/wp-content/uploads/2020/03/thumbnail_DiffPriv-teaser-720x480-1.jpg">
@@ -10,7 +9,7 @@ layout: page
 
 **Place:** UMass CS 201 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
 
-**Time:** Fridays @ 2PM ET
+**Time:** Wednesdays @ 11AM ET
 
 <h2>About</h2>
 
@@ -52,9 +51,15 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <td></td>
   </tr>
   <tr>
-    <td>8/12/22</td>
+    <td>8/10/22</td>
     <td>DP Variants</td>
     <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds - Part II</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8/17/22</td>
+    <td>DP Variants</td>
+    <td><a href="https://arxiv.org/pdf/1605.02065.pdf">Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds - Part III</a></td>
     <td></td>
   </tr>
 </table>
