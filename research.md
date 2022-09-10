@@ -8,15 +8,15 @@ permalink: /projects/
 
 This project seeks to advance methods for generating and working with differentially private synthetic data.
 
+We recently presented [a paper](http://127.0.0.1:4000/aim-synthetic-data/) at VLDB 2022.
+
 ## Topology and Explainable Machine Learning
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
 
-This project studies connections between the topological properties of classifiers and the explainability of their predictions. In particular, we seek to provide a rigorous foundation for rule-based explanations e.g. [Anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and [LORE](https://arxiv.org/abs/1805.10820) as well as provide a clear formalization of explainability for classifiers.
+This project studies connections between the inherent definability of rule-based explanations of classifiers and definability in topology and seeks to provide a formal grounding for applied explanation methods such as [Anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and [LORE](https://arxiv.org/abs/1805.10820).
 
-Working Paper: [Identifying the Most Explainable Classifier](https://arxiv.org/abs/1910.08595)
-
-I recently gave a talk at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/).
+In Fall 2021, I gave a talk at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/).
 
 ## Earnings Mobility and SNAP Participation in Georgia
 
@@ -40,4 +40,4 @@ New results from this approach were presented at the [2019 Society for Exact Phi
 
 ___
 
-Updated: 06/22
+Updated: 09/22

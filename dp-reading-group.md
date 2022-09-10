@@ -7,7 +7,7 @@ title: Amherst Differential Privacy Reading Group
 <img style="float: right; display: inline-block; margin: 0px 0px 0px 25px" width="50%" height="50%"  src="https://journalistsresource.org/wp-content/uploads/2020/03/thumbnail_DiffPriv-teaser-720x480-1.jpg">
 </a>
 
-**Place:** UMass CS 201 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
+**Place:** UMass CS 243 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
 
 **Time:** Wednesdays @ 11AM ET
 
@@ -17,7 +17,40 @@ The differential privacy reading group meets weekly to discuss current works in 
 
 If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
 
-<h2>Upcoming Papers</h2>
+<h2>Schedule</h2>
+
+<h3>Fall 2022</h3>
+
+<table>
+  <tr>
+    <th><b>Date</b></th>
+    <th><b>Topic</b></th>
+    <th><b>Paper</b></th>
+    <th><b>Notes</b></th>
+  </tr>
+  <tr>
+    <td>9/14/22</td>
+    <td>Statistics</td>
+    <td><a href="https://arxiv.org/pdf/2208.08564.pdf">Privacy Aware Experimentation over Sensitive Groups: A General Chi Square Approach</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9/21/22</td>
+    <td>Applied</td>
+    <td><a href="https://arxiv.org/abs/2002.05839">LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9/28/22</td>
+    <td>Statistics</td>
+    <td><a href="https://arxiv.org/abs/2110.05429#">Differentially Private Approximate Quantiles</a></td>
+    <td></td>
+  </tr>
+</table>
+
+<h2>Prior Schedules</h2>
+
+<h3>Summer 2022</h3>
 
 <table>
   <tr>
