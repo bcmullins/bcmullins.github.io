@@ -29,19 +29,19 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <th><b>Notes</b></th>
   </tr>
   <tr>
-    <td>9/14/22</td>
+    <td>9/21/22</td>
     <td>Statistics</td>
     <td><a href="https://arxiv.org/pdf/2208.08564.pdf">Privacy Aware Experimentation over Sensitive Groups: A General Chi Square Approach</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>9/21/22</td>
+    <td>9/28/22</td>
     <td>Applied</td>
     <td><a href="https://arxiv.org/abs/2002.05839">LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>9/28/22</td>
+    <td>10/05/22</td>
     <td>Statistics</td>
     <td><a href="https://arxiv.org/abs/2110.05429#">Differentially Private Approximate Quantiles</a></td>
     <td></td>
