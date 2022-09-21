@@ -7,7 +7,7 @@ title: Amherst Differential Privacy Reading Group
 <img style="float: right; display: inline-block; margin: 0px 0px 0px 25px" width="50%" height="50%"  src="https://journalistsresource.org/wp-content/uploads/2020/03/thumbnail_DiffPriv-teaser-720x480-1.jpg">
 </a>
 
-**Place:** UMass CS 243 and [Zoom](https://umass-amherst.zoom.us/j/96167252124)
+**Place:** UMass CS 243 and [Zoom](https://umass-amherst.zoom.us/j/99343200066)
 
 **Time:** Wednesdays @ 11AM ET
 
