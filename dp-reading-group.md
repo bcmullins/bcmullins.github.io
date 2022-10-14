@@ -15,7 +15,7 @@ title: Amherst Differential Privacy Reading Group
 
 The differential privacy reading group meets biweekly to discuss current research in the differential privacy literature. Each meeting, a volunteer presents a paper and the group discusses limitations, extensions, etc.
 
-If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
+If you're interested in attending or presenting a paper, contact [Miguel Fuentes](mailto:mmfuentes@umass.edu).
 
 <h2>Schedule</h2>
 
@@ -48,8 +48,14 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
   </tr>
   <tr>
     <td>10/19/22</td>
+    <td>ML</td>
+    <td><a href="https://www.computer.org/csdl/journal/tq/2022/03/09286504/1porkN6i0IE">Protecting Decision Boundary of Machine Learning Model With Differentially Private Perturbation</a></td>
     <td></td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>11/02/22</td>
+    <td>Statistics</td>
+    <td><a href="http://proceedings.mlr.press/v99/kamath19a/kamath19a.pdf">Privately Learning High-Dimensional Distributions</a></td>
     <td></td>
   </tr>
 </table>
