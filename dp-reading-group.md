@@ -13,7 +13,7 @@ title: Amherst Differential Privacy Reading Group
 
 <h2>About</h2>
 
-The differential privacy reading group meets weekly to discuss current works in the differential privacy literature. Each meeting, a volunteer presents a paper and the group discusses limitations, extensions, etc.
+The differential privacy reading group meets biweekly to discuss current research in the differential privacy literature. Each meeting, a volunteer presents a paper and the group discusses limitations, extensions, etc.
 
 If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
 
@@ -44,6 +44,12 @@ If you're interested in attending, contact Miguel Fuentes (mmfuentes@umass.edu).
     <td>10/05/22</td>
     <td>Statistics</td>
     <td><a href="https://arxiv.org/abs/2110.05429#">Differentially Private Approximate Quantiles</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10/19/22</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
