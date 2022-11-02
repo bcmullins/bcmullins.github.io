@@ -55,7 +55,7 @@ If you're interested in attending or presenting a paper, contact [Miguel Fuentes
   <tr>
     <td>11/02/22</td>
     <td>Statistics</td>
-    <td><a href="http://proceedings.mlr.press/v99/kamath19a/kamath19a.pdf">Privately Learning High-Dimensional Distributions</a></td>
+    <td>DP Mean Estimation Discussion</td>
     <td></td>
   </tr>
 </table>
