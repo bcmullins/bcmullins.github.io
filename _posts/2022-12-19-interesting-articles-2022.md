@@ -174,7 +174,7 @@ ______
 
 Author: Manvir Singh
 
-Publication: Aeon
+Publication: [Aeon](https://en.wikipedia.org/wiki/Aeon_(magazine))
 
 Published: 2022
 
