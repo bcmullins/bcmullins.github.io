@@ -8,7 +8,7 @@ permalink: /projects/
 
 This project seeks to advance methods for generating and working with differentially private synthetic data.
 
-We recently presented [a paper](http://127.0.0.1:4000/aim-synthetic-data/) at VLDB 2022.
+We recently presented [a paper]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) at VLDB 2022.
 
 ## Topology and Explainable Machine Learning
 

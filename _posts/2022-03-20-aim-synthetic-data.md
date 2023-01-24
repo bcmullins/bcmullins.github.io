@@ -13,5 +13,5 @@ The preprint is available [here](https://arxiv.org/abs/2201.12677).
 
 <figure style="display: block; margin-left: auto; margin-right: auto; width: 50%">
   <img src="https://media.nga.gov/iiif/5a14c7d2-7aea-4f1b-a1b9-dae2ae1298c5__640/full/!588,600/0/default.jpg">
-  <figcaption style="text-align: center"><a href="https://www.nga.gov/collection/art-object-page.69392.html">Classic Landscape (1931) by Charles Sheeler</a></figcaption>
+  <figcaption style="text-align: center"><a href="https://www.nga.gov/collection/art-object-page.105596.html">Classic Landscape (1931) by Charles Sheeler</a></figcaption>
 </figure>
