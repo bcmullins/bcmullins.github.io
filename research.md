@@ -8,15 +8,15 @@ permalink: /projects/
 
 This project seeks to advance methods for generating and working with differentially private synthetic data.
 
-We recently presented [a paper]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) at VLDB 2022.
+We recently presented [a paper]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) at VLDB 2022 introducing AIM, a state-of-the-art workload-adaptive synthetic data generation mechanism.
 
 ## Topology and Explainable Machine Learning
 
 <img style="float: right; display: inline-block" width="40%" height="40%"  src="/images/model.png">
 
-This project studies connections between the inherent definability of rule-based explanations of classifiers and definability in topology and seeks to provide a formal grounding for applied explanation methods such as [Anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and [LORE](https://arxiv.org/abs/1805.10820).
+This project studies connections between the rule-based explanations of classifiers and definability in topology and seeks to provide a formal grounding for explanation methods such as [Anchors](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) and [LORE](https://arxiv.org/abs/1805.10820).
 
-In Fall 2021, I gave a talk at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/).
+In Fall 2021, I gave a talk at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/). In Spring 2023, I presented [a paper]({{ site.baseurl }}{% link _posts/2023-01-24-shape-of-explanations.md %}) at the [AAAI Human-Centric AI Workshop](https://r2hcai.github.io/AAAI-23/).
 
 ## Earnings Mobility and SNAP Participation in Georgia
 
@@ -34,10 +34,8 @@ This project is in collaboration with my colleagues at the Fiscal Research Cente
 
 This project aims to bring the recent work of Diestel and collaborators on the topological approach to infinite cycles in graphs to bear on the program of Atkinson and Peijnenburg in analyzing the justification structure of infinite chains and infinite cycles of reasoning from a probabilistic and epistemological perspective.
 
-A draft of initial results is [here](/images/infinitism.pdf).
-
 New results from this approach were presented at the [2019 Society for Exact Philosophy conference](http://meta.phil.ufl.edu/host/sep/meeting.html?year=2019). See the deck for this conference [here](https://bcmullins.github.io/infinite_cycles/#/).
 
 ___
 
-Updated: 09/22
+Updated: 04/23
