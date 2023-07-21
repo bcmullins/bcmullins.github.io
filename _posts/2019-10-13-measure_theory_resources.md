@@ -21,7 +21,7 @@ While there are stacks upon stacks of measure theory texts available, the Bass b
 
 A typical course in measure theory will take one through chapter fifteen. This starts with the definition of a measure on sets (1-4) to a measure on a function (5) to integration and differentiation of functions (6-14) and, finally, to $\mathcal{L}_p$ spaces of functions (15). The Bass book includes chapters on topology (20) and measure-theoretic probability (21) for foundations and applications, respectively; however, these sections are not as well put-together as the first half of the book. With that being said, this book contains everything one needs to get a handle on measure theory in a reasonably digestible form.
 
-<img style="float: left; display: inline-block; margin: 0px 20px 0px 0px" width="25%" height="25%" src="https://www.macalester.edu/~bressoud/books/ARattleToy.jpg">
+<img style="float: left; display: inline-block; margin: 0px 20px 0px 0px" width="25%" height="25%" src="/images/blog/measureTheory/radicalApproach.jpg">
 
 While the Bass book contains the meat of a course on measure theory, it often lacks the context one may find in a classroom discussion. Bressoud's [_A Radical Approach to Lebesgue's Theory of Integration_](https://www.cambridge.org/us/academic/subjects/mathematics/abstract-analysis/radical-approach-lebesgues-theory-integration?format=PB&isbn=9780521711838) approaches the Lebesgue integral and measure theory more generally from a historical perspective. This book need not be read cover-to-cover; I've found it is more useful to skip around to relevant sections. I *do* recommend reading chapters three, four, and five on the current conception of $\mathbb{R}$, the problem posed to Riemann integration by nowhere dense sets, and the development of early measure theory.
 
@@ -53,7 +53,7 @@ The recommended text in this area is the first half of James Munkres' [_Topology
 
 ### Measure Theory meets Topology
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="https://images.springer.com/sgw/books/medium/9780387905082.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="/images/blog/measureTheory/oxtoby.webp">
 
 In measure theory, we have a notion of small or negligible sets: null sets. A corresponding notion of small or negligible sets in a topological space is that of being [meagre](https://en.wikipedia.org/wiki/Meagre_set), i.e., the countable union of nowhere dense sets. John Oxtoby's [_Measure and Category_](https://www.springer.com/gp/book/9780387905082) studies analogies between these two concepts and proves "duality results" on when we can interchange meagre for null sets (and vice versa) in theorems.
 

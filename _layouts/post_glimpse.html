@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<head>
+  {% include mathjax.html %}
+</head>
+
+<form action="https://getsimpleform.com/messages?form_api_token=bf9ee17b64768467ab777087bbbbbdd8" method="post" class="subscribe-box">
+  Subscribe via Email <br/>
+  <input type="email" name="email" placeholder="Your email"/>
+  <input type="submit" value="Subscribe" id="submit"/>
+</form>
+<br>
+
+{{ page.date | date: "%B %e, %Y" }} | {% include read_time.html %}
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <p>This series looks at research from years past. I survey a handful of books and articles in a particular year from math, economics, philosophy, international relations, and other interesting topics. This project was inspired by my <a href={{ site.baseurl }}{% link _posts/2022-08-15-foreign-affairs-100.md %}> retrospective on Foreign Affairs' first issue</a> from September 1922, which received a lot of positive feedback and was quite enjoyable to research and write. Later this year, I will also look at research from 1823 and 1873, so stay tuned. </p>
+
+  <div style="text-align: center">
+    1823 -
+    1873 -
+    <a href={{ site.baseurl }}{% link _posts/2023-07-21-research-from-1923.md %}>1923</a>
+  </div>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+  <div class="post-categories">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    Topics: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+
+
+    <style>.bmc-button img{width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 5px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#FFFFFF !important;background-color:#FF813F !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 5px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#FFFFFF !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a style="float: right; display: inline-block" class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/brettcmullins"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:28px !important; ">Buy me a coffee</span></a>
+  </div>
+
+  {% include disqus.html %}
+</article>

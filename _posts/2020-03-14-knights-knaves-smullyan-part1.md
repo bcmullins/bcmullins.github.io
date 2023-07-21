@@ -7,7 +7,7 @@ mathjax: true
 
 
 I'm currently working through Raymond Smullyan's [The Gödelian Puzzle Book](https://store.doverpublications.com/0486497054.html) and came across a fun problem that serves as a good starting point for new readers of Smullyan. Smullyan is well known for (among many other things) producing [several books of logic puzzles](https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_puzzles) that introduce ideas from mathematical and philosophical logic in an accessible but still technical way. These books are often formatted where each chapter has an introduction to the relevant characters, ideas, and setting, several problems for the reader to work through, and the solutions to the problems.
-<img style="float: right; display: inline-block; margin: 10px 0px 0px 20px; width: 200px; height: 300px" src="https://sep.yimg.com/ca/I/yhst-137970348157658_2614_646619657">
+
 I've found that working through Smullyan's books helps build mathematical intuition better than repeatedly walking through proofs and applications of theorems. I would much rather go through Smullyan's Gödel book than ever see [Enderton's Chapter 3](https://www.logicmatters.net/tyl/booknotes/enderton/) again!   
 
 The Knights and Knaves are a trope found throughout several of Smullyan's books. Knights can only tell truths, while Knaves can only tell falsehoods. In Chapter 2 of The Gödelian Puzzle Book, our narrator finds himself on *The Island of Knights and Knaves* where each inhabitant is either a Knight or a Knave. What follows is a fun, open-ended problem using natural language to reason about self-reference.  

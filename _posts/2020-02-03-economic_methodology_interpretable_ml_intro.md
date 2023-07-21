@@ -9,8 +9,6 @@ In this series of posts, we will develop an analogy between the realistic assump
 
 ### Interpretable Machine Learning
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="https://christophm.github.io/interpretable-ml-book/images/title_page.jpg">
-
 Machine learning models are increasingly prevalent in our lives from credit scores to autocomplete. Interpretable machine learning limits the types of predictive models available to the practitioner to those that allow humans to understand how the model inputs affect the model outputs. Put another way: interpretable machine learning models allow one to reliably predict the behavior of a model with a reasonable amount of effort. For instance, fixing the number of features, a linear classifier is more interpretable than a large random forest, since calculating a weighted sum is more transparent and simple than navigating hundreds of decision trees.  
 
 There have been recent arguments for using only interpretable models in the wild when available. Among other reasons, since humans build and deploy these predictive models (in most cases at least), using interpretable methods allows the practitioner to better trust the accuracy of predictions across all possible inputs. While this argument has its merits, there are many grades of translucency between the opaque black box and the crystal-clear interpretable model in the form of explainable models.
