@@ -1,0 +1,13 @@
+<div class="table-responsive">
+    <h1>News</h1>
+    <table class="table align-middle">
+        <tbody>
+        {% for article in site.data.news limit:9 %}
+            <tr>
+                <th scope="row">{{ article.date }} </th>
+                <td> {{ article.headline | markdownify | remove: '<p>' | remove: '</p>' }} </td>
+            </tr>
+        {% endfor %}    
+        </tbody>
+    </table>        
+</div>

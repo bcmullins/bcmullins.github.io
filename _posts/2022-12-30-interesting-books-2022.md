@@ -71,7 +71,7 @@ Published: 2011
 
 This book is about vegetables and fruits we sometimes call vegetables (which somehow includes [watermelons](https://www.watermelon.org/watermelon-101/facts-faqs/)).
 
-<img style="float: right; display: inline-block; margin: 0px 0px 5px 10px" width="25%" height="25%" src="https://www.macleans.ca/wp-content/uploads/2011/12/Books-How-carrots-won.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 5px 10px" width="22%" height="22%" src="/images/blog/interesting_books_2022/carrots.jpeg">
 
 The story of each vegetable is a menagerie of etymology, folklore, suspect nutritional findings, historical recipes, offerings from seed dealers, and frequent check-ins with Thomas Jefferson's exploits at [Monticello](https://www.monticello.org/house-gardens/farms-gardens/), among others. Despite this format, the book rarely strays into monotony; instead, the author carefully weaves together these episodes and jumps from one topic to the next without it overstaying its welcome.
 
