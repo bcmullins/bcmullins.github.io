@@ -20,14 +20,14 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: none;
   text-align: left;
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+// tr:nth-child(even) {
+//   background-color: #dddddd;
+// }
 
 html {
   font-size: 100%;
@@ -327,4 +327,19 @@ footer {
   outline: none !important;
     border-color: orange;
     box-shadow: 0 0 10px orange;
+}
+
+#newsid p {
+	text-align: left;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+/* Grid overrides */
+.col-sm-4 {
+	padding-left: 26px;
+	padding-right: 26px;
 }
