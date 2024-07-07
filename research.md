@@ -18,7 +18,7 @@ permalink: /projects/
 Rule-based explanations provide human-interpretable reasons for a classifier's behavior. At the same time, rules are definable regions of the feature space. This project studies connections between the rule-based explanations of classifiers and definability in topology. 
 
 - In Fall 2021, I gave a talk at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/). 
-- In Spring 2023, I presented [a workshop paper]({{ site.baseurl }}{% link _posts/2023-01-24-shape-of-explanations.md %}) developing the cotours of this approach. We prove a result characterizing explainability as a simple topological property similar to the [property of Baire](https://en.wikipedia.org/wiki/Property_of_Baire).
+- In Spring 2023, I presented [a workshop paper]({{ site.baseurl }}{% link _posts/2023-01-24-shape-of-explanations.md %}) developing the contours of this approach. We prove a result characterizing explainability as a simple topological property similar to the [property of Baire](https://en.wikipedia.org/wiki/Property_of_Baire).
 
 ## Utterly Incomplete Look at Research
 
