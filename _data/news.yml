@@ -1,11 +1,15 @@
+- date: Dec 2024
+  headline: Our paper [Efficient and Private Marginal Reconstruction with Local Non-negativity](gremlnn) to appear at NeurIPS 2024
+- date: Nov 2024
+  headline: I'm giving a talk at Miami University on [Efficient and Private Marginal Reconstruction with Local Non-negativity](https://miamioh.edu/cas/departments/mathematics/colloquium-series.html)
 - date: Aug 2024
-  headline: Two of our papers to appear at TPDP 2024 - [Efficient and Private Marginal Reconstruction with Local Non-negativity]() and [Joint Selection Adaptively Incorporating Public Information for Private Synthetic Data](jam-synthetic-data)
+  headline: Two of our papers to appear at TPDP 2024 - [Efficient and Private Marginal Reconstruction with Local Non-negativity](gremlnn) and [Joint Selection Adaptively Incorporating Public Information for Private Synthetic Data](jam-synthetic-data)
 - date: Apr 2024
   headline: Our paper [Joint Selection Adaptively Incorporating Public Information for Private Synthetic Data](jam-synthetic-data) appeared at AISTATS 2024
 - date: Oct 2023
-  headline: Gave a talk on error bounds for private query answering at the UMass CS Theory Seminar
+  headline: Gave a talk on error bounds for private query answering at the [UMass CS Theory Seminar](https://groups.cs.umass.edu/theory/theory-seminar/)
 - date: Oct 2023
-  headline: Gave a talk introducing differential privacy and synthetic data at the UMass Learning Learning Seminar
+  headline: Gave a talk introducing differential privacy and synthetic data at the [UMass Learning Learning Seminar](https://www.umass.edu/mathematics-statistics/events/introduction-differential-privacy)
 - date: Sept 2023
   headline: Our paper [Quantifying Uncertainty of Unsupported Linear Queries for Private Query Release]() appeared at TPDP 2023
 
