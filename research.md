@@ -6,10 +6,11 @@ permalink: /projects/
 
 ## Differentially Private Synthetic Data
 
-[Synthetic data](https://www.census.gov/about/what/synthetic-data.html) is data that matches the schema and domain of a given dataset as well as some of its statistical properties. This project seeks to advance methods for generating and working with tabular synthetic data under differential privacy. This problem is challenging because satisfying [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) limits how well the statistical properties of the original dataset are preserved in the synthetic dataset. 
+[Synthetic data](https://www.census.gov/about/what/synthetic-data.html) is data that matches the schema and domain of a given dataset as well as some of its statistical properties. This project seeks to advance methods for generating and working with tabular synthetic data under differential privacy. This problem is challenging because satisfying [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) limits how well the statistical properties of the original dataset are preserved in the synthetic dataset. We introduced the following methods:
 
-- We [introduced AIM]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) (VLDB 2022), a mechanism for generating private synthetic data for discrete tabular datasets that's state-of-the-art across several error metrics. 
-- We [introduced JAM-PGM]({{ site.baseurl }}{% link _posts/2024-03-21-jam-synthetic-data.md %}) (AISTATS 2024), a private synthetic data mechanism that incorporates public data to reduce error and better utilize the privacy budget.
+- [AIM]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) (VLDB 2022), a mechanism for generating private synthetic data for discrete tabular datasets that's state-of-the-art across several error metrics. 
+- [JAM-PGM]({{ site.baseurl }}{% link _posts/2024-03-21-jam-synthetic-data.md %}) (AISTATS 2024), a private synthetic data mechanism that incorporates public data to reduce error and better utilize the privacy budget.
+- [GReM-MLE and GReM-LNN]({{ site.baseurl }}{% link _posts/2024-10-04-gremlnn.md %}) (NeurIPS 2024), two mechanisms for reconstructing answers to noisy marginals from residuals. 
 
 ## Topology and Explainable Machine Learning
 
