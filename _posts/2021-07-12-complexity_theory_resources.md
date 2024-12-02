@@ -39,7 +39,7 @@ Getting a handle on the basics of rigorous computational complexity theory allow
 
 ### Computational Learning Theory
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="20%" height="20%" src="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/images/UnderstandingMachineLearning.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="20%" height="20%" src="/images/blog/complexityTheory/uml.jpg">
 
 [Computational Learning Theory](https://en.wikipedia.org/wiki/Computational_learning_theory) studies machine learning (usually supervised learning) using models and tools from theoretical computer science. Given a well-defined task and framework, this theory seeks to prove general statements along the lines of such-and-such a model class (e.g. linear classifiers) can solve the given task computationally feasibly (usually meaning polynomial time) with reasonable error. A good place to start is with the first half of [_Understanding Machine Learning_](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/). The second half (which is also worth reading) covers applications and advanced topics.
 
