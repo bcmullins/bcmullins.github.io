@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Differentially Private Synthetic Data
+## Differentially Private Query Answering and Synthetic Data
 
 [Synthetic data](https://www.census.gov/about/what/synthetic-data.html) is data that matches the schema and domain of a given dataset as well as some of its statistical properties. This project seeks to advance methods for generating and working with tabular synthetic data under differential privacy. This problem is challenging because satisfying [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) limits how well the statistical properties of the original dataset are preserved in the synthetic dataset. We introduced the following methods:
 
