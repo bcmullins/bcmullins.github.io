@@ -15,9 +15,9 @@ To work through the material for measure theory, one should be familiar with the
 
 I recommend two texts: Richard Bass' _Real Analysis for Graduate Students_ as the primary text and David Bressoud's _A Radical Approach to Lebesgue's Theory of Integration_ as a supplement.
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="http://bass.math.uconn.edu/real-cover.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="/images/blog/measureTheory/bass.jpeg">
 
-While there are stacks upon stacks of measure theory texts available, the Bass book combines instructive proofs with an organization that motivates the material and a collection of interesting and (sometimes) difficult exercises. These more difficult exercises will be particularly useful for those studying for Comps/Quals. The selling point is that all versions of the book are available in pdf form on the [author's website](http://bass.math.uconn.edu/real.html).
+While there are stacks upon stacks of measure theory texts available, the Bass book combines instructive proofs with an organization that motivates the material and a collection of interesting and (sometimes) difficult exercises. These more difficult exercises will be particularly useful for those studying for Comps/Quals. The selling point is that all versions of the book are available in pdf form on the [author's website](https://r-bass.scholar.uconn.edu).
 
 A typical course in measure theory will take one through chapter fifteen. This starts with the definition of a measure on sets (1-4) to a measure on a function (5) to integration and differentiation of functions (6-14) and, finally, to $\mathcal{L}_p$ spaces of functions (15). The Bass book includes chapters on topology (20) and measure-theoretic probability (21) for foundations and applications, respectively; however, these sections are not as well put-together as the first half of the book. With that being said, this book contains everything one needs to get a handle on measure theory in a reasonably digestible form.
 
@@ -37,7 +37,7 @@ Getting a handle on the basics of measure theory allows one to pursue numerous a
 
 ### Measure-theoretic Probability
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="http://probability.ca/jeff/grprobcov2.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="/images/blog/measureTheory/rosenthal.jpeg">
 
 Measure theory is the most common foundation for a rigorous treatment of probability. Many of the odd rules one sees in an initial treatment of probability are reduced to questions of measure theory. For instance, rather than having a rule or heuristic saying that the probability of a continuous random variable taking the value of a single point is zero, we can observe that a probability measure with a continuous density function is absolutely continuous to the Lebesgue measure and that a single point is a Lebesgue null or measure zero set.
 
@@ -45,7 +45,7 @@ For this, I recommend Jeffrey Rosenthal's [A First Look at Rigorous Probability 
 
 ### Topology
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="https://www.pearsonhighered.com/assets/bigcovers/0/1/3/1/0131816292.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="/images/blog/measureTheory/munkres.jpeg">
 
 In typical treatments of measure theory, one begins by working with the Lebesgue measure in euclidean space and then generalizes to measures on other sorts of spaces, e.g., the counting measure on the space formed by subsets of the natural numbers. Though more abstract, these spaces are but one sort of topological space. Point-set topology is the study of properties of and between general topological spaces.
 
@@ -67,6 +67,6 @@ This area forms the foundation for one of my primary interests: [topological lea
 
 ### History of Measure Theory
 
-<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="https://www.maa.org/sites/default/files/HawkinsLebesque.jpg">
+<img style="float: right; display: inline-block; margin: 0px 0px 0px 20px" width="25%" height="25%" src="/images/blog/measureTheory/hawkins.jpeg">
 
 If you've read Bressoud's text that I offer as a supplement above, then you'll be familiar with Thomas Hawkins' [_Lebesgue's Theory of Integration: Its Origins and Developments_](https://bookstore.ams.org/chel-282/). Hawkins' book seems to be _the_ comprehensive account of the early history of the Lebesgue integral and the abstract measure theory that developed from it. I've not yet made it all the way through this one; it is on my list through!

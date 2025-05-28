@@ -27,7 +27,10 @@ This project looks at research from years past. I survey a handful of books and 
 
 Current years:
 [1823]({{ site.baseurl }}{% link _posts/2023-12-28-research-from-1823.md %}) &#8729;
+[1824]({{ site.baseurl }}{% link _posts/2024-12-29-research-from-1824.md %}) &#8729;
+[1825]({{ site.baseurl }}{% link _posts/2025-04-21-research-from-1825.md %}) &#8759;
 [1873]({{ site.baseurl }}{% link _posts/2023-11-14-research-from-1873.md %}) &#8729;
+[1874]({{ site.baseurl }}{% link _posts/2024-11-22-research-from-1874.md %}) &#8759;
 [1923]({{ site.baseurl }}{% link _posts/2023-07-21-research-from-1923.md %}) &#8729;
 [1924]({{ site.baseurl }}{% link _posts/2024-07-07-research-from-1924.md %})  
 
