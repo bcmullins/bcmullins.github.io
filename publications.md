@@ -36,7 +36,7 @@ permalink: /publications/
             {% if publication.pdf or publication.slides or publication.link %} | {% endif %}<a href="{{ publication.code }}" target="_blank" rel="noopener noreferrer">Code</a>
             {% endif %}
             {% if publication.summary %}
-            {% if publication.pdf or publication.slides or publication.link or publication.code %} | {% endif %}<a href="{{ site.baseurl }}{% link {{publication.summary}} %}">Summary</a>
+            {% if publication.pdf or publication.slides or publication.link or publication.code %} | {% endif %}<a href="{{ site.baseurl}}/{{ publication.summary }}/">Summary</a>
             {% endif %}
             {% if publication.video %}
             {% if publication.pdf or publication.slides or publication.link or publication.code or publication.summary %} | {% endif %}<a href="{{ publication.video }}" target="_blank" rel="noopener noreferrer">Video</a>

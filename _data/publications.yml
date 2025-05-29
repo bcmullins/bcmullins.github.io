@@ -11,7 +11,7 @@
   slides: https://neurips.cc/media/neurips-2024/Slides/93838.pdf 
   code: https://github.com/bcmullins/efficient-marginal-reconstruction
   link: https://arxiv.org/abs/2410.01091# 
-  summary: _posts/2024-10-04-gremlnn.md
+  summary: gremlnn
   video: https://neurips.cc/virtual/2024/poster/93838
 
 - title: "Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data"
@@ -25,7 +25,7 @@
   year: 2024
   link: https://arxiv.org/abs/2403.07797
   code: https://github.com/Miguel-Fuentes/JAM_AiStats
-  summary: _posts/2024-03-21-jam-synthetic-data.md
+  summary: jam-synthetic-data
 
 - title: Quantifying Uncertainty of Unsupported Linear Queries for Private Query Release
   authors:
@@ -42,7 +42,7 @@
   venue: AAAI 2023 Workshop on Representation Learning for Responsible Human-Centric AI (R2HCAI)
   year: 2023
   link: https://arxiv.org/abs/2301.09042v1
-  summary: _posts/2023-01-24-shape-of-explanations.md
+  summary: shape-of-explanations
   video: https://www.youtube.com/watch?v=2QXo2ZGZGKs
 
 - title: "AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data"
@@ -55,7 +55,7 @@
   year: 2022
   link: https://arxiv.org/abs/2201.12677
   code: https://github.com/ryan112358/private-pgm
-  summary: _posts/2022-03-20-aim-synthetic-data.md
+  summary: aim-synthetic-data
 
 - title: Economic Mobility and the Great Recession
   authors:
