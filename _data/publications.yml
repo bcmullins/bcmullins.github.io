@@ -1,0 +1,68 @@
+- title: Efficient and Private Marginal Reconstruction with Local Non-negativity
+  authors:
+    - Brett Mullins
+    - Miguel Fuentes
+    - Yingtai Xiao
+    - Daniel Kifer
+    - Cameron Musco
+    - Daniel Sheldon
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2024
+  slides: https://neurips.cc/media/neurips-2024/Slides/93838.pdf 
+  code: https://github.com/bcmullins/efficient-marginal-reconstruction
+  link: https://arxiv.org/abs/2410.01091# 
+  summary: _posts/2024-10-04-gremlnn.md
+  video: https://neurips.cc/virtual/2024/poster/93838
+
+- title: "Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data"
+  authors:
+    - Miguel Fuentes
+    - Brett Mullins
+    - Ryan McKenna
+    - Daniel Sheldon
+    - Gerome Miklau
+  venue: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  year: 2024
+  link: https://arxiv.org/abs/2403.07797
+  code: https://github.com/Miguel-Fuentes/JAM_AiStats
+  summary: _posts/2024-03-21-jam-synthetic-data.md
+
+- title: Quantifying Uncertainty of Unsupported Linear Queries for Private Query Release
+  authors:
+    - Brett Mullins
+    - Daniel Sheldon
+    - Gerome Miklau
+  venue: Theory and Practice of Differential Privacy (TPDP)
+  year: 2023
+  pdf: unsupportedQueries.pdf
+
+- title: "The Shape of Explanations: A Topological Account of Rule- Based Explanations in Machine Learning"
+  authors:
+    - Brett Mullins
+  venue: AAAI 2023 Workshop on Representation Learning for Responsible Human-Centric AI (R2HCAI)
+  year: 2023
+  link: https://arxiv.org/abs/2301.09042v1
+  summary: _posts/2023-01-24-shape-of-explanations.md
+  video: https://www.youtube.com/watch?v=2QXo2ZGZGKs
+
+- title: "AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data"
+  authors:
+    - Ryan McKenna
+    - Brett Mullins
+    - Daniel Sheldon
+    - Gerome Miklau
+  venue: Proceedings of the 48th International Conference on Very Large Databases (VLDB)
+  year: 2022
+  link: https://arxiv.org/abs/2201.12677
+  code: https://github.com/ryan112358/private-pgm
+  summary: _posts/2022-03-20-aim-synthetic-data.md
+
+- title: Economic Mobility and the Great Recession
+  authors:
+    - Brett Mullins
+    - David Sjoquist
+    - Sally Wallace
+  venue: Social Science Quarterly
+  year: 2021
+  link: https://doi.org/10.1111/ssqu.13083
+  code: https://github.com/bcmullins/mobilityIndexR
