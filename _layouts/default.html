@@ -31,6 +31,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/publications">Publications</a>
+            <!-- <a href="{{ site.baseurl }}/teaching">Teaching</a> -->
             <a href="{{ site.baseurl }}/blog">Blog</a>
             <a href="{{ site.baseurl }}/projects">Projects</a>
             
@@ -51,17 +52,8 @@
         </footer>
       </div>
     </div>
-  <script>
-	(function() {
-		window.counter = 'https://bcmullins.goatcounter.com/count'
-
-		var script = document.createElement('script');
-		script.async = 1;
-		script.src = '//gc.zgo.at/count.js';
-		var ins = document.getElementsByTagName('script')[0];
-		ins.parentNode.insertBefore(script, ins)
-	})();
-</script>
-  {% include analytics.html %}
+  <script data-goatcounter="https://bcmullins.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js">
+  </script>
   </body>
 </html>
