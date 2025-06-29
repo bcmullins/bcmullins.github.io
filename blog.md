@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 mathjax: true
 ---
-<form action="https://getsimpleform.com/messages?form_api_token=bf9ee17b64768467ab777087bbbbbdd8" method="post" class="subscribe-box">
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQvCMl_txJj5gh831vnayGh0Ih-S24hd_rFp8SHHtu3WDv1Q/formResponse" method="post" class="subscribe-box" target="_blank">
   Subscribe via Email <br/>
-  <input type="email" placeholder="Your email" name="email"/>
+  <input type="email" placeholder="Your email" name="entry.1686449738"/>
   <input type="submit" value="Subscribe" id="submit"/>
 </form>
 
