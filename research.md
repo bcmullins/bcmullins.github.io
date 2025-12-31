@@ -33,7 +33,9 @@ Current years:
 [1874]({{ site.baseurl }}{% link _posts/2024-11-22-research-from-1874.md %}) &#8729;
 [1875]({{ site.baseurl }}{% link _posts/2025-09-07-research-from-1875.md %}) &#8759;
 [1923]({{ site.baseurl }}{% link _posts/2023-07-21-research-from-1923.md %}) &#8729;
-[1924]({{ site.baseurl }}{% link _posts/2024-07-07-research-from-1924.md %})  
+[1924]({{ site.baseurl }}{% link _posts/2024-07-07-research-from-1924.md %}) &#8729;
+[1925]({{ site.baseurl }}{% link _posts/2025-12-31-research-from-1925.md %}) 
+
 
 ## Infinite Cycles and the Regress Problem
 
