@@ -1,3 +1,15 @@
+- title: Fast Private Adaptive Query Answering for Large Data Domains
+  authors:
+    - Miguel Fuentes
+    - Brett Mullins
+    - Yingtai Xiao
+    - Daniel Kifer
+    - Cameron Musco
+    - Daniel Sheldon
+  venue: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  year: 2026
+  link: https://arxiv.org/abs/2602.05674
+
 - title: Efficient and Private Marginal Reconstruction with Local Non-negativity
   authors:
     - Brett Mullins
