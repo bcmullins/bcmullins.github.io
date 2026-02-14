@@ -1,2 +1,0 @@
-I"<p>JSON is the typical format used by web services for message passing that’s also relatively human-readable. Despite being more human-readable than most alternatives, JSON objects can be quite complex. For analyzing complex JSON data in Python, there aren’t clear, general methods for extracting information (see <a href="https://realpython.com/python-json/">here</a> for a tutorial of working with JSON data in Python). This post provides a solution if one knows the path through the nested JSON to the desired information.</p>
-:ET
