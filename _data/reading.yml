@@ -1,0 +1,1441 @@
+# Interesting Articles from 2025
+
+- title: "The Dangerous Problem: the century-long struggle to prove the Collatz conjecture"
+  author: "Joe Kloc"
+  publication: "Harper's Magazine"
+  year: 2025
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#the-dangerous-problem-the-century-long-struggle-to-prove-the-collatz-conjecture"
+  url: "http://joekloc.com/HarpersMagazine-2025-02-0089880.pdf" 
+  commentary: "In two pages, Kloc explains the Collatz conjecture, its appeal and resistance to solution, current progress, and prospects for solving it."
+  tags: [Mathematics]
+
+- title: "Stress Test: Can a Troubled Order Survive a Disruptive Leader?"
+  author: "Margaret MacMillan"
+  publication: "Foreign Affairs"
+  year: 2025
+  url: "https://www.foreignaffairs.com/united-states/stress-test-trump-margaret-macmillan"
+  commentary: "In the Foundation Trilogy, Issac Asimov describes a society managed by social scientists that had discovered mathematical laws governing social behavior. Along comes the Mule, a mutant who exists outside the laws - an agent of chaos - who gains a following and threatens the stability of the social structure. MacMillan asks to what degree is Trump like the Mule and can bring change to society, both domestically and internationally."
+  tags: [International Relations]
+
+- title: "Who Can Name the Bigger Number?"
+  author: "Scott Aaronson"
+  publication: "Shtetl-Optimized"
+  year: 2025
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#who-can-name-the-bigger-number"
+  url: "https://www.scottaaronson.com/writings/bignumbers.html"
+  commentary: "An excellent blog post that introduces the reader to a breadth of ideas while having a lot of heft."
+  tags: [Mathematics]
+
+- title: "Philosophy of the people: How prairie philosophy democratized thought in 19th-century America"
+  author: "Joseph M. Keegin"
+  publication: "Aeon"
+  year: 2024
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#philosophy-of-the-people-how-prairie-philosophy-democratized-thought-in-19th-century-america"
+  url: "https://aeon.co/essays/how-prairie-philosophy-democratised-thought-in-19th-century-america"
+  commentary: "Describes the work of two midwest philosophic schools in the mid-nineteenth century: the St. Louis Hegelians and the Illinois Platonists."
+  tags: [Philosophy]
+
+- title: "Setting Epsilon is not the Issue in Differential Privacy"
+  author: "Edwige Cyffers"
+  publication: "NeurIPS Proceedings"
+  year: 2025
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#setting--is-not-the-issue-in-differential-privacy"
+  url: "https://arxiv.org/abs/2511.06305v1"
+  commentary: "Argues that focusing too heavily on the choice of epsilon can unfairly hinder the adoption of differential privacy. Instead, she contends that this difficulty is inherent to any rigorous privacy risk assessment and that DP simply makes these trade-offs explicit."
+  tags: [Privacy]
+
+- title: "Scaling Laws for Differentially Private Language Models"
+  author: "Folks from Google Research and DeepMind"
+  year: 2025
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#scaling-laws-for-differentially-private-language-models"
+  url: "https://arxiv.org/abs/2501.18914"
+  commentary: "Neural scaling laws are empirical regularities with neural network architectures that describe the relationship between model parameters and model utility. This paper studies how scaling laws change once privacy is introduced to the equation."
+  tags: [Privacy, Machine Learning]
+
+- title: "Illuminating Conspiracy"
+  author: "S. Jonathon O'Donnell"
+  publication: "History Today"
+  year: 2020
+  context: "Interesting Articles from 2025"
+  contextlink: "interesting-articles-2025#illuminating-conspiracy"
+  url: "https://www.historytoday.com/archive/history-matters/illuminating-conspiracy"
+  quote: "As with the European witch hunts, in both the Illuminati panic and its later echoes, the real threat came from the counterconspiracy rather than from any conspiracy itself."
+  tags: [History]
+
+# Utterly Incomplete Look to Research from 1925
+
+- title: "Am I a Liberal?"
+  author: "John Maynard Keynes"
+  publication: "The Nation and Athenaeum"
+  year: 1925
+  context: "Utterly Incomplete Look to Research from 1925"
+  contextlink: "research-from-1925#am-i-a-liberal"
+  url: "https://www.hetwebsite.net/het/texts/keynes/keynes1925liberal.htm"
+  commentary: "The 1924 UK General Election saw a crushing defeat for the Liberal party, who lost 118 of its 158 seats in the House of Commons. This election split the electorate between Labour and Conservatives, a situation that has persisted (mostly) ever since. Foreseeing this, Keynes asks to which of the two parties he should switch his allegiance."
+  tags: [International Relations, Archive]
+
+- title: "Universals"
+  author: "Frank Ramsey"
+  publication: "Mind"
+  year: 1925
+  context: "Utterly Incomplete Look to Research from 1925"
+  contextlink: "research-from-1925#universals"
+  url: "https://www.jstor.org/stable/2249716"
+  commentary: "Takes a fresh look at subject-predicate propositions such as “Socrates is wise”. He argues that the whole framework of subjects and predicates, particulars and universals, has led philosophers astray."
+  tags: [Philosophy, Archive]
+
+- title: "Theory of Statistical Estimation"
+  author: "R. A. Fisher"
+  publication: "Proceedings of the Cambridge Philosophical Society"
+  year: 1925
+  context: "Utterly Incomplete Look to Research from 1925"
+  contextlink: "research-from-1925#theory-of-statistical-estimation"
+  url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7A05FB68C83B36C0E91D42C76AB177D4/S0305004100009580a.pdf/theory_of_statistical_estimation.pdf"
+  commentary: "Fisher's 1922 paper On the Mathematical Foundations of Theoretical Statistics argues that statisticians needs precise notions such as consistency, efficiency, and sufficiency, and championed likelihood as the proper basis for statistical inference; however, it left much of the mathematics incomplete. This paper picks up where the former left off by rigorously deriving the sketched results including the information inequality (now known as the Cramér-Rao bound) and establishing the asymptotic optimality of maximum likelihood estimation."
+  tags: [Statistics, Archive]
+
+- title: "Medieval Cities: Their Origins and the Revival of Trade"
+  author: "Henri Pirenne"
+  year: 1925
+  context: "Utterly Incomplete Look to Research from 1925"
+  contextlink: "research-from-1925#medieval-cities-their-origins-and-the-revival-of-trade"
+  url: "https://archive.org/details/medievalcitiesth00pire_0/page/n7/mode/2up"
+  commentary: "Proposes that the shift from Antiquity to the Middle Ages was not caused by the internal decay of Rome or barbarian invasions but by an exogenous shock to trading networks."
+  tags: [History, Book, Archive]
+
+# Interesting Books from 2025
+
+- title: "Differential Privacy"
+  author: "Simson Garfinkel"
+  year: 2025
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#differential-privacy"
+  url: "https://direct.mit.edu/books/book/5935/Differential-Privacy"
+  commentary: "A wide-interest invitation to the mathematical approach to data privacy, being light enough for most to follow but with enough heft to say something interesting. It provides the best history of the field that I've seen."
+  tags: [Privacy, Book]
+
+- title: "After Adam Smith: A Century of Transformation in Politics and Political Economy"
+  author: "Murray Milgate and Shannon G. Stimson"
+  year: 2009
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#after-adam-smith-a-century-of-transformation-in-politics-and-political-economy"
+  commentary: "When you think of Adam Smith, several ideas might come to mind: the invisible hand, laissez faire, pin factories and the division of labor, the perfectly competitive market, and the butcher, the baker, and the candlestick maker. Though these ideas are often attributed to Smith today, what he meant by them looked rather different in some cases. This book traces the evolution of Smith's ideas and the path of political economy from their introduction to the close of classical period in the 1870s."
+  tags: [Economics, Book]
+
+- title: "Philosophical Analysis: Its development between the two World Wars"
+  author: "J. O. Urmson"
+  year: 1956
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#philosophical-analysis-its-development-between-the-two-world-wars"
+  commentary: "During the second world war, a curious change quietly happened in British philosophy: the logical approach to language and metaphysics was supplanted by the ordinary language approach. This short book surveys the rise and fall of the logical approach and the many developments in-between. While Urmson is firmly rooted in the ordinary language tradition, he offers a clear and reasonable account of how and why the logical approach came to be."
+  tags: [Philosophy, Book]
+
+- title: "Tales of the Weird: An Uncanny Introduction"
+  year: 2023
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#tales-of-the-weird-an-uncanny-introduction"
+  commentary: "Tales of the Weird is a book series from the British Library reprinting lesser known novels and themed short story collections from weird fiction, broadly construed. The current collection is meant to pull from a variety of themes to introduce the reader to the many flavors of weird fiction."
+  tags: [Fiction, Book]
+
+- title: "An Introduction to Information Theory: Symbols, Signals and Noise"
+  author: "John R. Pierce"
+  year: 1980
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#an-introduction-to-information-theory-symbols-signals-and-noise"
+  url: "https://archive.org/details/introductiontoin00pier"
+  commentary: "Information theory is the mathematical study of communication and provides a framework for quantifying information transmission, which has applications all over the place from cryptography to machine learning to data privacy. Pierce's book is a highly-readable and wide-ranging introduction to the field and includess several stories from the height of Bell Labs."
+  tags: [Machine Learning, Book]
+
+- title: "Relativism and the Foundations of Philosophy"
+  author: "Steven D. Hales"
+  year: 2006
+  context: "Interesting Books from 2025"
+  contextlink: "interesting-books-2025#relativism-and-the-foundations-of-philosophy"
+  commentary: "How do we reason about philosophical propositions? With empirical statements, we have observation. In philosophy, however, we often rely on rational intuition. Yet, this is just one method among many that are used to form beliefs about philosophical propositions. This book attempts to truth for philosophical propositions by relativizing truth to a perspective."
+  tags: [Philosophy, Book]
+
+# Utterly Incomplete Look to Research from 1875
+
+- title: "Can Truths be Apprehended Which Could Not Have Been Discovered?"
+  author: "W. R. Greg"
+  publication: "The Contemporary Review"
+  year: 1875
+  context: "Utterly Incomplete Look to Research from 1875"
+  contextlink: "research-from-1875#can-truths-be-apprehended-which-could-not-have-been-discovered"
+  url: "https://babel.hathitrust.org/cgi/pt?id=mdp.39015021322089&seq=443"
+  commentary: "Imagine one obtains an idea or proposition in some way like from an apple falling on one's head. Supposing the proposition is true, Greg asks if we could have discovered the proposition through human faculties and empirical evidence irrespective of its content."
+  tags: [Philosophy, Archive]
+
+- title: "On the Integration of Discontinuous Functions"
+  author: "Henry John Stephen Smith"
+  publication: "Proceedings of the London Mathematical Society"
+  year: 1875
+  context: "Utterly Incomplete Look to Research from 1875"
+  contextlink: "research-from-1875#on-the-integration-of-discontinuous-functions"
+  url: "https://babel.hathitrust.org/cgi/pt?id=ucm.5324906759&view=1up&seq=148"
+  commentary: "How discontinuous can a function be and still be integrable? In this paper, Smith makes progress toward an answer through a counterexample to a proposed solution from the German mathematician Hermann Hankel."
+  tags: [Mathematics, Archive]
+
+- title: "A Note on Representative Government"
+  author: "Thomas Hare"
+  publication: "The Fortnightly Review"
+  year: 1875
+  context: "Utterly Incomplete Look to Research from 1875"
+  contextlink: "research-from-1875#a-note-on-representative-government"
+  url: "https://babel.hathitrust.org/cgi/pt?id=inu.30000093208779&seq=112"
+  commentary: "Thomas Hare was a nineteenth century political reformer who sought to solve political problems through the systematic redesign of institutions, particularly with respect to electoral reform. He advocated for a ranked style of proportional voting system, now called single transferable vote, which he believed would give a voice to those with unpopular but important opinions, including both intellectual elites and minorities."
+  tags: [International Relations, Archive]
+
+- title: "Are Languages Institutions?"
+  author: "William Dwight Whitney"
+  publication: "The Contemporary Review"
+  year: 1875
+  context: "Utterly Incomplete Look to Research from 1875"
+  contextlink: "research-from-1875#are-languages-institutions"
+  url: "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_7/June_1875/Are_Languages_Institutions%3F"
+  commentary: "Whitney contrasts two competing perspectives on the study of language: metaphysical and common sense. The former sees language in purposeful terms, as developing toward a particular end, or as an essential property distinguishing humans from other animals. The latter takes language as it exists and asks empirical questions about its nature and function."
+  tags: [Sociology, Archive]
+
+# Utterly Incomplete Look to Research from 1825
+
+- title: "A Critical Dissertation on the Nature, Measures, and Causes of Value"
+  author: "Samuel Bailey"
+  year: 1825
+  context: "Utterly Incomplete Look to Research from 1825"
+  contextlink: "research-from-1825#a-critical-dissertation-on-the-nature-measures-and-causes-of-value"
+  url: "https://archive.org/details/in.ernet.dli.2015.276216"
+  commentary: "A common notion one finds in early nineteenth century economics is that commodities have an intrinsic value, determined by the amount of labor required to produce the good, in addition to market value. Rather than an abstract property, Bailey argues that value is a relation between two commodities at a given time defined by their ratio of exchange."
+  tags: [Economics, Book, Archive]
+
+- title: "The Philosopher in the Kitchen"
+  author: "Jean Anthelme Brillat-Savarin"
+  year: 1825
+  context: "Utterly Incomplete Look to Research from 1825"
+  contextlink: "research-from-1825#the-philosopher-in-the-kitchen"
+  url: "https://archive.org/details/philosopherinkit0000bril/page/n3/mode/2up"
+  commentary: "Jean Anthelme Brillat-Savarin was a French lawyer, politician, and noted gastronome. His part-memoir part-treatise is a prolegomena of sorts to the science of gourmandism."
+  tags: [Sociology, Book, Archive]
+
+- title: "The Spirit of the Age: Or, Contemporary Portraits"
+  author: "William Hazlitt"
+  year: 1825
+  context: "Utterly Incomplete Look to Research from 1825"
+  contextlink: "research-from-1825#the-spirit-of-the-age-or-contemporary-portraits"
+  url: "https://en.wikisource.org/wiki/The_Spirit_of_the_Age"
+  commentary: "The conservative reaction to the French Revolution dampened liberal attitudes around the turn of the nineteenth century. This collection of essays captures this milieu through portraits of several prominent British figures, from philosophers to poets to MPs."
+  tags: [Philosophy, Book, Archive]
+
+- title: "On the method of the least squares"
+  author: "James Ivory"
+  publication: "Philosophical Magazine"
+  year: 1825
+  context: "Utterly Incomplete Look to Research from 1825"
+  contextlink: "research-from-1825#on-the-method-of-the-least-squares"
+  url: https://www.tandfonline.com/doi/pdf/10.1080/14786442508644647
+  commentary: "Ivory's paper offers a few justifications for least squares and frames the problem in terms of reducing error from astronomical observations."
+  tags: [Statistics, Archive]
+
+# Interesting Articles from 2024
+
+- title: "Finding a needle in a haystack or identifying anonymous census records"
+  author: "Tore Dalenius"
+  publication: "Journal of Official Statistics"
+  year: 1986
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#finding-a-needle-in-a-haystack-or-identifying-anonymous-census-records"
+  url: "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/finding-a-needle-in-a-haystack-or-identifying-anonymous-census-records.pdf"
+  commentary: "This short paper introduces what would later be called k-anonymity, a criterion of privacy that was/is widely applied especially to government datasets. k-anonymity would be formalized in a series of papers by Latanya Sweeney and others in the late 1990s and early 2000s."
+  tags: [Privacy]
+
+- title: "One generation has dominated American politics for over 30 years"
+  publication: "The Economist"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#one-generation-has-dominated-american-politics-for-over-30-years"
+  url: "https://www.economist.com/united-states/2024/10/19/one-generation-has-dominated-american-politics-for-over-30-years"
+  commentary: "Biden and Trump have in common their decade of birth, the 1940s, one which has dominated US politics over the past thirty years. With the exception of Obama, every president from Clinton onward - as well as many challengers on the opposing ticket - were born in the 1940s. The article points to this generation's hold on power as a source of political disfunction, rehashing the rhetoric and disputes of the tumultuous late 1960s."
+  tags: [International Relations]
+
+- title: "Taking Pragmatism Seriously Enough: Toward a Deeper Understanding of the British Debate over Pragmatism, ca. 1900-1910"
+  author: "Ymko Braaksma"
+  publication: "Journal of the History of Ideas"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#taking-pragmatism-seriously-enough-toward-a-deeper-understanding-of-the-british-debate-over-pragmatism-ca-1900-1910"
+  url: "https://muse.jhu.edu/article/917116"
+  commentary: "In the early twentieth century, a leading Idealist philosopher in Britain, F. H. Bradley, posited that he may be a pragmatist after all. Braaksma argues that F. C. S. Schiller's response is instructive for understanding pragmatic thought. Schiller denies that Bradley is a pragmatist because Bradley's account of truth and knowledge still aims to attain absolute certainty."
+  tags: [Philosophy]
+
+- title: "Improved Differential Privacy for SGD via Optimal Private Linear Operators on Adaptive Streams"
+  author: "Sergey Denisov, Brendan McMahan, Keith Rush, Adam Smith, and Abhradeep Guha Thakurta"
+  publication: "NeurIPS Proceedings"
+  year: 2022
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#improved-differential-privacy-for-sgd-via-optimal-private-linear-operators-on-adaptive-streams"
+  url: "https://arxiv.org/abs/2202.08312"
+  commentary: "The predominant method for privately training a machine learning model is differentially private stochastic gradient descent (DP-SGD). This paper introduces a new method for DP-SGD that treats gradient measurement as a prefix query on the sequence of gradients, using methods from private query answering to achieve better privacy-utility trade-offs."
+  tags: [Privacy, Machine Learning]
+
+- title: "Cocaine: a cultural history from medical wonder to illicit drug"
+  author: "Douglas R. J. Small"
+  publication: "Aeon"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#cocaine-a-cultural-history-from-medical-wonder-to-illicit-drug"
+  url: "https://aeon.co/essays/cocaine-a-cultural-history-from-medical-wonder-to-illicit-drug"
+  commentary: "During the forty year period from 1880 to 1920, cocaine went from an obscure compound to a wonder drug, then, to a controlled substance and the attributed cause of social ills."
+  tags: [History]
+
+- title: "John Rawls and the death of Western Marxism"
+  author: "Joseph Heath"
+  publication: "In Due Course"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#john-rawls-and-the-death-of-western-marxism"
+  url: "https://josephheath.substack.com/p/john-rawls-and-the-death-of-western"
+  commentary: "In the midst of Cold War Rationality in the late 1970s and 1980s, Marxism saw a resurgence in the form of analytical Marxism. This approach offered a critique of capitalism largely grounded in the notion of exploitation with the rigor and toolset of analytic philosophy and microeconomic theory. The problem is that the approach didn’t pan out: results were unconvincing and internal coherence was lacking."
+  tags: [Philosophy, Economics]
+
+- title: "How the continuum hypothesis could have been a fundamental axiom"
+  author: "Joel David Hamkins"
+  publication: "Journal for the Philosophy of Mathematics"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom"
+  url: "https://arxiv.org/abs/2407.02463"
+  commentary: "This paper considers a plausible alternative history of calculus, where the continuum hypothesis is taken as an axiom."
+  tags: [Logic, Philosophy]
+
+- title: "Charles Darwin and Associates, Ghostbusters"
+  author: "Richard Milner"
+  publication: "Scientific American"
+  year: 1996
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#charles-darwin-and-associates-ghostbusters"
+  url: "https://www.jstor.org/stable/24993409"
+  commentary: "Describes an episode in the history of science when evolutionary theory collided with spiritualism in “one of the strangest courtroom cases in Victorian England.”"
+  tags: [PhilSci, History]
+
+- title: "A Watermark for Large Language Models"
+  author: "John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, and Tom Goldstein"
+  publication: "ICML Proceedings"
+  year: 2023
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#a-watermark-for-large-language-models"
+  url: "https://arxiv.org/abs/2301.10226"
+  commentary: "Introduces Green-Red Watermarking, where you randomly divide all tokens in the model's vocabulary into two sets, green and red, and, during inference, you slightly increase the probability of choosing a green token. "
+  tags: [Machine Learning, Privacy]
+
+- title: "The Deaths of Effective Altruism"
+  author: "Leif Wenar"
+  publication: "Wired"
+  year: 2024
+  context: "Interesting Articles from 2024"
+  contextlink: "interesting-articles-2024#the-deaths-of-effective-altruism"
+  url: "https://www.wired.com/story/deaths-of-effective-altruism/"
+  commentary: "Chronicles the rise of effective altruism from the perspective of a philosopher who had similar aspirations in the 1990s."
+  tags: [Crypto, Philosophy]
+
+# Interesting Books from 2024
+
+- title: "Wisdom's Workshop: The Rise of the Modern University"
+  author: "James Axtell"
+  year: 2016
+  context: "Interesting Books from 2024"
+  contextlink: "interesting-books-2024#wisdoms-workshop-the-rise-of-the-modern-university"
+  commentary: "Traces the history of the American research university from the Medieval universities of the twelfth and thirteenth centuries to the sprawling multiversities of today."
+  tags: [History, Academia, Book]
+
+- title: "Ballyhoo!: The Roughhousers, Con Artists, and Wildmen Who Invented Professional Wrestling"
+  author: "Jon Langmead"
+  year: 2024
+  context: "Interesting Books from 2024"
+  contextlink: "interesting-books-2024#ballyhoo-the-roughhousers-con-artists-and-wildmen-who-invented-professional-wrestling"
+  commentary: "Tells the story of professional wrestling's role in the growth of sports from a bed of chaos into the organized leagues we know and love today through a series of vignettes built around promoter Jack Curley."
+  tags: [History, Book]
+
+# Utterly Incomplete Look to Research from 1924
+
+- title: "Poetry and Philosophy"
+  author: "Arthur Cecil Pigou"
+  publication: "The Contemporary Review"
+  year: 1924
+  context: "Utterly Incomplete Look to Research from 1924"
+  contextlink: "research-from-1924#poetry-and-philosophy"
+  url: "https://www.google.com/books/edition/The_Contemporary_Review/GTkeAQAAIAAJ?hl=en&gbpv=1&pg=PA735&printsec=frontcover"
+  commentary: "There is an apparent tension between philosophical and poetic attitudes: philosophy prizes truth to the detriment of beauty, while poetry seeks to stir emotion without regard for reason. This article reflects on the degree to which the poetic strays one from the truth."
+  tags: [Philosophy, Archive]
+
+- title: "On the building blocks of mathematical logic"
+  author: "Moses Schönfinkel"
+  publication: "Mathematische Annalen"
+  year: 1924
+  context: "Utterly Incomplete Look to Research from 1924"
+  contextlink: "research-from-1924#on-the-building-blocks-of-mathematical-logic"
+  url: "https://archive.org/details/fromfregetogodel0000vanh/page/n5/mode/2up"
+  commentary: "Proves a similar but deeper result than NAND for first-order logic that reduces quantification, variables, and predicates to functions."
+  tags: [Logic, Archive]
+
+- title: "Medieval People"
+  author: "Eileen Power"
+  year: 1924
+  context: "Utterly Incomplete Look to Research from 1924"
+  contextlink: "research-from-1924#medieval-people"
+  url: "https://books.google.com/books/about/Medieval_People.html?id=szFLAAAAMAAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0#v=onepage&q&f=false"
+  commentary: "Offers sketches of the lives of several Europeans living in the latter half of the Middle Ages, ranging from a wool merchant in England and a prioress in the time of Chaucer to the semi-mythical Marco Polo and a Frankish peasant Bodo."
+  tags: [History, Book, Archive]
+
+# Utterly Incomplete Look to Research from 1874
+
+- title: "The Methods of Ethics"
+  author: "Henry Sidgwick"
+  year: 1874
+  context: "Utterly Incomplete Look to Research from 1874"
+  contextlink: "research-from-1874#the-methods-of-ethics"
+  url: "https://archive.org/details/themethodsofethi00sidguoft/page/n13/mode/2up"
+  commentary: "The landscape of moral philosophy in the nineteenth century can be divided into three accounts: egoism, utilitarianism, and intuitionism. This book is an in-depth discussion of these accounts and an extended argument for utilitarianism."
+  tags: [Philosophy, Book, Archive]
+
+- title: "On a Property of the Set of Real Algebraic Numbers"
+  author: "Georg Cantor"
+  publication: "Journal für die reine und angewandte Mathematik"
+  year: 1874
+  context: "Utterly Incomplete Look to Research from 1874"
+  contextlink: "research-from-1874#on-a-property-of-the-set-of-real-algebraic-numbers"
+  commentary: "Takes a big step in understanding the continuum by proving that the real numbers are uncountable."
+  tags: [Mathematics, Archive]
+
+- title: "The principles of science: a treatise on logic and scientific method"
+  author: "William Stanley Jevons"
+  year: 1874
+  context: "Utterly Incomplete Look to Research from 1874"
+  contextlink: "research-from-1874#the-principles-of-science-a-treatise-on-logic-and-scientific-method"
+  url: "https://archive.org/details/principlesofscie00jevorich/page/n3/mode/2up"
+  commentary: "Develops a wide-ranging account of scientific reasoning, unified by what Jevons' calls the Law of Identity. While the notion of logical identity seems vacuous, it serves as the bedrock for Jevons' analysis of various topics: logic, arithmetic, probability, induction, and the philosophy of science."
+  tags: [Logic, PhilSci, Book, Archive]
+
+- title: "Address Delivered Before the British Association Assembled at Belfast"
+  author: "John Tyndall"
+  year: 1874
+  context: "Utterly Incomplete Look to Research from 1874"
+  contextlink: "research-from-1874#address-delivered-before-the-british-association-assembled-at-belfast"
+  url: "https://www.google.com/books/edition/Address_Delivered_Before_the_British_Ass/3T8IAAAAIAAJ?hl=en&gbpv=1"
+  commentary: "Traces the history of philosophy as a conflict between naturalism and religious, spooky, and obscurantist approaches."
+  tags: [Philosophy, Archive]
+
+# Utterly Incomplete Look to Research from 1824
+
+- title: "A Discourse on the Rise, Progress, Peculiar Objects and Importance of Political Economy"
+  author: "John Ramsay McCulloch"
+  year: 1824
+  context: "Utterly Incomplete Look to Research from 1824"
+  contextlink: "research-from-1824#a-discourse-on-the-rise-progress-peculiar-objects-and-importance-of-political-economy"
+  url: "https://www.google.com/books/edition/A_Discourse_on_the_Rise_Progress_Peculia/KlO8mMmoGTMC?q=&gbpv=1#f=false"
+  commentary: "Regarded as the first history of economic thought from a classical economist but is as much an argument for the field of political economy itself."
+  tags: [Economics, Book, Archive]
+
+- title: "On the reciprocal influence of the periodical publications, and the intellectual progress of this country"
+  author: "William Stevenson"
+  publication: "Blackwood's Magazine"
+  year: 1824
+  context: "Utterly Incomplete Look to Research from 1824"
+  contextlink: "research-from-1824#on-the-reciprocal-influence-of-the-periodical-publications-and-the-intellectual-progress-of-this-country"
+  url: "https://www.google.com/books/edition/Blackwood_s_Edinburgh_Magazine/nuc6AQAAMAAJ?q=&gbpv=1#f=false"
+  commentary: "One way to measure how the intellect of a country changes over time is to look at what's published in its periodicals. Stevenson observed a dramatic rise in the quality of articles published in London periodicals over the fifty year period."
+  tags: [Sociology, Archive]
+
+- title: "Thoughts on some Errors of Opinion in respect to the Advancement and Diffusion of Knowledge"
+  author: "Alexander Blair"
+  publication: "Blackwood's Magazine"
+  year: 1824
+  context: "Utterly Incomplete Look to Research from 1824"
+  contextlink: "research-from-1824#thoughts-on-some-errors-of-opinion-in-respect-to-the-advancement-and-diffusion-of-knowledge"
+  url: "https://www.google.com/books/edition/Blackwood_s_Edinburgh_Magazine/nuc6AQAAMAAJ?q=&gbpv=1#f=false"
+  commentary: "Argues that knowledge is highly personal and can only be advanced through willful acts of researchers that gain mastery in a particular field."
+  tags: [Philosophy, Archive]
+
+# Interesting Articles from 2023
+
+- title: "What do we want a foundation to do? Comparing set-theoretic, category-theoretic, and univalent approaches"
+  author: "Penelope Maddy"
+  publication:  "in Reflections on the Foundations of Mathematics: Univalent Foundations, Set Theory and General Thoughts"
+  year: 2019
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#what-do-we-want-a-foundation-to-do-comparing-set-theoretic-category-theoretic-and-univalent-approaches"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-15655-8_13"
+  commentary: "This article discusses the notion of a foundation for mathematics and what sort of things we expect a foundation to do. Maddy argues that the three candidate notions satisfy different foundational virtues but should be understood more as differing perspectives rather than direct rivals."
+  tags: [Logic]
+
+- title: "Clues, Margins, and Monads: The Micro-Macro Link in Historical Research"
+  author: "Matti Peltonen"
+  publication: "History and Theory"
+  year: 2001
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#clues-margins-and-monads-the-micro-macro-link-in-historical-research"
+  url: "https://www.jstor.org/stable/2677970"
+  commentary: "Microhistory seeks to identify “clues” which are “taken as a sign of a larger, but hidden or unknown, structure. A strange detail is made to represent a wider totality.” In this way, observation of the micro leads to inferences about the macro."
+  tags: [History]
+
+- title: "Particular formulae for the Moore-Penrose inverse of a columnwise partitioned matrix"
+  author: "Jerzy K. Baksalary and Oskar Maria Baksalary"
+  publication: "Linear Algebra and Its Applications"
+  year: 2007
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#particular-formulae-for-the-moore-penrose-inverse-of-a-columnwise-partitioned-matrix"
+  url: "https://www.sciencedirect.com/science/article/pii/S0024379506001959"
+  commentary: "Proves results for computing the Moore-Penrose pseudoinverse of horizontal block matrices in closed-form."
+  tags: [Mathematics]
+
+- title: "Every Author as First Author"
+  author: "Erik D. Demaine and Martin L. Demaine"
+  publication: "Proceedings of SIGTBD"
+  year: 2023
+  context: "Interesting Articles from 2023" 
+  contextlink: "interesting-articles-2023#every-author-as-first-author"
+  url: "https://arxiv.org/abs/2304.01393"
+  commentary: "Proposes a scheme for fairly listing author names when citing papers by overlaying all of the names (pictured to the right), simultaneously addressing several issues that creep up in research."
+  tags: [Academia] 
+
+- title: "The First Great Law & Economics Movement"
+  author: "Herbert Hovenkamp"
+  publication: "Stanford Law Review"
+  year: 1990
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#the-first-great-law-&-economics-movement"
+  url: "https://www.jstor.org/stable/1228909"
+  commentary: "Surveys an early law and economics movement which stretched from the anti-trust era and the marginal revolution in the 1880s to the rise of ordinal utility theory in the 1920s and 1930s."
+  tags: [Economics, History]
+
+- title: "Analytic women: The lost women of early Analytic philosophy"
+  author: "Jeanne Peijnenburg and Sander Verhaegh"
+  publication: "Aeon"
+  year: 2023
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#analytic-women-the-lost-women-of-early-analytic-philosophy"
+  url: "https://aeon.co/essays/the-lost-women-of-early-analytic-philosophy"
+  commentary: "The vast majority of scholars become forgotten to history. Two pathways to being forgotten are the historical and the historiographical. The former is when one's work is not appreciated by their contemporaries; the latter when one's work is excluded from the canon."
+  tags: [Philosophy, Academia]
+
+- title: "Synthetic Data and Public Policy: supporting real-world policymakers with algorithmically generated data"
+  author: "Kevin Jenkins"
+  publication: "Policy Quarterly"
+  year: 2023
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#synthetic-data-and-public-policy-supporting-real-world-policymakers-with-algorithmically-generated-data"
+  url: "https://ojs.victoria.ac.nz/pq/article/view/8234"
+  commentary: "An informal survey of synthetic data with a dash of privacy aimed at policymakers."
+  tags: [Privacy]
+
+- title: "Identification and Estimation of Local Average Treatment Effects"
+  author: "Guido Imbens and Joshua Angrist"
+  publication: "American Economic Review"
+  year: 1994
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#identification-and-estimation-of-local-average-treatment-effects"
+  url: "https://www.jstor.org/stable/2951620"
+  commentary: "Proves identification results within the potential outcomes framework for the instrumental variables (IV) causal model where the estimated effect can be interpreted as the local average treatment effect (LATE)."
+  tags: [Statistics]
+
+- title: "Rational Magic"
+  author: "Tara Isabella Burton"
+  publication: "The New Atlantis"
+  year: 2023
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#rational-magic"
+  url: "https://www.thenewatlantis.com/publications/rational-magic"
+  commentary: "Surveys the rise of the postrationalists in recent years and provides a helpful narrative connecting these internet subcultures to broader ideas and figures."
+  tags: [Sociology]
+
+- title: "Can a good philosophical contribution be made just by asking a question?"
+  author: "Joshua Habgood-Coote, Lani Watson, and Dennis Whitcomb"
+  publication: "Metaphilosophy"
+  year: 2022
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#can-a-good-philosophical-contribution-be-made-just-by-asking-a-question"
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/meta.12599"
+  commentary: "Asks a single question in its title and leaves the response to the reader. Is it the shortest legitimate paper ever published? Technically yes, but not quite; the journal editor published a letter from the authors as commentary on the idea of the paper."
+  tags: [Philosophy]
+
+- title: "The Great Convergence: Global Equality and Its Discontents"
+  author: "Branko Milanovic"
+  publication: "Foreign Affairs"
+  year: 2023
+  context: "Interesting Articles from 2023"
+  contextlink: "interesting-articles-2023#the-great-convergence-global-equality-and-its-discontents"
+  url: "https://www.foreignaffairs.com/world/great-convergence-equality-branko-milanovic"
+  commentary: "Argues that the income inequality narrative is turned on its head when viewed globally. In the 30 year period from 1988 to 2018, Western countries saw the lower end of earners fall in the global distribution of income while the upper end remained relatively unchanged."
+  tags: [Economics, International Relations]
+
+# Interesting Books from 2023
+
+- title: "Lost Continents: The Atlantis Theme in History, Science, and Literature"
+  author: "L. Sprague de Camp"
+  year: 1954
+  context: "Interesting Books from 2023"
+  contextlink: "interesting-books-2023#lost-continents-the-atlantis-theme-in-history-science-and-literature"
+  commentary: "A comprehensive survey of Atlantis and the notion of lost continents, from the origin of Atlantis in Platonic dialogues to occultists and pseudoscientists arguing that Atlantis and other lost continents exist to modern geological theories to a rhetorical analysis of lost continents in literature."
+  tags: [Philosophy, History, Book, Archive]
+
+- title: "Slouching Towards Utopia: An Economic History of the Twentieth Century"
+  author: "J. Bradford DeLong"
+  year: 2022
+  context: "Interesting Books from 2023"
+  contextlink: "interesting-books-2023#slouching-towards-utopia-an-economic-history-of-the-twentieth-century"
+  commentary: "A survey of the long twentieth century guided by two models throughout: growth in the stock of useful ideas and differing notions of rights embodied by Friedrich von Hayek and Karl Polanyi. "
+  tags: [Economics, History, Book]
+
+- title: "The Hound of the Baskervilles"
+  author: "Arthur Conan Doyle"
+  year: 1902
+  context: "Interesting Books from 2023"
+  contextlink: "interesting-books-2023#the-hound-of-the-baskervilles"
+  url: "https://www.gutenberg.org/files/2852/2852-h/2852-h.htm"
+  commentary: "The first Sherlock Holmes novel that I'd read. It's surprisingly interesting and occasionally amusing."
+  tags: [Fiction, Book, Archive]
+
+- title: "Colonial New England on 5 Shillings a Day"
+  author: "Bill Scheller"
+  year: 2010
+  context: "Interesting Books from 2023"
+  contextlink: "interesting-books-2023#colonial-new-england-on-5-shillings-a-day"
+  commentary: "While it bills itself as a travel guide to pre-revolution New England,  Scheller doesn't let this gimmick get too much in the way of providing short, breezy introductions to the people, places, and culture of the area."
+  tags: [History, Book]
+
+- title: "The Book of Yōkai: Mysterious Creatures of Japanese Folklore"
+  author: "Michael Dylan Foster"
+  year: 2015
+  context: "Interesting Books from 2023"
+  contextlink: "interesting-books-2023#the-book-of-yōkai-mysterious-creatures-of-japanese-folklore"
+  commentary: "Yokai are creatures that populate Japanese folklore. Like fairies in Western Europe, Yokai have their origins in regional folk religion but today are found largely in popular media. This book thoughtfully introduces Yokai as an interesting window to study culture rather than as a mere curiosity."
+  tags: [History, Book]
+
+# Utterly Incomplete Look to Research from 1923
+
+- title: "A Tract on Monetary Reform"
+  author: "John Maynard Keynes"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#a-tract-on-monetary-reform"
+  url: "https://archive.org/details/tractonmonetaryr0000keyn/mode/2up?ref=ol&view=theater"
+  quote: "But this long run is a misleading guide to current affairs. In the long run we are all dead. Economists set themselves too easy, too useless a task if in tempestuous seasons they can only tell us that when the storm is long past the ocean is flat again."
+  tags: [Economics, Book, Archive]
+
+- title: "A Pragmatic Conception of the A Priori"
+  author: "C. I. Lewis"
+  publication: "The Journal of Philosophy"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#a-pragmatic-conception-of-the-a-priori"
+  url: "https://www.jstor.org/stable/2939833"
+  commentary: "Offers an account of the a priori where one's conceptual faculties are to some extent the product of one's environment and evolves (or devolves) over time."
+  tags: [Philosophy, Archive]
+
+- title: "Vagueness"
+  author: "Bertrand Russell"
+  publication: "The Australasian Journal of Philosophy"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#vagueness"
+  url: "https://www.tandfonline.com/doi/abs/10.1080/00048402308540623"
+  commentary: "Discusses the inherent vagueness in human concepts. For instance, all measurement concepts such as second, inch, or gram must be imprecise to some degree in application. The takeaway is that we should not mistake properties of our language or psychology with metaphysical properties of nature."
+  tags: [Philosophy, Archive]
+
+- title: "On the Introduction of Transfinite Numbers"
+  author: "John von Neumann"
+  publication: "Acta Scientiarum Mathematicarum"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#on-the-introduction-of-transfinite-numbers"
+  url: "https://archive.org/details/fromfregetogodel0000vanh/page/n5/mode/2up"
+  commentary: "Introduces a canonical construction of ordinals, now called the von Neumann ordinals."
+  tags: [Logic, Archive]
+
+- title: "Nationalism and Internationalism"
+  author: "Alfred E. Zimmern"
+  publication: "Foreign Affairs"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#nationalism-and-internationalism"
+  url: "https://www.foreignaffairs.com/articles/europe/1923-06-15/nationalism-and-internationalism"
+  commentary: "Nationalism and Internationalism are often seen as contrary ideas. This article contends that this seeming conflict is not necessary but results from a widely held nineteenth century liberal doctrine: nations should coincide with states."
+  tags: [International Relations, Archive]
+
+- title: "The Rise of Universities"
+  author: "Charles Homer Haskins"
+  year: 1923
+  context: "Utterly Incomplete Look to Research from 1923"
+  contextlink: "research-from-1923#the-rise-of-universities"
+  url: "https://archive.org/details/in.ernet.dli.2015.77813/page/n5/mode/2up"
+  commentary: "We often hear that the academy is in a state of flux and disarray. This short books offers ample evidence that these opinions are not novel but have been held since the earliest days of the modern university in the twelfth century."
+  tags: [Academia, History, Book, Archive]
+
+# Utterly Incomplete Look to Research from 1873
+
+- title: "Lombard Street: A Description of the Money Market"
+  author: "Walter Bagehot"
+  year: 1873
+  context: "Utterly Incomplete Look to Research from 1873"
+  contextlink: "research-from-1873#lombard-street-a-description-of-the-money-market"
+  url: "https://archive.org/details/lombardstreetad00bagegoog/page/n12/mode/2up"
+  commentary: "This book eschews the theoretical models of the political economists to offer an approachable perspective on London's banking and finance system, informed by Bagehot's prior decade as editor-in-chief of The Economist."
+  tags: [Economics, Book, Archive]
+
+- title: "Liberal Education in the Nineteenth Century"
+  author: "William P. Atkinson"
+  publication: "Popular Science Monthly"
+  year: 1873
+  context: "Utterly Incomplete Look to Research from 1873"
+  contextlink: "research-from-1873#liberal-education-in-the-nineteenth-century"
+  url: "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_4/November_1873/Liberal_Education_in_the_Nineteenth_Century"
+  commentary: "Argues for a reform of education that is available to all, based on the vernacular, and includes the arts and sciences. Atkinson calls liberal education in the early nineteenth century the “grindstone theory”, where students disinterestedly pursue difficult tasks devoid of much content to cultivate both discipline and rational ways of thinking."
+  tags: [Academia, Archive]
+
+# Utterly Incomplete Look to Research from 1823
+
+- title: "An Examination of some Questions connected with Games of Chance"
+  author: "Charles Babbage"
+  publication: "Transactions of the Royal Society of Edinburgh"
+  year: 1823
+  context: "Utterly Incomplete Look to Research from 1823"
+  contextlink: "utterly-incomplete-look-to-research-from-1823#an-examination-of-some-questions-connected-with-games-of-chance"
+  url: "https://babel.hathitrust.org/cgi/pt?id=mdp.39015070586345&seq=9"
+  commentary: "Considers properties of strategies for betting on repeated events such as coin flips and roulette spins. In particular, Babbage asks what we can learn about a betting strategy if it resulted in p wins and q losses."
+  tags: [Mathematics, Archive]
+
+- title: "On the Knocking at the Gate in Macbeth"
+  author: "Thomas De Quincey"
+  publication: "London Magazine"
+  year: 1823
+  context: "Utterly Incomplete Look to Research from 1823"
+  contextlink: "utterly-incomplete-look-to-research-from-1823#on-the-knocking-at-the-gate-in-macbeth"
+  url: "https://babel.hathitrust.org/cgi/pt?id=mdp.39015033845689&view=1up&seq=365"
+  commentary: "Novel psychological analysis of the transition scene in Shakespeare's Macbeth, where two characters knock on the castle gate following Macbeth and Lady Macbeth's murder of King Duncan."
+  tags: [Literature, Psychology]
+
+# Interesting Articles from 2022
+
+- title: "Stylized Facts in the Social Sciences"
+  author: "Daniel Hirschman"
+  publication: "Sociological Science"
+  year: 2016
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#stylized-facts-in-the-social-sciences"
+  url: "https://sociologicalscience.com/articles-v3-26-604/"
+  commentary: "Stylized facts are “empirical regularities in search of theoretical, causal explanations.” Hirschman presents a model of social science research where empirical researchers produce stylized facts that then become the data to which theoreticians model, thereby filling the role of phenomena and crucial experiments in the natural or experimental sciences."
+  tags: [PhilSci, Sociology]
+
+- title: "The World Putin Wants: How Distortions About the Past Feed Delusions About the Future"
+  author: "Fiona Hill and Angela Stent"
+  publication: "Foreign Affairs"
+  year: 2022
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#the-world-putin-wants-how-distortions-about-the-past-feed-delusions-about-the-future"
+  url: "https://www.foreignaffairs.com/russian-federation/world-putin-wants-fiona-hill-angela-stent"
+  commentary: "Analyzes Russia's rhetoric and strategy in its invasion of Ukraine in the context of Putin writings and speeches. The thrust of the argument is that “Putin seeks to build his version of a Russian empire.”"
+  tags: [International Relations]
+
+- title: "A Better Privacy Analysis of the Exponential Mechanism"
+  author: "Ryan Rogers and Thomas Steinke"
+  publication: "DifferentialPrivacy.org"
+  year: 2021
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#a-better-privacy-analysis-of-the-exponential-mechanism"
+  url: "https://differentialprivacy.org/exponential-mechanism-bounded-range/"
+  commentary: "Summarizes recent research on the Exponential mechanism - the most common algorithm for private selection - and conversions between differential privacy variants."
+  tags: [Privacy]
+
+- title: "The introduction of topology into analytic philosophy: two movements and a coda"
+  author: "Samuel C. Fletcher and Nathan Lackey"
+  publication: "Synthese"
+  year: 2022
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#the-introduction-of-topology-into-analytic-philosophy-two-movements-and-a-coda"
+  url: "https://link.springer.com/article/10.1007/s11229-022-03689-9"
+  commentary: "During the 20th century two distinct conceptions of topology found their way into philosophical discourse: geometric and algebraic."
+  tags: [Philosophy]
+
+- title: "A Geometric Series from Tennis"
+  author: "Michael K. Kinyon"
+  publication: "The College Mathematics Journal"
+  year: 2005
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#a-geometric-series-from-tennis"
+  url: https://fermatslibrary.com/s/a-geometric-series-from-tennis
+  commentary: "Explores the probability of winning a game in tennis if the probability p of winning a point is known."
+  tags: [Mathematics]
+
+- title: "Does Academic Research Destroy Stock Return Predictability?"
+  author: "R. David McLean and Jeffrey Pointiff"
+  publication: "The Journal of Finance"
+  year: 2016
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#does-academic-research-destroy-stock-return-predictability"
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12365"
+  commentary: "Estimates the effect of publishing investing strategies in academic papers on the performance of those strategies."
+  tags: [Economics, Statistics]
+
+- title: "Witches and Aliens: How an Archaeologist Inspired Two New Religious Movements"
+  author: "Jeb J. Card"
+  publication: "Nova Religio"
+  year: 2019
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#witches-and-aliens-how-an-archaeologist-inspired-two-new-religious-movements"
+  url: "https://online.ucpress.edu/nr/article-abstract/22/4/44/71226/Witches-and-AliensHow-an-Archaeologist-Inspired"
+  commentary: "The late-19th/early-20th century archaeologist Margaret Murray greatly influenced both fringe religious movements and science fiction."
+  tags: [History]
+
+- title: "Talking About Large Language Models"
+  author: "Murray Shanahan"
+  publication: "Communications of the ACM"
+  year: 2024
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#talking-about-large-language-models"
+  url: "https://dl.acm.org/doi/abs/10.1145/3624724"
+  commentary: "Argues that researchers and practitioners ought to be cautious when assigning intentional states such as knowledge and belief to LLMs."
+  tags: [Philosophy, Machine Learning]
+
+- title: "Incomplete and Utter Introduction to Modal Logic"
+  author: "Danya Rogozin"
+  year: 2020
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#incomplete-and-utter-introduction-to-modal-logic"
+  url: "https://serokell.io/blog/incomplete-and-utter-introduction-to-modal-logic"
+  commentary: "An ambitious introduction to modal propositional logic covering syntax and the usual Kripke semantics as well as topological semantics."
+  tags: [Logic]
+
+- title: "Primitive Communism: The idea of primitive communism is as seductive as it is wrong"
+  author: "Manvir Singh"
+  publication: "Aeon"
+  year: 2022
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#primitive-communism-the-idea-of-primitive-communism-is-as-seductive-as-it-is-wrong"
+  url: "https://aeon.co/essays/the-idea-of-primitive-communism-is-as-seductive-as-it-is-wrong"
+  commentary: "Argues against primitive communism: that early human tribes didn’t have private property."
+  tags: [History, Philosophy]
+
+- title: "Differentially Private Approximate Quantiles"
+  author: "Haim Kaplan, Shachar Schnapp, and Uri Stemmer"
+  publication: "ICML Proceedings"
+  year: 2021
+  context: "Interesting Articles from 2022"
+  contextlink: "interesting-articles-2022#differentially-private-approximate-quantiles"
+  url: "https://arxiv.org/abs/2110.05429#"
+  commentary: "Presents a recursive schema for computing multiple differentially private quantile estimates."
+  tags: [Privacy, Statistics]
+
+# Interesting Books from 2022
+
+- title: "Fading Foundations: Probability and the Regress Problem"
+  author: "David Atkinson and Jeanne Peijnenburg"
+  year: 2017
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#fading-foundations-probability-and-the-regress-problem"
+  commentary: "Introduces the probabilistic approach to the regress problem and synthesizes nearly a decade of work from Atkinson and Peijnenburg. Their work investigates the regress problem through a probabilistic graphical model where vertices are beliefs/propositions and directed edges are relations of support representing conditional probabilities."
+  tags: [Philosophy, Logic, Book]
+
+- title: "1177 B.C. The Year Civilization Collapsed"
+  author: "Eric H. Cline"
+  year: 2014
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#1177-bc-the-year-civilization-collapsed"
+  commentary: "During the Bronze Age, several civilizations flourished in the eastern Mediterranean and Near East; however, with the end of the age came their collapse. Cline advances the collapse hypothesis that the complex cultural, political, and economic systems experienced cascading failures and were not nimble enough to adjust to the evolving circumstances."
+  tags: [History, Book]
+
+- title: "The Isles: A History"
+  author: "Norman Davies"
+  year: 1999
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#the-isles-a-history"
+  commentary: "A sweeping narrative of the British Isles."
+  tags: [History, Book]
+
+- title: "How Carrots Won the Trojan War"
+  author: "Rebecca Rupp"
+  year: 2011
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#how-carrots-won-the-trojan-war"
+  commentary: "This book is about vegetables and fruits we sometimes call vegetables. The story of each vegetable is a menagerie of etymology, folklore, suspect nutritional findings, historical recipes, offerings from seed dealers, and frequent check-ins with Thomas Jefferson's exploits at Monticello, among others."
+  tags: [History, Book]
+
+- title: "The Strange Case of Dr. Jekyll and Mr. Hyde"
+  author: "Robert Louis Stevenson"
+  year: 1886
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#the-strange-case-of-dr-jekyll-and-mr-hyde"
+  url: "https://www.gutenberg.org/ebooks/43"
+  commentary: "A classic Victorian Gothic novel."
+  tags: [Literature, Book]
+
+- title: "Pythagoras and the Pythagoreans: A Brief History"
+  author: "Charles H. Kahn"
+  year: 2001
+  context: "Interesting Books from 2022"
+  contextlink: "interesting-books-2022#pythagoras-and-the-pythagoreans-a-brief-history"
+  commentary: "Traces the influence of Pythagoreanism from antiquity to the Scientific Revolution."
+  tags: [Philosophy, History, Book]
+
+# Foreign Affairs at 100: A Look Back at the First Issue
+
+- title: "A Requisite for the Success of Popular Diplomacy"
+  author: "Elihu Root"
+  publication: "Foreign Affairs"
+  year: 1922
+  context: "Foreign Affairs at 100: A Look Back at the First Issue"
+  contextlink: "foreign-affairs-at-100-a-look-back-at-the-first-issue#a-requisite-for-the-success-of-popular-diplomacy"
+  url: "https://www.jstor.org/stable/20028194"
+  commentary: "Contends that the dominant view in the US has foreign affairs being opaque and kept away from domestic politics. With this change comes a new civic responsibility to keep up with foreign dealings (to some extent) and to be vigilant and cautious of misinformation."
+  tags: [International Relations, Archive]
+
+# Interesting Articles from 2021
+
+- title: "The Cult, the Cultic Milieu and Secularization"
+  author: "Colin Campbell"
+  publication: "A Sociological Yearbook of Religion in Britain"
+  year: 1972
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#the-cult-the-cultic-milieu-and-secularization"
+  commentary: "Investigates the cultic milieu while giving a sociological account of the cult. The cultic milieu is composed of “all deviant belief systems and their associated practices” in a society."
+  tags: [Sociology]
+
+- title: "Believing the Axioms I"
+  author: "Penelope Maddy"
+  publication: "The Journal of Symbolic Logic"
+  year: 1988
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#believing-the-axioms-i"
+  url: "https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/believing-the-axioms-i/3DDC12F844720E71BE58F456FDD3BEF2"
+  quote: "The axiomatization of set theory has led to the consideration of axiom candidates that no one finds obvious, not even their staunchest supporters. In such cases, we find the methodology has more in common with the natural scientist's hypothesis formation and testing than the caricature of the mathematician writing down a few obvious truths and proceeding to draw logical consequences."
+  tags: [Logic, Philosophy]
+
+- title: "Scientific community in a divided world: Economists, planning, and research priority during the cold war"
+  author: "Johanna Bockman and Michael A. Bernstein"
+  publication: "Comparative Studies in Society and History"
+  year: 2008
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#scientific-community-in-a-divided-world-economists-planning-and-research-priority-during-the-cold-war"
+  url: "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/scientific-community-in-a-divided-world-economists-planning-and-research-priority-during-the-cold-war/3961EB826E24681583ED9A3C0A5A8F7B"
+  commentary: "Paints a picture of mathematical economics research during the Cold War through the correspondence and friendship of Tjalling Koopmans and Leonid Kantorovich."
+  tags: [Economics, History]
+
+- title: "A Simple and Practical Algorithm for Differentially Private Data Release"
+  author: "Moritz Hardt, Katrina Ligett, and Frank McSherry"
+  publication: "NeurIPS Proceedings"
+  year: 2012
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#a-simple-and-practical-algorithm-for-differentially-private-data-release"
+  url: "https://papers.nips.cc/paper/2012/file/208e43f0e45c4c78cafadb83d2888cb6-Paper.pdf"
+  commentary: "Introduces the MWEM algorithm (multiplicative weights exponential mechanism) to generate differentially private synthetic data that captures information from a set of counting-based queries."
+  tags: [Privacy, Machine Learning]
+
+- title: "Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing"
+  author: "Matthew Fredrikson, Eric Lantz, Somesh Jha, Simon Lin, David Page, and Thomas Ristenpart"
+  publication: "USENIX Security Proceedings"
+  year: 2014
+  context: "Interesting Articles from 2021"
+  contextlink:  "interesting-articles-2021#privacy-in-pharmacogenetics-an-end-to-end-case-study-of-personalized-warfarin-dosing"
+  url: "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew"
+  commentary: "Introduces model inversion attacks where an adversary with access to a model (such as behind an API) uses it to learn sensitive features in the input data. The authors study personalized medicine models used to predict a patient's optimal Warfarin dosage from demographic information and genetic markers."
+  tags: [Privacy, Machine Learning]
+
+- title: "The Prehistory of biology preprints: a forgotten experiment from the 1960s"
+  author: "Matthew Cobb"
+  publication: "PLoS Biology"
+  year: 2017
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#the-prehistory-of-biology-preprints-a-forgotten-experiment-from-the-1960s"
+  url: "https://fermatslibrary.com/s/the-prehistory-of-biology-preprints-a-forgotten-experiment-from-the-1960s"
+  commentary: "In 1961, the NIH piloted a program called Information Exchange Groups (IEGs) where individual academics would subscribe to an IEG that matched their research area and could submit/receive papers from other members of their group."
+  tags: [PhilSci, History]
+
+- title: "A dynamic logic for learning theory"
+  author: "Alexandru Baltaga, Nina Gierasimczukb, Aybüke Özgünac, Ana Lucia Vargas Sandovala, and Sonja Smets"
+  publication: "Journal of Logical and Algebraic Methods in Programming"
+  year: 2019
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#a-dynamic-logic-for-learning-theory"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S2352220818300890"
+  commentary: "introduces a dynamic modal logic (called DLLT) to model formal learning theory. Formal learning theory studies the learnability/solvability of formal hypotheses/problems as information known with certainty accumulates."
+  tags: [Logic, Machine Learning]
+
+- title: "Bullshit, Pseudoscience and Pseudophilosophy"
+  author: "Victor Moberger"
+  publication: "Theoria"
+  year: 2020
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#bullshit-pseudoscience-and-pseudophilosophy"
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/theo.12271"
+  commentary: "Provides a taxonomy of pseudoscience and pseudophilosophy as varieties of bullshit."
+  tags: [Philosophy]
+
+- title: "Exploring Connections Between Active Learning and Model Extraction"
+  author: "Varun Chandrasekaran, Kamalika Chaudhuri, Irene Giacomelli, Somesh Jha, and Songbai Yan"
+  publication: "USENIX Security Proceedings"
+  year: 2020
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#exploring-connections-between-active-learning-and-model-extraction"
+  url: "https://www.usenix.org/conference/usenixsecurity20/presentation/chandrasekaran"
+  commentary: "Introduces a formal threat model for model extraction creating a mapping between model extraction and query synthesis (QS) active learning."
+  tags: [Privacy, Machine Learning]
+
+- title: "Poseidon's wrath: How a vanished ancient Greek city helps us think about disasters"
+  author: "Guy D. Middleton"
+  publication: "Aeon"
+  year: 2021
+  context: "Interesting Articles from 2021"
+  contextlink: "interesting-articles-2021#poseidons-wrath-how-a-vanished-ancient-greek-city-helps-us-think-about-disasters"
+  url: "https://aeon.co/essays/how-a-vanished-ancient-greek-city-helps-us-think-about-disasters"
+  commentary: "Discusses how the Greeks and Romans thought about natural disasters through the case of Helike."
+  tags: [History]
+
+# Interesting Books from 2021
+
+- title: "The Open Society and Its Complexities"
+  author: "Gerald Gaus"
+  year: "2021"
+  context: "Interesting Books from 2021"
+  contextlink: "interesting-books-2021#the-open-society-and-its-complexities"
+  commentary: "An introduction to a view on complexity and moral diversity that Gaus calls New Diversity Theory. In a nutshell, this book (and New Diversity Theory in general) argues that genuine moral disagreement within bounds is socially beneficial."
+  tags: [Economics, Philosophy, Book]
+
+- title: "A Man of Misconceptions: The Life of an Eccentric in an Age of Change"
+  author: "John Glassie"
+  year: "2012"
+  context: "Interesting Books from 2012"
+  contextlink: "interesting-books-2012#a-man-of-misconceptions-the-life-of-an-eccentric-in-an-age-of-change"
+  commentary: "A biography of Athanasius Kircher, a 17th century Jesuit priest that was somewhere between a boastful charlatan and an original, revolutionary thinker."
+  tags: [History, Book]
+
+- title: "Rationalizing Capitalist Democracy: The Cold War Origins of Rational Choice Liberalism"
+  author: "S. M. Amadae"
+  year: 2003
+  context: "Interesting Books from 2021"
+  contextlink: "interesting-books-2021#rationalizing-capitalist-democracy-the-cold-war-origins-of-rational-choice-liberalism"
+  commentary: "A critical history of rational choice theory and its applications. Amadae argues that rational choice theory is the intellectual underpinning behind American public policy i.e. what others loosely refer to as neoliberalism or the Washington consensus."
+  tags: [Economics, Philosophy, Book]
+
+# Interesting Articles from 2020
+
+- title: "A Theory of Optimum Currency Areas"
+  author: "Robert A. Mundell"
+  publication: "The American Economic Review"
+  year: 1961
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#a-theory-of-optimum-currency-areas"
+  url: "http://www.jstor.org/stable/1812792"
+  commentary: "Managing currency through monetary policy by a central bank serves the purpose of absorbing unemployment through expansion when unemployment is high as well as curbing inflation when inflation is high. This, however, assumes that a region is homogeneous with respect to its need for monetary policy."
+  tags: [Economics, International Relations]
+
+- title: "The Paranoid Style in American Politics"
+  author: "Richard Hofstadter"
+  publication: "Harper's Magazine"
+  year: 1964
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#the-paranoid-style-in-american-politics"
+  url: "https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/"
+  commentary: "An analysis of American politics, describing a mode of rhetoric that is often divisive, conspiratorial, and mean-spirited."
+  tags: [International Relations]
+
+- title: "The Theory of Interstellar Trade"
+  author: "Paul Krugman"
+  publication: "Economic Inquiry"
+  year: 1978
+  context: "Interesting Articles from 2020"
+  contextlink:  "top-articles-2020#the-theory-of-interstellar-trade"
+  url: "https://fermatslibrary.com/s/the-theory-of-interstellar-trade"
+  commentary: "A serious analysis of a silly topic: the theory of trade across long (light years) distances. "
+  tags: [Economics]
+
+- title: "Economic Modelling as Robustness Analysis"
+  author: "Jaakko Kuorikoski, Aki Lehtinen, and Caterina Marchionni"
+  publication: "The British Journal for the Philosophy of Science"
+  year: 2010
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#economic-modelling-as-robustness-analysis"
+  url: "https://doi.org/10.1093/bjps/axp049"
+  commentary: "Argues that the practice of establishing derivational robustness in economics provides epistemic support for economic theories in lieu of empirical evidence. This attempts to explain what it is that economists do in much of their research."
+  tags: [Economics, PhilSci]
+
+- title: "Stealing Machine Learning Models via Prediction APIs"
+  author: "Florian Tramèr, Fan Zhang, Ari Juels, Michael K. Reiter, and Thomas Ristenpart"
+  publication: "USENIX Security Proceedings"
+  year: 2016
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#stealing-machine-learning-models-via-prediction-apis"
+  url: "https://arxiv.org/abs/1609.02943"
+  commentary: "Introduces the model extraction attack against deployed machine learning models. The goal of this attack is to reconstruct a model given oracle access to the model - a situation that's common when machine learning models are deployed as a black box behind an API."
+  tags: [Machine Learning, Privacy]
+
+- title: "Comments on Economic Models, Economics, and Economists: Remarks on Economics Rules by Dani Rodrik"
+  author: "Ariel Rubinstein"
+  publication: "Journal of Economic Literature"
+  year: 2017
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#comments-on-economic-models-economics-and-economists-remarks-on-economics-rules-by-dani-rodrik"
+  url: "https://doi.org/10.1257/jel.20161408"
+  commentary: "A review of Economics Rules by Dani Rodrik generally favorable to the book as it is written with non-economists in mind yet contains a substantive discussion of economic methodology."
+  tags: [Economics, PhilSci]
+
+- title: "Self-organizing moral systems: Beyond social contract theory"
+  author: "Gerald Gaus"
+  publication: "Politics, Philosophy, and Economics"
+  year: 2017
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#self-organizing-moral-systems-beyond-social-contract-theory"
+  url: "https://doi.org/10.1177/1470594X17719425"
+  commentary: "Introduces and explores the ethical diversity view of justice (sometimes called New Diversity Theory) which views justice as the dynamics of heterogenous moral agents."
+  tags: [Economics, Philosophy]
+
+- title: "An introduction to (algorithmic) randomness"
+  author: "Rutger Kuyper"
+  publication: "Nieuw Archief voor Wiskunde"
+  year: 2018
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#an-introduction-to-algorithmic-randomness"
+  url: "http://www.nieuwarchief.nl/serie5/toonnummer.php?deel=19&nummer=1&taal=0"
+  commentary: "An excellent short introduction to algorithmic randomness (not randomized algorithms!) that provides both intuition for the notions of randomness along with the clarity of precise mathematical definitions. This is the level of clarity and rigor that introductions and invitations in mathematics should strive for."
+  tags: [Mathematics, Logic]
+
+- title: "Thoughts on DSGE Macroeconomics: Matching the Moment, But Missing the Point?"
+  author: "Anton Korinek"
+  publication: "in Toward a Just Society: Joseph Stiglitz and Twenty-First Century Economics"
+  year: 2018
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#thoughts-on-dsge-macroeconomics-matching-the-moment-but-missing-the-point"
+  url: "https://www.ineteconomics.org/perspectives/blog/matching-the-moment-but-missing-the-point"
+  commentary: "Discusses the costs and benefits of the dynamic stochastic general equilibrium (DSGE) approach to macroeconomics, the current dominant methodology over the past few decades."
+  tags: [Economics]
+
+- title: "The End of Grand Strategy: America Must Think Small"
+  author: "Daniel W. Drezner, Ronald R. Krebs, and Randall Schweller"
+  publication: "Foreign Affairs"
+  year: 2020
+  context: "Interesting Articles from 2020"
+  contextlink: "top-articles-2020#the-end-of-grand-strategy-america-must-think-small"
+  url: "https://www.foreignaffairs.com/articles/world/2020-04-13/end-grand-strategy"
+  commentary: "Grand strategy is the notion of a coherent direction to guide the decisions of a state. The authors argue that having a grand strategy, such as containment during the Cold War years or liberal internationalism until recently, is not feasible given the current divided and unstable state of US politics."
+  tags: [International Relations]
+
+# Interesting Books from 2020
+
+- title: "The History of Phlogiston Theory"
+  author: "John Henry White"
+  year: 1932
+  context: "Interesting Books from 2020"
+  contextlink: "top-books-2020#the-history-of-phlogiston-theory"
+  commentary: "Argues against the typical story phlogiston being a stepping stone on the path to the modern theory of combustion."
+  tags: [PhilSci, History, Book, Archive]
+
+- title: "The Abraham Dilemma: A Divine Delusion"
+  author: "George Graham"
+  year: 2015
+  context: "Interesting Books from 2020"
+  contextlink:  "top-books-2020#the-abraham-dilemma-a-divine-delusion"
+  commentary: "Develops a theory of delusion, particularly religious delusion, as a mental disorder."
+  tags: [Psychology, Philosophy, Book]
+
+- title: "Libra Shrugged: How Facebook Tried to Take Over the Money"
+  author: "David Gerard"
+  year: 2020
+  context: "Interesting Books from 2020"
+  contextlink: "top-books-2020#libra-shrugged-how-facebook-tried-to-take-over-the-money"
+  commentary: "Tells the story of Libra, Facebook's beleaguered attempt to create a cryptocurrency."
+  quote: "It's standard in Silicon Valley to propose an all-encompassing international system, and base it entirely on looking out your window in Palo Alto."
+  tags: [Crypto, Book]
+
+# Interesting Articles from 2019
+
+- title: "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics"
+  author: "Joshua D. Angrist and Jörn-Steffen Pischke"
+  publication: "Journal of Economic Perspectives"
+  year: 2010
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#the-credibility-revolution-in-empirical-economics-how-better-research-design-is-taking-the-con-out-of-econometrics"
+  url: "http://dx.doi.org/10.1257/jep.24.2.3"
+  commentary: "The use of quasi-experimental methods such as instrumental variables, regression discontinuity design, and difference-in-differences has led to more robust estimates of causal effects."
+  tags: [Economics, Statistics]
+
+- title: "English is not normal"
+  author: "John McWhorter"
+  publication: "Aeon"
+  year: 2015
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#english-is-not-normal"
+  url: "https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages"
+  commentary: "A quirky discussion of English's unique place among languages."
+  tags: [History, Sociology]
+
+- title: "The Need for Cognitive Science in Methodology"
+  author: "Sander Greenland"
+  publication: "American Journal of Epidemiology"
+  year: 2017
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#the-need-for-cognitive-science-in-methodology"
+  url: "http://dx.doi.org/10.1093/aje/kwx259"
+  commentary: "Argues in favor of the methodological position that “Statistical analyses are merely thought experiments, informing us as to what would follow deductively under their assumptions”"
+  tags: [Statistics]
+
+- title: "Blockchain is not only crappy technology but a bad vision for the future"
+  author: "Kai Stinchcombe"
+  year: 2018
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#blockchain-is-not-only-crappy-technology-but-a-bad-vision-for-the-future"
+  url: "https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec"
+  commentary: "Aruges that people often confuse blockchain the idea with blockchain the technology and that we actually do not want fully trustless transactions."
+  tags: [Crypto]
+
+- title: "Why Data is Never Raw"
+  author: "Nick Barrowman"
+  publication: "The New Atlantis"
+  year: 2018
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#why-data-is-never-raw"
+  url: "https://www.thenewatlantis.com/publications/why-data-is-never-raw"
+  commentary: "Discusses the idea that data is always processed and interpreted, challenging the notion of 'raw' data."
+  tags: [Statistics, Philosophy]
+
+- title: "The Bias Bias in Behavioral Economics"
+  author: "Gerd Gigerenzer"
+  publication: "Review of Behavioral Economics"
+  year: 2018
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#the-bias-bias-in-behavioral-economics"
+  url: "http://dx.doi.org/10.1561/105.00000092"
+  commentary: "Argues for the bias bias: attributing a bias to behavior that is potentially well-motivated."
+  tags: [Economics, Statistics]
+
+- title: "Intellectual Control"
+  author: "George Fairbanks"
+  publication: "IEEE Software"
+  year: 2019
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#intellectual-control"
+  url: "http://dx.doi.org/10.1109/MS.2018.2874294"
+  commentary: "The current practice of test driven development provides statistical control, i.e., if all of the test cases pass, then there likely is not a problem. In contrast, an alternative notion is intellectual control, i.e., being able to explain what the code/program/system is doing."
+  tags: [Software Engineering]
+
+- title: "Unicorns, Cheshire cats, and the new dilemmas of entrepreneurial finance"
+  author: "Martin Kenney and John Zysman"
+  publication: "Venture Capital"
+  year: 2019
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#unicorns-cheshire-cats-and-the-new-dilemmas-of-entrepreneurial-finance"
+  url: "https://doi.org/10.1080/13691066.2018.1517430"
+  commentary: "Examines the rise of the unicorn: a start-up with a private valuation of over one billion USD."
+  tags: [Economics]
+
+- title: "A New Americanism"
+  author: "Jill Lepore"
+  publication: "Foreign Affairs"
+  year: 2019
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#a-new-americanism"
+  url: "https://www.foreignaffairs.com/articles/united-states/2019-02-05/new-americanism-nationalism-jill-lepore"
+  commentary: "Argues that nations look to an origin story to explain their existence and that this story changes with the times."
+  tags: [International Relations]
+
+- title: "The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations"
+  author: "Thibault Laugel, Marie-Jeanne Lesot, Christophe Marsala, Xavier Renard, and Marcin Detyniecki"
+  publication: "IJCAI Proceedings"
+  year: 2019
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#the-dangers-of-post-hoc-interpretability-unjustified-counterfactual-explanations"
+  url: "https://www.ijcai.org/proceedings/2019/0388.pdf"
+  commentary: "Extends the idea of a local explanation of a classifier's prediction to counterfactually-justified local explanations to provide a link between the classifier and the training data."
+  tags: [Machine Learning, Explainability]
+
+- title: "Mistaken: I think, therefore I make mistakes and change my mind"
+  author: "Daniel Ward"
+  publication: "Aeon"
+  year: 2019
+  context: "Interesting Articles from 2019"
+  contextlink: "top-articles-2019#mistaken-i-think-therefore-i-make-mistakes-and-change-my-mind"
+  url: "https://aeon.co/essays/i-think-therefore-i-make-mistakes-and-change-my-mind"
+  quote: "To err is human. Missteps, misapprehensions, misspeakings, momentary lapses and mess-ups are part of the fabric of life. Yet we are capable of making mistakes precisely because we are thoughtful, intelligent beings with complex goals and sincerely held values. We wouldn't be able to if we were otherwise. Regrets: we've had a few. But we are the wiser for them."
+  tags: [Philosophy]
+
+# Interesting Books from 2019
+
+- title: "Measure and Category: A Survey of the Analogies between Topological and Measure Spaces"
+  author: "John C. Oxtoby"
+  year: 1971
+  context: "Interesting Books from 2019"
+  contextlink: "top-books-2019#measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces"
+  commentary: "This slim monograph explores connections between concepts in measure theory and topology."
+  tags: [Mathematics, Book]
+
+- title: "Civilization and Capital, 15th - 18th Century: Volume 1: The Structure of Everyday Life"
+  author: "Fernand Braudel"
+  year: 1981
+  context: "Interesting Books from 2019"
+  contextlink: "top-books-2019#civilization-and-capital-15th---18th-century-volume-1-the-structure-of-everyday-life"
+  commentary: "The first entry of Braudel's Civilization and Capital trilogy paints a picture of everyday life in Europe during the 14th to the 18th centuries."
+  tags: [History, Book]
+
+- title: "Capitalism without Capital"
+  author: "Jonathan Haskel and Stian Westlake"
+  year: 2018
+  context: "Interesting Books from 2019"
+  contextlink: "top-books-2019#capitalism-without-capital"
+  commentary: "A detailed initial investigation into how the increased prevalence of intangible goods affects both our economic statistics and the marketplace."
+  tags: [Economics, Book]
+
+# Interesting Articles from 2018
+
+- title: "Pick the Largest Number"
+  author: "Thomas Cover"
+  publication: "Open Problems in Communication and Computation"
+  year: 1987
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#pick-the-largest-number"
+  url: "https://doi.org/10.1007/978-1-4612-4808-8"
+  commentary: "Describes a solution to the two-card variant of a game called Googol, which is surprisingly better than guessing."
+  tags: [Mathematics]
+
+- title: "The Trouble with Psychological Darwinism"
+  author: "Jerry Fodor"
+  publication: "London Review of Books"
+  year: 1998
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#the-trouble-with-psychological-darwinism"
+  url: "https://www.lrb.co.uk/v20/n02/jerry-fodor/the-trouble-with-psychological-darwinism"
+  commentary: "Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind which holds that the mind functions from modular structures and is partly innate (or the structures are anyway)."
+  tags: [Philosophy]
+
+- title: "A Mathematician's Lament"
+  author: "Paul Lockhart"
+  year: 2002
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#a-mathematicians-lament"
+  url: "https://fermatslibrary.com/s/a-mathematicians-lament"
+  commentary: "This essay is an indictment of the modern K-12 math curriculum primarily because mathematics is presented as unmotivated, algorithmic drudgery by educators who have never done mathematics."
+  tags: [Mathematics]
+
+- title: "To Explain or to Predict?"
+  author: "Galit Shmueli"
+  publication: "Statistical Science"
+  year: 2010
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#to-explain-or-to-predict"
+  url: "https://doi.org/10.1214/10-STS330"
+  commentary: "Discusses the difference between explanation and prediction in the modeling process from conception to model validation featuring two case studies with the Netflix Challenge data and auction data."
+  tags: [Statistics, Machine Learning]
+
+- title: "Progress in evidence-based medicine: a quarter century on"
+  author: "Benjamin Djulbegovic and Gordon H. Guyatt"
+  publication: "The Lancet"
+  year: 2017
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#progress-in-evidence-based-medicine-a-quarter-century-on"
+  url: "https://doi.org/10.1016/S0140-6736(16)31592-6"
+  commentary: "Introduces Evidence Based Medicine (EBM) and its development of systematic studies and meta-analyses to guide clinical decision making."
+  tags: [Statistics]
+
+- title: "Understanding Deep Learning Requires Rethinking Generalization"
+  author: "Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals"
+  publication: "ICLR Proceedings"
+  year: 2017
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#understanding-deep-learning-requires-rethinking-generalization"
+  url: "https://arxiv.org/abs/1611.03530"
+  commentary: "This paper finds that deep neural networks can easily fit random labels, challenging conventional wisdom about generalization and the role of regularization."
+  tags: [Machine Learning]
+
+- title: "Stuck! The Law and Economics of Residential Stability"
+  author: "David Schleicher"
+  publication: "Yale Law Journal"
+  year: 2017
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#stuck-the-law-and-economics-of-residential-stability"
+  url: "https://www.yalelawjournal.org/article/stuck-the-law-and-economics-of-residential-stagnation"
+  quote: "Americans are not leaving places hit by economic crises, resulting in unemployment rates and low wages that linger in these areas for decades. And people are not moving to rich regions where the highest wages are available."
+  tags: [Economics]
+
+- title: "TOP5ITIS"
+  author: "Roberto Serrano"
+  year: 2018
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#top5itis"
+  url: "https://www.econstor.eu/bitstream/10419/202594/1/101155741X.pdf"
+  quote: "Since the disease is a simple application of the counting measure (typically a person learns to count in primary school), through a process of contagion, top5itis spreads quickly to affect people outside economics, including schoolchildren offspring of economists who get together in the playground to make disparaging remarks about each other's parents."
+  tags: [Economics]
+
+- title: "Learning is a Risky Business"
+  author: "Wayne C. Myrvold"
+  publication: "Erkenntnis"
+  year: 2018
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#learning-is-a-risky-business"
+  url: "https://doi.org/10.1007/s10670-018-9972-0"
+  commentary: "This paper advances an argument against the principle of indifference by introducing time into the partitioning of the state space."
+  tags: [Philosophy]
+
+- title: "Anchors: High-Precision Model-Agnostic Explanations"
+  author: "Marco Túlio Ribeiro, Sameer Singh, and Carlos Guestrin"
+  publication: "AAAI Proceedings"
+  year: 2018
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#anchors-high-precision-model-agnostic-explanations"
+  url: "https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982"
+  commentary: "Introduces a method for explaining the behavior of a classifier makes by finding a region of the feature space that sufficiently “anchors” a prediction."
+  tags: [Machine Learning, Explainability]
+
+- title: "Understanding and misunderstanding randomized controlled trials"
+  author: "Angus Deaton and Nancy Cartwright"
+  publication: "Social Science & Medicine"
+  year: 2018
+  context: "Interesting Articles from 2018"
+  contextlink: "top-articles-2018#understanding-and-misunderstanding-randomized-controlled-trials"
+  url: "https://doi.org/10.1016/j.socscimed.2017.12.005"
+  quote: "In these conversations, the results of an RCT may have marginal value. If your physician tells you that she endorses evidence-based medicine, and that the drug will work for you because an RCT has shown that 'it works', it is time to find a physician who knows that you and the average are not the same."
+  tags: [Economics, Statistics]
+
+# Interesting Books from 2018
+
+- title: "Science and Change: 1500 to 1700"
+  author: "Hugh Kearney"
+  year: 1971
+  context: "Interesting Books from 2018"
+  contextlink: "top-books-2018#science-and-change-1500-to-1700"
+  commentary: "Argues that the story of science's emergence from the darkness during the Renaissance is an instance of revisionist history."
+  tags: [History, Philosophy, Book]
+
+- title: "Attack of the 50 Foot Blockchain"
+  author: "David Gerard"
+  year: 2017
+  context: "Interesting Books from 2018"
+  contextlink: "top-books-2018#attack-of-the-50-foot-blockchain"
+  commentary: "Discusses both the origins and prospects of Bitcoin and other cryptocurrencies and blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved."
+  tags: [Crypto, Book]
+
+- title: "Exact Thinking in Demented Times"
+  author: "Karl Sigmund"
+  year: 2017
+  context: "Interesting Books from 2018"
+  contextlink: "top-books-2018#exact-thinking-in-demented-times"
+  commentary: "This book chronicles the Vienna Circle (or Wiener Kreis), a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna whose aim  was to orient philosophy on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy."
+  tags: [Philosophy, History, Book]
+
+# Other Posts
+
+- title: "The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs"
+  author: "Raymond Smullyan"
+  year: 2013
+  context: "Some Fun with Knights and Knaves"
+  contextlink: "knights-knaves-smullyan-part1"
+  commentary: "A collection of puzzles and paradoxes that are related to self-reference and Gödel's incompleteness theorems."
+  tags: [Logic, Book]
+
+# - title:
+#   author:
+#   publication:
+#   year:
+#   context:
+#   contextlink:
+#   url:
+#   commentary:
+#   tags: []
