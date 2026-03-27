@@ -11,6 +11,7 @@ permalink: /projects/
 - [AIM]({{ site.baseurl }}{% link _posts/2022-03-20-aim-synthetic-data.md %}) (VLDB 2022), a mechanism for generating private synthetic data for discrete tabular datasets that's state-of-the-art across several error metrics. 
 - [JAM-PGM]({{ site.baseurl }}{% link _posts/2024-03-21-jam-synthetic-data.md %}) (AISTATS 2024), a private synthetic data mechanism that incorporates public data to reduce error and better utilize the privacy budget.
 - [GReM-MLE and GReM-LNN]({{ site.baseurl }}{% link _posts/2024-10-04-gremlnn.md %}) (NeurIPS 2024), two mechanisms for reconstructing answers to noisy marginals from residuals. 
+- [AIM+GReM]() (AISTATS 2026), a framework for marginal query answering that combines methods developed for AIM with GReM-MLE reconstruction to achieve state-of-the-art error for large data domains.
 
 ## Topology and Explainable Machine Learning
 

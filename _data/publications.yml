@@ -9,6 +9,7 @@
   venue: International Conference on Artificial Intelligence and Statistics (AISTATS)
   year: 2026
   link: https://arxiv.org/abs/2602.05674
+  summary: fast-private-adaptive-queries
 
 - title: Efficient and Private Marginal Reconstruction with Local Non-negativity
   authors:
