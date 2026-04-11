@@ -10,6 +10,10 @@ mathjax: true
   <p>A curated selection of books and articles for curious readers covering machine learning, economics, history, philosophy, and more.</p>
 </div>
 
+<div id="primary-filters" class="global-filters" style="text-align: center; margin-bottom: 0.5rem;"></div>
+
+<div id="secondary-filters" class="global-filters" style="text-align: center; margin-bottom: 3rem;"></div>
+
 <div id="random-reading-list" class="reading-list"></div>
 
 <div class="button-container" style="text-align: center; margin-top: 2rem; margin-bottom: 4rem;">
@@ -27,41 +31,91 @@ mathjax: true
     return array;
   }
 
-  // Shuffle the master list once when the page loads
   const randomizedReadings = shuffleArray([...allReadings]);
   
-  // State variables
   let currentIndex = 0;
   const itemsPerLoad = 5;
   const container = document.getElementById('random-reading-list');
   const loadMoreBtn = document.getElementById('load-more-btn');
   
-  // Track active tags in an array
-  let activeTags = [];
+  // Categorized Filter Arrays
+  const topCategories = ["Privacy", "Machine Learning", "Economics", "Philosophy", "History", "Mathematics"];
+  const extraTypes = ["Book", "Article"];
+  const extraEras = ["1820s", "1870s", "1920s", "2010s", "2020s"];
+  
+  // State variables for multidimensional filtering
+  let activeTopics = [];
+  let activeTypes = [];
+  let activeEras = [];
+
+  const primaryContainer = document.getElementById('primary-filters');
+  const secondaryContainer = document.getElementById('secondary-filters');
+
+  function renderFilters() {
+    // Render Primary Topics
+    primaryContainer.innerHTML = topCategories.map(tag => {
+      const activeClass = activeTopics.includes(tag) ? 'active-tag' : '';
+      return `<button class="tag filter-btn ${activeClass}" onclick="toggleFilter('${tag}', 'topic')">${tag}</button>`;
+    }).join(' ');
+
+    // Render Secondary Types and Eras
+    let extraHtml = extraTypes.map(tag => {
+      const activeClass = activeTypes.includes(tag) ? 'active-tag' : '';
+      return `<button class="tag filter-btn secondary-tag ${activeClass}" onclick="toggleFilter('${tag}', 'type')">${tag}</button>`;
+    }).join(' ');
+    
+    extraHtml += `<span style="margin: 0 1rem; color: #ccc;">|</span>`; // Visual separator
+    
+    extraHtml += extraEras.map(tag => {
+      const activeClass = activeEras.includes(tag) ? 'active-tag' : '';
+      return `<button class="tag filter-btn secondary-tag ${activeClass}" onclick="toggleFilter('${tag}', 'era')">${tag}</button>`;
+    }).join(' ');
+
+    secondaryContainer.innerHTML = extraHtml;
+  }
+
+  window.toggleFilter = function(value, category) {
+    if (category === 'topic') {
+      if (activeTopics.includes(value)) activeTopics = activeTopics.filter(t => t !== value);
+      else activeTopics.push(value);
+    } else if (category === 'type') {
+      if (activeTypes.includes(value)) activeTypes = activeTypes.filter(t => t !== value);
+      else activeTypes.push(value);
+    } else if (category === 'era') {
+      if (activeEras.includes(value)) activeEras = activeEras.filter(t => t !== value);
+      else activeEras.push(value);
+    }
+    
+    container.innerHTML = '';
+    currentIndex = 0;
+    
+    renderFilters(); 
+    renderItems();   
+  };
 
   function renderItems() {
-    let arrayToRender = randomizedReadings;
-    
-    // "AND" LOGIC: Show item ONLY if it contains EVERY active tag
-    if (activeTags.length > 0) {
-      arrayToRender = randomizedReadings.filter(item => 
-        item.tags && activeTags.every(tag => item.tags.includes(tag))
-      );
-    }
+    let arrayToRender = randomizedReadings.filter(item => {
+      // Must match ALL active topics (AND logic)
+      const matchTopic = activeTopics.length === 0 || activeTopics.every(t => item.tags && item.tags.includes(t));
+      // Must match ANY active type (OR logic within types)
+      const matchType = activeTypes.length === 0 || activeTypes.includes(item.type);
+      // Must match ANY active era (OR logic within eras)
+      const matchEra = activeEras.length === 0 || activeEras.includes(item.era);
+      
+      return matchTopic && matchType && matchEra;
+    });
 
-    // EMPTY STATE: If the filter combination yields zero results
     if (arrayToRender.length === 0) {
       container.innerHTML = `
         <div class="empty-state fade-in" style="text-align: center; padding: 4rem 1rem;">
-          <p style="color: #666; font-size: 1.1rem; margin-bottom: 1.5rem;">No readings found for that specific combination of tags.</p>
+          <p style="color: #666; font-size: 1.1rem; margin-bottom: 1.5rem;">No readings found for that specific combination of filters.</p>
           <button onclick="clearFilters()" class="load-more-btn">Clear Filters</button>
         </div>
       `;
       if (loadMoreBtn) loadMoreBtn.style.display = 'none';
-      return; // Exit the function early so we don't try to render an empty batch
+      return; 
     }
 
-    // Grab the next batch
     const batch = arrayToRender.slice(currentIndex, currentIndex + itemsPerLoad);
     let htmlContent = '';
 
@@ -69,8 +123,8 @@ mathjax: true
       let tagsHtml = '';
       if (item.tags && item.tags.length > 0) {
         const tagSpans = item.tags.map(tag => {
-          const activeClass = activeTags.includes(tag) ? 'active-tag' : '';
-          return `<span class="tag ${activeClass}" onclick="toggleTag('${tag}')">${tag}</span>`;
+          const activeClass = activeTopics.includes(tag) ? 'active-tag' : '';
+          return `<span class="tag ${activeClass}" onclick="toggleFilter('${tag}', 'topic')">${tag}</span>`;
         }).join('');
         tagsHtml = `<div class="tags">${tagSpans}</div>`;
       }
@@ -86,8 +140,7 @@ mathjax: true
       }
       
       if (item.author) {
-          htmlContent += `
-            <p class="meta"><strong>${item.author}</strong> &mdash;`; 
+          htmlContent += `<p class="meta"><strong>${item.author}</strong> &mdash;`; 
       }
       
       if (item.publication) {
@@ -119,16 +172,19 @@ mathjax: true
       }
       
       htmlContent += `
-          ${tagsHtml}
+          <div class="reading-item-metadata" style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
+            ${tagsHtml}
+            <span style="font-size: 0.85rem; color: #888;">
+              ${item.type ? item.type : ''} ${item.type && item.era ? '•' : ''} ${item.era ? item.era : ''}
+            </span>
+          </div>
         </article>
       `;
     });
 
-    // Append the new items
     container.insertAdjacentHTML('beforeend', htmlContent);
     currentIndex += itemsPerLoad;
 
-    // Show or hide the Load More button based on the remaining items
     if (currentIndex >= arrayToRender.length) {
       if(loadMoreBtn) loadMoreBtn.style.display = 'none';
     } else {
@@ -136,31 +192,18 @@ mathjax: true
     }
   }
 
-  // Toggle function to add/remove tags from the array
-  window.toggleTag = function(tag) {
-    if (activeTags.includes(tag)) {
-      activeTags = activeTags.filter(t => t !== tag);
-    } else {
-      activeTags.push(tag);
-    }
-    
-    // Clear the current list and reset the index
-    container.innerHTML = '';
-    currentIndex = 0;
-    
-    // Re-render
-    renderItems();
-  };
-
-  // Helper function to quickly clear all filters from the empty state
   window.clearFilters = function() {
-    activeTags = [];
+    activeTopics = [];
+    activeTypes = [];
+    activeEras = [];
     container.innerHTML = '';
     currentIndex = 0;
+    
+    renderFilters();
     renderItems();
   };
 
-  // Run the function once to load the initial 5 items
+  renderFilters();
   renderItems();
 
   if (loadMoreBtn) {

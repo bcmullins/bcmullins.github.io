@@ -441,35 +441,44 @@ footer {
 }
 
 /* Tags */
-.tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
+/* Styling for all tag pills */
 .tag {
-  font-size: 0.75rem;
-  background: #f0f0f0;
-  color: #666;
-  padding: 0.25rem 0.6rem;
-  border-radius: 20px; /* Gives them a pill shape */
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  cursor: pointer; /* Changes the mouse to a hand icon */
-  transition: background-color 0.2s ease, color 0.2s ease;
-  user-select: none; /* Prevents text highlighting if they click too fast */
+  background-color: #ffffff; 
+  border: 1px solid #e0e0e0; 
+  color: #555555; 
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px; 
+  font-size: 0.85rem;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  transition: all 0.2s ease-in-out;
+  
+  /* NEW: Strip native browser button styling and shadows */
+  box-shadow: none;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
-/* Hover effect so they feel responsive */
+/* Hover effect so users know it is clickable */
 .tag:hover {
-  background-color: #e0e0e0;
-  color: orange;
+  border-color: orange;
+  color: #333333;
 }
 
-/* The styling for the currently selected filter */
+/* The active state when a filter is selected */
 .tag.active-tag {
-  background-color: #444; /* Dark gray/black background */
-  color: #fff;            /* White text */
+  background-color: #333333; 
+  color: #ffffff; 
+  border-color: #333333;
+}
+
+/* Optional: Removes the default blue outline when clicked/focused, 
+   replacing it with a subtle gray one for accessibility */
+.tag:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #eeeeee;
 }
 
 /* Styling for the Load More button */
