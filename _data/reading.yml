@@ -1381,6 +1381,45 @@
   type: "Book"
   era: "2020s"
 
+# Responses to Friedman's 1953 on the Realism of Assumptions
+
+- title: "Why Look Under the Hood?"
+  author: "Dan Hausman"
+  year: 1992
+  context: "Responses to Friedman's 1953 on the Realism of Assumptions"
+  contextlink: "economic_methodology_interpretable_ml_samuelson_hausman"
+  url: "https://hausman.philosophy.wisc.edu/papers/why-look-under-the-hood"
+  commentary: "Argues that the realism of assumptions is important for the purpose of understanding and improving economic models."
+  tags: [Economics, PhilSci]
+  type: "Article"
+  era: "1990s"
+
+# Some Fun with Knights and Knaves
+
+- title: "The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs"
+  author: "Raymond Smullyan"
+  year: 2013
+  context: "Some Fun with Knights and Knaves"
+  contextlink: "knights-knaves-smullyan-part1"
+  commentary: "A collection of puzzles and paradoxes that are related to self-reference and Gödel's incompleteness theorems."
+  tags: [Logic]
+  type: "Book"
+  era: "2010s"
+
+# Economic Methodology Meets Interpretable Machine Learning - Part I - Interpretability, Explainability, and Black Boxes
+
+- title: “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+  author: "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin"
+  publication: "KDD Proceedings"
+  year: 2016
+  context: "Interpretability, Explainability, and Black Boxes"
+  contextlink: "economic_methodology_interpretable_ml_blackboxes"
+  url: "https://arxiv.org/abs/1602.04938"
+  commentary: "Introduces LIME, a method for explaining the predictions of any classifier in an interpretable and faithful manner, by learning an interpretable model locally around the prediction."
+  tags: [Machine Learning, Explainability]
+  type: "Article"
+  era: 2010s
+
 # Interesting Articles from 2019
 
 - title: "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics"
@@ -1710,17 +1749,7 @@
   type: "Book"
   era: "2010s"
 
-# Other Posts
 
-- title: "The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs"
-  author: "Raymond Smullyan"
-  year: 2013
-  context: "Some Fun with Knights and Knaves"
-  contextlink: "knights-knaves-smullyan-part1"
-  commentary: "A collection of puzzles and paradoxes that are related to self-reference and Gödel's incompleteness theorems."
-  tags: [Logic]
-  type: "Book"
-  era: "2010s"
 
 
 # - title:
@@ -1732,3 +1761,5 @@
 #   url:
 #   commentary:
 #   tags: []
+#   type:
+#   era:
