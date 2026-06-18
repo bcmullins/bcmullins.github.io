@@ -147,7 +147,7 @@ Published: 2022
 
 Link: [Click here](https://arxiv.org/abs/2212.03551)
 
-Fall 2022 saw an increase in public interest in the latest round of [generative NLP models](https://en.wikipedia.org/wiki/Language_model) often called large language models (LLMs). This timely article argues that researchers and practitioners ought to be cautious when assigning [intentional states]((https://plato.stanford.edu/entries/intentionality/)) such as knowledge and belief to LLMs. Shanahan's observation is not novel but is worth considering: while LLMs can have really impressive performance for some tasks, they "simply generate sequences of words that are statistically likely follow-ons from a given prompt." So LLMs don't reason like humans and, therefore, cannot be ascribed intentional states.
+Fall 2022 saw an increase in public interest in the latest round of [generative NLP models](https://en.wikipedia.org/wiki/Language_model) often called large language models (LLMs). This timely article argues that researchers and practitioners ought to be cautious when assigning [intentional states](https://plato.stanford.edu/entries/intentionality/) such as knowledge and belief to LLMs. Shanahan's observation is not novel but is worth considering: while LLMs can have really impressive performance for some tasks, they "simply generate sequences of words that are statistically likely follow-ons from a given prompt." So LLMs don't reason like humans and, therefore, cannot be ascribed intentional states.
 
 <img style="float: right; margin: 0px 0px 5px 5px;" src="https://upload.wikimedia.org/wikipedia/en/d/db/Clippy-letter.PNG
 " width="125" height="250">
