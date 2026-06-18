@@ -1,3 +1,86 @@
+# Cultivating interests
+
+- title: "The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers"
+  author: "Robert L. Heilbroner"
+  year: 1953
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#histories-of-philosophy-and-economics"
+  commentary: "A lively history of political economy from Adam Smith to the 1930s built around the big names"
+  tags: [Economics]
+  type: "Book"
+  era: "1950s"
+
+- title: "A History of Western Philosophy"
+  author: "Bertrand Russell"
+  year: 1945
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#histories-of-philosophy-and-economics"
+  commentary: "A sweeping history of Western philosophy from the pre-Socratics to the early twentieth century. Russell's writing is witty and warm, transforming what could have been an episodic slog into a compelling narrative."
+  tags: [Philosophy]
+  type: "Book"
+  era: "1940s"
+
+- title: "A Theory of Justice"
+  author: "John Rawls"
+  year: 1971
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  commentary: "A major work in twentieth century political philosophy developing a theory of distributive justice within the framework of social contract theory."
+  tags: [Philosophy]
+  type: "Book"
+  era: "1970s"
+
+- title: "Morals by Agreement"
+  author: "David Gauthier"
+  year: 1986
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  commentary: "Argues for a game-theoretic notion of morality that emerges as a rational social solution to the problem of cooperation in a world of self-interested agents."
+  tags: [Philosophy]
+  type: "Book"
+  era: "1980s"
+
+- title: "On Philosophy, Politics, and Economics"
+  author: "Gerald Gaus"
+  year: 2008
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  commentary: "A gentle introduction to the tools of individual and collective choice theory in the context of PPE."
+  tags: [Philosophy,Economics]
+  type: "Book"
+  era: "2000s"
+
+- title: "The Cost of Rights: Why Liberty Depends on Taxes"
+  author: "Stephen Holmes and Cass Sunstein"
+  year: 1999
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  commentary: "Argues that all rights require costs to be enforced to be genuine rights and that public finance and taxation are key to preserving rights."
+  tags: [Philosophy, Economics]
+  type: "Book"
+  era: "1990s"
+
+- title: "Language, Truth and Logic"
+  author: "A.J. Ayer"
+  year: 1936
+  context: "Cultivating interests"
+  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#analytic-philosophy"
+  commentary: "An interpretation of logical positivism that's bursting with excitement and the youthful enthusiasm of one who believes he's found the key to all philosophical problems."
+  tags: []
+  type:
+  era:
+
+# - title:
+#   author:
+#   year:
+#   context: "Cultivating interests"
+#   contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#"
+#   commentary:
+#   tags: []
+#   type:
+#   era:
+
+
 # Interesting Articles from 2025
 
 - title: "The Dangerous Problem: the century-long struggle to prove the Collatz conjecture"
