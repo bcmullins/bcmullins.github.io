@@ -5,7 +5,7 @@
   year: 1953
   context: "Cultivating Interests"
   contextlink: "favorite-books-from-undergrad#histories-of-philosophy-and-economics"
-  commentary: "A lively history of political economy from Adam Smith to the 1930s built around the big names."
+  commentary: "A lively history of political economy from Adam Smith to the 1930s built around the big names. The first history of economics I read. An enjoyable read but requires context."
   tags: [Economics]
   type: "Book"
   era: "1950s"
@@ -197,7 +197,7 @@
   context: "Utterly Incomplete Look to Research from 1925"
   contextlink: "research-from-1925#universals"
   url: "https://www.jstor.org/stable/2249716"
-  commentary: "Takes a fresh look at subject-predicate propositions such as “Socrates is wise”. He argues that the whole framework of subjects and predicates, particulars and universals, has led philosophers astray."
+  commentary: "Takes a fresh look at subject-predicate propositions such as “Socrates is wise”. Ramsey argues that the whole framework of subjects and predicates, particulars and universals, has led philosophers astray."
   tags: [Philosophy]
   type: "Article"
   era: "1920s"
@@ -233,7 +233,7 @@
   context: "Interesting Books from 2025"
   contextlink: "interesting-books-2025#differential-privacy"
   url: "https://direct.mit.edu/books/book/5935/Differential-Privacy"
-  commentary: "A wide-interest invitation to the mathematical approach to data privacy, being light enough for most to follow but with enough heft to say something interesting. It provides the best history of the field that I've seen."
+  commentary: "An accessible invitation to the mathematical approach to data privacy, being light enough for most to follow but with enough heft to say something interesting. It provides the best history of the field that I've seen."
   tags: [Privacy]
   type: "Book"
   era: "2020s"
@@ -812,7 +812,7 @@
   context: "Interesting Books from 2023"
   contextlink: "interesting-books-2023#the-hound-of-the-baskervilles"
   url: "https://www.gutenberg.org/files/2852/2852-h/2852-h.htm"
-  commentary: "The first Sherlock Holmes novel that I'd read. It's surprisingly interesting and occasionally amusing."
+  commentary: "The first Sherlock Holmes novel that I'd read. It's surprisingly interesting and occasionally amusing. I've since become a fan and have read several more."
   tags: [Fiction]
   type: "Book"
   era: "1900s"
@@ -1141,7 +1141,7 @@
   context: "Interesting Books from 2022"
   contextlink: "interesting-books-2022#the-strange-case-of-dr-jekyll-and-mr-hyde"
   url: "https://www.gutenberg.org/ebooks/43"
-  commentary: "A classic Victorian Gothic novel."
+  commentary: "A classic Victorian Gothic novel exploring the nature of personhood."
   tags: [Literature]
   type: "Book"
   era: "1880s"
@@ -1392,7 +1392,7 @@
   context: "Interesting Articles from 2020"
   contextlink: "top-articles-2020#comments-on-economic-models-economics-and-economists-remarks-on-economics-rules-by-dani-rodrik"
   url: "https://doi.org/10.1257/jel.20161408"
-  commentary: "A review of Economics Rules by Dani Rodrik generally favorable to the book as it is written with non-economists in mind yet contains a substantive discussion of economic methodology."
+  commentary: "A review of Economics Rules by Dani Rodrik that's generally favorable since it is accessible to non-economists yet contains a substantive discussion of economic methodology."
   tags: [Economics, PhilSci]
   type: "Article"
   era: "2010s"
@@ -1452,7 +1452,7 @@
   year: 1932
   context: "Interesting Books from 2020"
   contextlink: "top-books-2020#the-history-of-phlogiston-theory"
-  commentary: "Argues against the typical story phlogiston being a stepping stone on the path to the modern theory of combustion."
+  commentary: "Argues against the typical story of phlogiston being a stepping stone on the path to the modern theory of combustion."
   tags: [PhilSci, History]
   type: "Book"
   era: "1930s"
@@ -1657,7 +1657,7 @@
   year: 1971
   context: "Interesting Books from 2019"
   contextlink: "top-books-2019#measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces"
-  commentary: "This slim monograph explores connections between concepts in measure theory and topology."
+  commentary: "This slim monograph explores connections between concepts in measure theory and topology such as what it means to be a small set."
   tags: [Mathematics]
   type: "Book"
   era: "1970s"
@@ -1703,7 +1703,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#the-trouble-with-psychological-darwinism"
   url: "https://www.lrb.co.uk/v20/n02/jerry-fodor/the-trouble-with-psychological-darwinism"
-  commentary: "Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind which holds that the mind functions from modular structures and is partly innate (or the structures are anyway)."
+  commentary: "Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind, which holds that the mind functions from modular structures and is partly innate (or the structures are anyway)."
   tags: [Philosophy]
   type: "Article"
   era: "1990s"
@@ -1714,7 +1714,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#a-mathematicians-lament"
   url: "https://fermatslibrary.com/s/a-mathematicians-lament"
-  commentary: "This essay is an indictment of the modern K-12 math curriculum primarily because mathematics is presented as unmotivated, algorithmic drudgery by educators who have never done mathematics."
+  commentary: "An indictment of the modern K-12 math curriculum, which presents mathematics as unmotivated, algorithmic drudgery by educators who have never done mathematics."
   tags: [Mathematics]
   type: "Article"
   era: "2000s"
@@ -1750,7 +1750,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#understanding-deep-learning-requires-rethinking-generalization"
   url: "https://arxiv.org/abs/1611.03530"
-  commentary: "This paper finds that deep neural networks can easily fit random labels, challenging conventional wisdom about generalization and the role of regularization."
+  commentary: "Finds that deep neural networks can easily fit random labels, challenging conventional wisdom about generalization and the role of regularization."
   tags: [Machine Learning]
   type: "Article"
   era: "2010s"
@@ -1785,7 +1785,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#learning-is-a-risky-business"
   url: "https://doi.org/10.1007/s10670-018-9972-0"
-  commentary: "This paper advances an argument against the principle of indifference by introducing time into the partitioning of the state space."
+  commentary: "Advances an argument against the principle of indifference by introducing time into the partitioning of the state space."
   tags: [Philosophy]
   type: "Article"
   era: "2010s"
@@ -1821,7 +1821,7 @@
   year: 1971
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#science-and-change-1500-to-1700"
-  commentary: "Argues that the story of science's emergence from the darkness during the Renaissance is an instance of revisionist history."
+  commentary: "Argues that the story of science's emergence from the darkness during the Renaissance is an instance of revisionist history. Three approaches developed simultaneously: the organic, the mystical, and the mechanistic."
   tags: [History, Philosophy]
   type: "Book"
   era: "1970s"
@@ -1831,7 +1831,7 @@
   year: 2017
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#attack-of-the-50-foot-blockchain"
-  commentary: "Discusses both the origins and prospects of Bitcoin and other cryptocurrencies and blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved."
+  commentary: "Discusses the origins and prospects of Bitcoin and other cryptocurrencies as well as blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved."
   tags: [Crypto]
   type: "Book"
   era: "2010s"
@@ -1841,13 +1841,10 @@
   year: 2017
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#exact-thinking-in-demented-times"
-  commentary: "This book chronicles the Vienna Circle (or Wiener Kreis), a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna whose aim  was to orient philosophy on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy."
+  commentary: "Chronicles the Vienna Circle, a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna whose aim was to orient philosophy on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy."
   tags: [Philosophy, History]
   type: "Book"
   era: "2010s"
-
-
-
 
 # - title:
 #   author:
