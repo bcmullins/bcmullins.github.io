@@ -3,18 +3,19 @@
 - title: "The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers"
   author: "Robert L. Heilbroner"
   year: 1953
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#histories-of-philosophy-and-economics"
-  commentary: "A lively history of political economy from Adam Smith to the 1930s built around the big names"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#histories-of-philosophy-and-economics"
+  commentary: "A lively history of political economy from Adam Smith to the 1930s built around the big names. The first history of economics I read. An enjoyable read but requires context."
   tags: [Economics]
   type: "Book"
   era: "1950s"
+  image: "/images/blog/cultivating_interests/worldlyPhilosophers.jpeg"
 
 - title: "A History of Western Philosophy"
   author: "Bertrand Russell"
   year: 1945
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#histories-of-philosophy-and-economics"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#histories-of-philosophy-and-economics"
   commentary: "A sweeping history of Western philosophy from the pre-Socratics to the early twentieth century. Russell's writing is witty and warm, transforming what could have been an episodic slog into a compelling narrative."
   tags: [Philosophy]
   type: "Book"
@@ -23,8 +24,8 @@
 - title: "A Theory of Justice"
   author: "John Rawls"
   year: 1971
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#ppe-and-political-philosophy"
   commentary: "A major work in twentieth century political philosophy developing a theory of distributive justice within the framework of social contract theory."
   tags: [Philosophy]
   type: "Book"
@@ -33,8 +34,8 @@
 - title: "Morals by Agreement"
   author: "David Gauthier"
   year: 1986
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#ppe-and-political-philosophy"
   commentary: "Argues for a game-theoretic notion of morality that emerges as a rational social solution to the problem of cooperation in a world of self-interested agents."
   tags: [Philosophy]
   type: "Book"
@@ -43,8 +44,8 @@
 - title: "On Philosophy, Politics, and Economics"
   author: "Gerald Gaus"
   year: 2008
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#ppe-and-political-philosophy"
   commentary: "A gentle introduction to the tools of individual and collective choice theory in the context of PPE."
   tags: [Philosophy,Economics]
   type: "Book"
@@ -53,8 +54,8 @@
 - title: "The Cost of Rights: Why Liberty Depends on Taxes"
   author: "Stephen Holmes and Cass Sunstein"
   year: 1999
-  context: "Cultivating interests"
-  contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#ppe-and-political-philosophy"
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#ppe-and-political-philosophy"
   commentary: "Argues that all rights require costs to be enforced to be genuine rights and that public finance and taxation are key to preserving rights."
   tags: [Philosophy, Economics]
   type: "Book"
@@ -63,12 +64,23 @@
 - title: "Language, Truth and Logic"
   author: "A.J. Ayer"
   year: 1936
+  context: "Cultivating Interests"
+  contextlink: "favorite-books-from-undergrad#analytic-philosophy"
+  commentary: "An interpretation of logical positivism that's bursting with excitement and the youthful enthusiasm of one who believes he's found the key to all philosophical problems."
+  tags: [Philosophy]
+  type: "Book"
+  era: "1930s"
+
+- title: "Wittgenstein's Poker"
+  author: "David Edmonds and John Eidinow"
+  year: 2001
   context: "Cultivating interests"
   contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#analytic-philosophy"
-  commentary: "An interpretation of logical positivism that's bursting with excitement and the youthful enthusiasm of one who believes he's found the key to all philosophical problems."
-  tags: []
-  type:
-  era:
+  commentary: "An account of analytic philosophy during the first half of the twentieth century based around a famous incident between Wittgenstein and Karl Popper during a 1946 lecture at Cambridge over the existence of genuine philosophical problems."
+  tags: [Philosophy]
+  type: "Book"
+  era: "2000s"
+  image: "/images/blog/cultivating_interests/poker.jpeg"
 
 # - title:
 #   author:
@@ -185,7 +197,7 @@
   context: "Utterly Incomplete Look to Research from 1925"
   contextlink: "research-from-1925#universals"
   url: "https://www.jstor.org/stable/2249716"
-  commentary: "Takes a fresh look at subject-predicate propositions such as “Socrates is wise”. He argues that the whole framework of subjects and predicates, particulars and universals, has led philosophers astray."
+  commentary: "Takes a fresh look at subject-predicate propositions such as “Socrates is wise”. Ramsey argues that the whole framework of subjects and predicates, particulars and universals, has led philosophers astray."
   tags: [Philosophy]
   type: "Article"
   era: "1920s"
@@ -221,10 +233,11 @@
   context: "Interesting Books from 2025"
   contextlink: "interesting-books-2025#differential-privacy"
   url: "https://direct.mit.edu/books/book/5935/Differential-Privacy"
-  commentary: "A wide-interest invitation to the mathematical approach to data privacy, being light enough for most to follow but with enough heft to say something interesting. It provides the best history of the field that I've seen."
+  commentary: "An accessible invitation to the mathematical approach to data privacy, being light enough for most to follow but with enough heft to say something interesting. It provides the best history of the field that I've seen."
   tags: [Privacy]
   type: "Book"
   era: "2020s"
+  image: "/images/blog/interesting_books_2025/dp.jpeg"
 
 - title: "After Adam Smith: A Century of Transformation in Politics and Political Economy"
   author: "Murray Milgate and Shannon G. Stimson"
@@ -235,6 +248,7 @@
   tags: [Economics]
   type: "Book"
   era: "2000s"
+  image: "/images/blog/interesting_books_2025/afterAdamSmith.jpeg"
 
 - title: "Philosophical Analysis: Its development between the two World Wars"
   author: "J. O. Urmson"
@@ -798,7 +812,7 @@
   context: "Interesting Books from 2023"
   contextlink: "interesting-books-2023#the-hound-of-the-baskervilles"
   url: "https://www.gutenberg.org/files/2852/2852-h/2852-h.htm"
-  commentary: "The first Sherlock Holmes novel that I'd read. It's surprisingly interesting and occasionally amusing."
+  commentary: "The first Sherlock Holmes novel that I'd read. It's surprisingly interesting and occasionally amusing. I've since become a fan and have read several more."
   tags: [Fiction]
   type: "Book"
   era: "1900s"
@@ -1127,7 +1141,7 @@
   context: "Interesting Books from 2022"
   contextlink: "interesting-books-2022#the-strange-case-of-dr-jekyll-and-mr-hyde"
   url: "https://www.gutenberg.org/ebooks/43"
-  commentary: "A classic Victorian Gothic novel."
+  commentary: "A classic Victorian Gothic novel exploring the nature of personhood."
   tags: [Literature]
   type: "Book"
   era: "1880s"
@@ -1163,7 +1177,7 @@
   publication: "A Sociological Yearbook of Religion in Britain"
   year: 1972
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#the-cult-the-cultic-milieu-and-secularization"
+  contextlink: "top-articles-2021#the-cult-the-cultic-milieu-and-secularization"
   commentary: "Investigates the cultic milieu while giving a sociological account of the cult. The cultic milieu is composed of “all deviant belief systems and their associated practices” in a society."
   tags: [Sociology]
   type: "Article"
@@ -1174,7 +1188,7 @@
   publication: "The Journal of Symbolic Logic"
   year: 1988
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#believing-the-axioms-i"
+  contextlink: "top-articles-2021#believing-the-axioms-i"
   url: "https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/believing-the-axioms-i/3DDC12F844720E71BE58F456FDD3BEF2"
   quote: "The axiomatization of set theory has led to the consideration of axiom candidates that no one finds obvious, not even their staunchest supporters. In such cases, we find the methodology has more in common with the natural scientist's hypothesis formation and testing than the caricature of the mathematician writing down a few obvious truths and proceeding to draw logical consequences."
   tags: [Logic, Philosophy]
@@ -1186,7 +1200,7 @@
   publication: "Comparative Studies in Society and History"
   year: 2008
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#scientific-community-in-a-divided-world-economists-planning-and-research-priority-during-the-cold-war"
+  contextlink: "top-articles-2021#scientific-community-in-a-divided-world-economists-planning-and-research-priority-during-the-cold-war"
   url: "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/scientific-community-in-a-divided-world-economists-planning-and-research-priority-during-the-cold-war/3961EB826E24681583ED9A3C0A5A8F7B"
   commentary: "Paints a picture of mathematical economics research during the Cold War through the correspondence and friendship of Tjalling Koopmans and Leonid Kantorovich."
   tags: [Economics, History]
@@ -1198,7 +1212,7 @@
   publication: "NeurIPS Proceedings"
   year: 2012
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#a-simple-and-practical-algorithm-for-differentially-private-data-release"
+  contextlink: "top-articles-2021#a-simple-and-practical-algorithm-for-differentially-private-data-release"
   url: "https://papers.nips.cc/paper/2012/file/208e43f0e45c4c78cafadb83d2888cb6-Paper.pdf"
   commentary: "Introduces the MWEM algorithm (multiplicative weights exponential mechanism) to generate differentially private synthetic data that captures information from a set of counting-based queries."
   tags: [Privacy, Machine Learning]
@@ -1210,7 +1224,7 @@
   publication: "USENIX Security Proceedings"
   year: 2014
   context: "Interesting Articles from 2021"
-  contextlink:  "interesting-articles-2021#privacy-in-pharmacogenetics-an-end-to-end-case-study-of-personalized-warfarin-dosing"
+  contextlink:  "top-articles-2021#privacy-in-pharmacogenetics-an-end-to-end-case-study-of-personalized-warfarin-dosing"
   url: "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew"
   commentary: "Introduces model inversion attacks where an adversary with access to a model (such as behind an API) uses it to learn sensitive features in the input data. The authors study personalized medicine models used to predict a patient's optimal Warfarin dosage from demographic information and genetic markers."
   tags: [Privacy, Machine Learning]
@@ -1222,7 +1236,7 @@
   publication: "PLoS Biology"
   year: 2017
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#the-prehistory-of-biology-preprints-a-forgotten-experiment-from-the-1960s"
+  contextlink: "top-articles-2021#the-prehistory-of-biology-preprints-a-forgotten-experiment-from-the-1960s"
   url: "https://fermatslibrary.com/s/the-prehistory-of-biology-preprints-a-forgotten-experiment-from-the-1960s"
   commentary: "In 1961, the NIH piloted a program called Information Exchange Groups (IEGs) where individual academics would subscribe to an IEG that matched their research area and could submit/receive papers from other members of their group."
   tags: [PhilSci, History]
@@ -1234,7 +1248,7 @@
   publication: "Journal of Logical and Algebraic Methods in Programming"
   year: 2019
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#a-dynamic-logic-for-learning-theory"
+  contextlink: "top-articles-2021#a-dynamic-logic-for-learning-theory"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S2352220818300890"
   commentary: "Introduces a dynamic modal logic (called DLLT) to model formal learning theory. Formal learning theory studies the learnability/solvability of formal hypotheses/problems as information known with certainty accumulates."
   tags: [Logic, Machine Learning]
@@ -1246,7 +1260,7 @@
   publication: "Theoria"
   year: 2020
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#bullshit-pseudoscience-and-pseudophilosophy"
+  contextlink: "top-articles-2021#bullshit-pseudoscience-and-pseudophilosophy"
   url: "https://onlinelibrary.wiley.com/doi/10.1111/theo.12271"
   commentary: "Provides a taxonomy of pseudoscience and pseudophilosophy as varieties of bullshit."
   tags: [Philosophy]
@@ -1258,7 +1272,7 @@
   publication: "USENIX Security Proceedings"
   year: 2020
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#exploring-connections-between-active-learning-and-model-extraction"
+  contextlink: "top-articles-2021#exploring-connections-between-active-learning-and-model-extraction"
   url: "https://www.usenix.org/conference/usenixsecurity20/presentation/chandrasekaran"
   commentary: "Introduces a formal threat model for model extraction creating a mapping between model extraction and query synthesis (QS) active learning."
   tags: [Privacy, Machine Learning]
@@ -1270,7 +1284,7 @@
   publication: "Aeon"
   year: 2021
   context: "Interesting Articles from 2021"
-  contextlink: "interesting-articles-2021#poseidons-wrath-how-a-vanished-ancient-greek-city-helps-us-think-about-disasters"
+  contextlink: "top-articles-2021#poseidons-wrath-how-a-vanished-ancient-greek-city-helps-us-think-about-disasters"
   url: "https://aeon.co/essays/how-a-vanished-ancient-greek-city-helps-us-think-about-disasters"
   commentary: "Discusses how the Greeks and Romans thought about natural disasters through the case of Helike."
   tags: [History]
@@ -1283,7 +1297,7 @@
   author: "Gerald Gaus"
   year: "2021"
   context: "Interesting Books from 2021"
-  contextlink: "interesting-books-2021#the-open-society-and-its-complexities"
+  contextlink: "top-books-2021#the-open-society-and-its-complexities"
   commentary: "An introduction to a view on complexity and moral diversity that Gaus calls New Diversity Theory. In a nutshell, this book (and New Diversity Theory in general) argues that genuine moral disagreement within bounds is socially beneficial."
   tags: [Economics, Philosophy]
   type: "Book"
@@ -1293,7 +1307,7 @@
   author: "John Glassie"
   year: "2012"
   context: "Interesting Books from 2012"
-  contextlink: "interesting-books-2012#a-man-of-misconceptions-the-life-of-an-eccentric-in-an-age-of-change"
+  contextlink: "top-books-2021#a-man-of-misconceptions-the-life-of-an-eccentric-in-an-age-of-change"
   commentary: "A biography of Athanasius Kircher, a 17th century Jesuit priest that was somewhere between a boastful charlatan and an original, revolutionary thinker."
   tags: [History]
   type: "Book"
@@ -1302,8 +1316,8 @@
 - title: "Rationalizing Capitalist Democracy: The Cold War Origins of Rational Choice Liberalism"
   author: "S. M. Amadae"
   year: 2003
-  context: "Interesting Books from 2021"
-  contextlink: "interesting-books-2021#rationalizing-capitalist-democracy-the-cold-war-origins-of-rational-choice-liberalism"
+  context: "Interesting Books from 2003"
+  contextlink: "top-books-2021#rationalizing-capitalist-democracy-the-cold-war-origins-of-rational-choice-liberalism"
   commentary: "A critical history of rational choice theory and its applications. Amadae argues that rational choice theory is the intellectual underpinning behind American public policy i.e. what others loosely refer to as neoliberalism or the Washington consensus."
   tags: [Economics, Philosophy]
   type: "Book"
@@ -1378,7 +1392,7 @@
   context: "Interesting Articles from 2020"
   contextlink: "top-articles-2020#comments-on-economic-models-economics-and-economists-remarks-on-economics-rules-by-dani-rodrik"
   url: "https://doi.org/10.1257/jel.20161408"
-  commentary: "A review of Economics Rules by Dani Rodrik generally favorable to the book as it is written with non-economists in mind yet contains a substantive discussion of economic methodology."
+  commentary: "A review of Economics Rules by Dani Rodrik that's generally favorable since it is accessible to non-economists yet contains a substantive discussion of economic methodology."
   tags: [Economics, PhilSci]
   type: "Article"
   era: "2010s"
@@ -1438,7 +1452,7 @@
   year: 1932
   context: "Interesting Books from 2020"
   contextlink: "top-books-2020#the-history-of-phlogiston-theory"
-  commentary: "Argues against the typical story phlogiston being a stepping stone on the path to the modern theory of combustion."
+  commentary: "Argues against the typical story of phlogiston being a stepping stone on the path to the modern theory of combustion."
   tags: [PhilSci, History]
   type: "Book"
   era: "1930s"
@@ -1643,7 +1657,7 @@
   year: 1971
   context: "Interesting Books from 2019"
   contextlink: "top-books-2019#measure-and-category-a-survey-of-the-analogies-between-topological-and-measure-spaces"
-  commentary: "This slim monograph explores connections between concepts in measure theory and topology."
+  commentary: "This slim monograph explores connections between concepts in measure theory and topology such as what it means to be a small set."
   tags: [Mathematics]
   type: "Book"
   era: "1970s"
@@ -1689,7 +1703,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#the-trouble-with-psychological-darwinism"
   url: "https://www.lrb.co.uk/v20/n02/jerry-fodor/the-trouble-with-psychological-darwinism"
-  commentary: "Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind which holds that the mind functions from modular structures and is partly innate (or the structures are anyway)."
+  commentary: "Jerry Fodor reviews “How the Mind Works” by Stephen Pinker and “Evolution in Mind” by Henry Plotkin. These thinkers fall in line with the New Rationalism view of the mind, which holds that the mind functions from modular structures and is partly innate (or the structures are anyway)."
   tags: [Philosophy]
   type: "Article"
   era: "1990s"
@@ -1700,7 +1714,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#a-mathematicians-lament"
   url: "https://fermatslibrary.com/s/a-mathematicians-lament"
-  commentary: "This essay is an indictment of the modern K-12 math curriculum primarily because mathematics is presented as unmotivated, algorithmic drudgery by educators who have never done mathematics."
+  commentary: "An indictment of the modern K-12 math curriculum, which presents mathematics as unmotivated, algorithmic drudgery by educators who have never done mathematics."
   tags: [Mathematics]
   type: "Article"
   era: "2000s"
@@ -1736,7 +1750,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#understanding-deep-learning-requires-rethinking-generalization"
   url: "https://arxiv.org/abs/1611.03530"
-  commentary: "This paper finds that deep neural networks can easily fit random labels, challenging conventional wisdom about generalization and the role of regularization."
+  commentary: "Finds that deep neural networks can easily fit random labels, challenging conventional wisdom about generalization and the role of regularization."
   tags: [Machine Learning]
   type: "Article"
   era: "2010s"
@@ -1771,7 +1785,7 @@
   context: "Interesting Articles from 2018"
   contextlink: "top-articles-2018#learning-is-a-risky-business"
   url: "https://doi.org/10.1007/s10670-018-9972-0"
-  commentary: "This paper advances an argument against the principle of indifference by introducing time into the partitioning of the state space."
+  commentary: "Advances an argument against the principle of indifference by introducing time into the partitioning of the state space."
   tags: [Philosophy]
   type: "Article"
   era: "2010s"
@@ -1807,7 +1821,7 @@
   year: 1971
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#science-and-change-1500-to-1700"
-  commentary: "Argues that the story of science's emergence from the darkness during the Renaissance is an instance of revisionist history."
+  commentary: "Argues that the story of science's emergence from the darkness during the Renaissance is an instance of revisionist history. Three approaches developed simultaneously: the organic, the mystical, and the mechanistic."
   tags: [History, Philosophy]
   type: "Book"
   era: "1970s"
@@ -1817,7 +1831,7 @@
   year: 2017
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#attack-of-the-50-foot-blockchain"
-  commentary: "Discusses both the origins and prospects of Bitcoin and other cryptocurrencies and blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved."
+  commentary: "Discusses the origins and prospects of Bitcoin and other cryptocurrencies as well as blockchain as a product. Rather than being a dry, technical account of the software behind the scenes, Gerard focuses on the actual implementations and the ideologies of those involved."
   tags: [Crypto]
   type: "Book"
   era: "2010s"
@@ -1827,13 +1841,10 @@
   year: 2017
   context: "Interesting Books from 2018"
   contextlink: "top-books-2018#exact-thinking-in-demented-times"
-  commentary: "This book chronicles the Vienna Circle (or Wiener Kreis), a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna whose aim  was to orient philosophy on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy."
+  commentary: "Chronicles the Vienna Circle, a motley collection of mathematicians, philosophers, and scientists who regularly met in interwar Vienna whose aim was to orient philosophy on a scientific basis to reflect developments in mathematics, logic, and the natural sciences and expunge most of traditional metaphysics and moral philosophy."
   tags: [Philosophy, History]
   type: "Book"
   era: "2010s"
-
-
-
 
 # - title:
 #   author:
