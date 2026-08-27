@@ -1,3 +1,30 @@
+# - title:
+#   author:
+#   publication:
+#   year:
+#   context:
+#   contextlink:
+#   url:
+#   commentary:
+#   tags: []
+#   type:
+#   era:
+
+
+# Utterly Incomplete Look to Research from 1826
+
+- title: "Of Persons One Would Wish to Have Seen"
+  author: "William Hazlitt"
+  publication: "The New Monthly Magazine"
+  year: 1826
+  context: "Utterly Incomplete Look to Research from 1826"
+  contextlink: "research-from-1826#of-persons-one-would-wish-to-have-seen"
+  url: "http://www.blupete.com/Literature/Essays/Hazlitt/PersonsWishSeen.htm"
+  commentary: "Hazlitt asks an interesting question: if you could call forth from the dead and chat with any historical figure, who would you choose and what would you ask?"
+  tags: [Philosophy]
+  type: "Article"
+  era: "1820s"
+
 # Cultivating interests
 
 - title: "The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers"
@@ -81,17 +108,6 @@
   type: "Book"
   era: "2000s"
   image: "/images/blog/cultivating_interests/poker.jpeg"
-
-# - title:
-#   author:
-#   year:
-#   context: "Cultivating interests"
-#   contextlink: "cultivating-interests-and-some-of-my-favorite-books-from-undergrad#"
-#   commentary:
-#   tags: []
-#   type:
-#   era:
-
 
 # Interesting Articles from 2025
 
