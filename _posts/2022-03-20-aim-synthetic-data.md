@@ -9,7 +9,7 @@ I have a new paper out on arXiv with my colleagues at UMass Amherst (Ryan McKenn
 Abstract:
 > We propose AIM, a novel algorithm for differentially private synthetic data generation. AIM is a workload-adaptive algorithm, within the paradigm of algorithms that first selects a set of queries, then privately measures those queries, and finally generates synthetic data from the noisy measurements. It uses a set of innovative features to iteratively select the most useful measurements, reflecting both their relevance to the workload and their value in approximating the input data. We also provide analytic expressions to bound per-query error with high probability, which can be used to construct confidence intervals and inform users about the accuracy of generated data. We show empirically that AIM consistently outperforms a wide variety of existing mechanisms across a variety of experimental settings.
 
-The preprint is available [here](https://arxiv.org/abs/2201.12677).
+The preprint is available on [arXiv](https://arxiv.org/abs/2201.12677). This paper appeared at [VLDB 2022](https://vldb.org/2022/). 
 
 <figure style="display: block; margin-left: auto; margin-right: auto; width: 50%">
   <img src="https://media.nga.gov/iiif/5a14c7d2-7aea-4f1b-a1b9-dae2ae1298c5__640/full/!588,600/0/default.jpg">

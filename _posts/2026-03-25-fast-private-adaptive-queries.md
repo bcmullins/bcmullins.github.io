@@ -10,7 +10,7 @@ Abstract:
 >Privately releasing marginals of a tabular dataset is a foundational problem in differential privacy. However, state-of-the-art mechanisms suffer from a computational bottleneck when marginal estimates are reconstructed from noisy measurements. Recently, residual queries were introduced and shown to lead to highly efficient reconstruction in the batch query answering setting. We introduce new techniques to integrate residual queries into state-of-the-art adaptive mechanisms such as AIM. Our contributions include a novel conceptual framework for residual queries using multi-dimensional arrays, lazy updating strategies, and adaptive optimization of the per-round privacy budget allocation. Together these contributions reduce error, improve speed, and simplify residual query operations. We integrate these innovations into a new mechanism (AIM+GReM), which improves AIM by using fast residual-based reconstruction instead of a graphical model approach. Our mechanism is orders of magnitude faster than the original framework and demonstrates competitive error and greatly improved scalability.
 
 
-Click [here for the preprint](https://arxiv.org/abs/2602.05674). This paper will appear at AISTATS 2026.
+The preprint is available on [arXiv](https://arxiv.org/abs/2602.05674). This paper appeared at [AISTATS 2026](https://virtual.aistats.org/Conferences/2026).
 
 <figure style="display: block; margin-left: auto; margin-right: auto; width: 50%">
   <img src="/images/blog/fast-adaptive-private-queries/wunderwald.jpeg">
