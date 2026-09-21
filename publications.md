@@ -12,7 +12,7 @@ permalink: /publications/
         <em>{{ publication.title }}</em>
         <br/>
         {%- for author in publication.authors -%}
-            {%- if author == "Brett Mullins" -%}
+            {%- if author == "Brett Mullins" or author == "Brett Mullins*" -%}
                 <strong>{{ author -}}</strong>
             {%- else -%}
                 {{ author -}}
@@ -49,4 +49,6 @@ permalink: /publications/
   {% endfor %}
 </section>
 
-See my [CV]({{ site.baseurl }}/images/cv.pdf) for a full list of publications, including those prior to 2020
+*\* denotes equal contribution*
+
+See my [CV]({{ site.baseurl }}/images/cv.pdf) for a full list of publications, including those prior to 2020. 
