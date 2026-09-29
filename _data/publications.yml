@@ -1,3 +1,15 @@
+- title: Private Adaptive Covariance Estimation via Gaussian Graphical Models
+  authors:
+    - Cecilia Ferrando
+    - Miguel Fuentes
+    - Brett Mullins
+    - Cameron Musco
+    - Daniel Sheldon
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2026
+  link: https://arxiv.org/abs/2605.24295
+  summary: private-adaptive-covariance-estimation
+
 - title: Fast Private Adaptive Query Answering for Large Data Domains
   authors:
     - Miguel Fuentes*
