@@ -10,7 +10,7 @@ Abstract:
 >We propose PACE-GGM, a data-adaptive differentially private method for covariance estimation that concentrates its privacy budget on the most informative entries of the empirical covariance matrix, rather than perturbing all entries. This applies in the natural setting where the modeler supplies separate bounds for each variable, so that individual entries can be measured with less noise than the full matrix. In each round, our method selects a poorly approximated entry, measures it using the Gaussian mechanism, and then reconstructs a full covariance matrix using a maximum-entropy reconstruction objective, leading to a Gaussian graphical model structure. Experiments on diverse real-world datasets demonstrate consistent improvements in estimation error with respect to the Gaussian mechanism and other baselines, particularly in high-dimensional and low-to-moderate privacy regimes. 
 
 
-The preprint is available on [arXiv](https://arxiv.org/abs/2605.24295). 
+The preprint is available on [arXiv](https://arxiv.org/abs/2605.24295). This paper will appear at [NeurIPS 2026](https://nips.cc/Conferences/2026).
 
 <figure style="display: block; margin-left: auto; margin-right: auto; width: 50%">
   <img src="/images/blog/fast-adaptive-private-queries/wunderwald.jpeg">
