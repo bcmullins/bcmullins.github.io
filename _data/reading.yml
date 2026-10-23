@@ -10,6 +10,19 @@
 #   type:
 #   era:
 
+# Mind at 150
+
+- title: "Philosophy at Oxford"
+  author: "Mark Pattison"
+  publication: "Mind"
+  year: 1876
+  context: "Mind at 150: A Look Back at the First Issue"
+  contextlink: "mind-150#philosophy-at-oxford"
+  url: "https://www.jstor.org/stable/2246859"
+  commentary: "A look at the depressed state of Philosophy at Oxford in the nineteenth century from the first issue of Mind."
+  tags: [Philosophy]
+  type: "Article"
+  era: "1870s"
 
 # Utterly Incomplete Look to Research from 1826
 
