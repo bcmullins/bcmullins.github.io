@@ -1,3 +1,14 @@
+- title: "PRIME: A Modular Approach for Private Synthetic Data"
+  authors:
+    - Miguel Fuentes
+    - Brett Mullins
+    - Cecilia Ferrando
+    - Cameron Musco
+    - Daniel Sheldon
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2026
+  link: https://neurips.cc/virtual/2026/loc/sydney/poster/153567
+
 - title: Private Adaptive Covariance Estimation via Gaussian Graphical Models
   authors:
     - Cecilia Ferrando
