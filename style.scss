@@ -339,6 +339,46 @@ footer {
 	margin-bottom: 6px;
 }
 
+.home-intro {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 30px;
+  align-items: start;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
+
+.home-intro-contact img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.student-opportunities {
+  margin: 2em 0;
+  padding: 1.25em 1.5em;
+  border: 1px solid #f0d2bd;
+  border-left: 5px solid $blue;
+  border-radius: 6px;
+  background: #fff8f3;
+
+  h2 {
+    margin-top: 0;
+    color: $blue;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  @include mobile {
+    padding: 1em;
+  }
+}
+
 /* Grid overrides */
 .col-sm-4 {
 	padding-left: 26px;
